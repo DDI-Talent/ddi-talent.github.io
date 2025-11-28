@@ -1,0 +1,15 @@
+{
+  "hash": "d8ab91096a86983bb82bf67685d3a5ec",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ninclude-in-header: \"_includes/fontawesome-2up.html\"\nknitr:\n  opts_chunk: \n    collapse: true\nexecute: \n  echo: false\n---\n\n# [We'd love to hear from you!]{.primary}\n\nTODO\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
