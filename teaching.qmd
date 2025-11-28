@@ -1,7 +1,7 @@
 ---
-#title: "people"
+#title: "teaching"
 listing:
-  contents: people
+  contents: teaching
   sort: "date desc"
   type: default
   categories: true
@@ -18,4 +18,4 @@ execute:
   echo: false
 ---
 
-# [PEOPLE]{.second-color}
+# [TEACHING]{.second-color}
