@@ -2,34 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ddi-talent.github.io/resources.html</loc>
-    <lastmod>2025-11-28T17:51:49.466Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ddi-talent.github.io/people/brittany-blankinship/index.html</loc>
-    <lastmod>2025-11-28T17:51:49.465Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ddi-talent.github.io/README_DEV.html</loc>
-    <lastmod>2025-11-28T17:51:49.426Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ddi-talent.github.io/contact.html</loc>
-    <lastmod>2025-11-28T17:51:49.463Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ddi-talent.github.io/index.html</loc>
-    <lastmod>2025-11-28T17:51:49.465Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ddi-talent.github.io/resources/pair-programming-community/index.html</loc>
-    <lastmod>2025-11-28T17:51:49.466Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ddi-talent.github.io/about.html</loc>
-    <lastmod>2025-11-28T17:51:49.463Z</lastmod>
+    <lastmod>2025-11-28T18:01:05.581Z</lastmod>
   </url>
   <url>
     <loc>https://ddi-talent.github.io/people.html</loc>
-    <lastmod>2025-11-28T17:51:49.465Z</lastmod>
+    <lastmod>2025-11-28T18:01:05.580Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ddi-talent.github.io/about.html</loc>
+    <lastmod>2025-11-28T18:01:05.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ddi-talent.github.io/resources/pair-programming-community/index.html</loc>
+    <lastmod>2025-11-28T18:01:05.581Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ddi-talent.github.io/contact.html</loc>
+    <lastmod>2025-11-28T18:01:05.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ddi-talent.github.io/index.html</loc>
+    <lastmod>2025-11-28T18:01:05.580Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ddi-talent.github.io/teaching.html</loc>
+    <lastmod>2025-11-28T18:01:05.581Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ddi-talent.github.io/README_DEV.html</loc>
+    <lastmod>2025-11-28T18:01:05.542Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ddi-talent.github.io/people/brittany-blankinship/index.html</loc>
+    <lastmod>2025-11-28T18:01:05.580Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ddi-talent.github.io/teaching/msc-data-science/index.html</loc>
+    <lastmod>2025-11-28T18:01:05.581Z</lastmod>
   </url>
 </urlset>

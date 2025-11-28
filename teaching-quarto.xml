@@ -6,17 +6,17 @@
       version="2.0">
 <channel>
 <title>DDI Talent Team</title>
-<link>https://ddi-talent.github.io/resources.html#category=R</link>
-<atom:link href="https://ddi-talent.github.io/resources-r.xml" rel="self" type="application/rss+xml"/>
+<link>https://ddi-talent.github.io/teaching.html#category=Quarto</link>
+<atom:link href="https://ddi-talent.github.io/teaching-quarto.xml" rel="self" type="application/rss+xml"/>
 <description>Team website, portfolio and blog [TODO]</description>
 <image>
 <url>https://ddi-talent.github.io/images/logo.png</url>
 <title>DDI Talent Team</title>
-<link>https://ddi-talent.github.io/resources.html#category=R</link>
+<link>https://ddi-talent.github.io/teaching.html#category=Quarto</link>
 <height>144</height>
 <width>144</width>
 </image>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Fri, 28 Nov 2025 18:03:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 18:02:53 GMT</lastBuildDate>
 </channel>
 </rss>
