@@ -1,3 +1,5 @@
+#note: only once, before first time repo is deployed, create a branch called: gh-pages. TODO: is there an easy and safe way to just make it part of this pipeline?
+
 on:
   workflow_dispatch:
   push:
