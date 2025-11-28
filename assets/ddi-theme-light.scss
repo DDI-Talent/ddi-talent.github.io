@@ -447,19 +447,19 @@ iframe.slide-deck {
 }
 
 // for cards on home page
-#card-first-color {
+.card-first-color {
   background-color: $body-bg;
   border: 4px solid $primary;
   border-radius: 5px; 
 }
 
-#card-second-color {
+.card-second-color {
   background-color: $body-bg;
   border: 4px solid $second-color;
   border-radius: 5px; 
 }
 
-#card-third-color {
+.card-third-color {
   background-color: $body-bg;
   border: 4px solid $third-color;
   border-radius: 5px; 

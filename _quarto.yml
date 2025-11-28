@@ -20,12 +20,12 @@ website:
     right:
       - text: about
         href: about.qmd
-      # - text: people
-      #   href: people.qmd
+      - text: people
+        href: people.qmd
       - text: resources
         href: resources.qmd
-      # - text: teaching
-      #   href: teaching.qmd
+      - text: teaching
+        href: teaching.qmd
       - text: contact
         href: contact.qmd
       #- icon: uni-website[TODO?]
