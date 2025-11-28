@@ -29,7 +29,7 @@ draft: false
 
 <!--------------- set up ----------------->
 
-```{r}
+```{r block1}
 #| echo: false
 #| results: 'hide'
 
