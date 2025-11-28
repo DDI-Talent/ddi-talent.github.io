@@ -156,16 +156,6 @@
       ],
       "Hash": "5899f1eaa825580172bb56c08266f37c"
     },
-    "here": {
-      "Package": "here",
-      "Version": "1.0.2",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Requirements": [
-        "rprojroot"
-      ],
-      "Hash": "e5114f2abe04168238181913a8572358"
-    },
     "highr": {
       "Package": "highr",
       "Version": "0.11",
@@ -365,16 +355,6 @@
         "yaml"
       ],
       "Hash": "efe19db0fde0fff13cea7eec6f695021"
-    },
-    "rprojroot": {
-      "Package": "rprojroot",
-      "Version": "2.1.1",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Requirements": [
-        "R"
-      ],
-      "Hash": "b2453de2d29aa646afe4781defdc7903"
     },
     "sass": {
       "Package": "sass",

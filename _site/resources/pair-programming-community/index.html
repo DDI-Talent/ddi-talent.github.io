@@ -316,8 +316,16 @@ gtag('config', '[TODO]MG-7G8FLLRS4M[TODO]', { 'anonymize_ip': true});
 <span class="menu-text">about</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../people.html"> 
+<span class="menu-text">people</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../resources.html"> 
 <span class="menu-text">resources</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../teaching.html"> 
+<span class="menu-text">teaching</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../contact.html"> 
@@ -922,7 +930,7 @@ TODO. n.d. <span>“Post Title.”</span> <a href="https://ddi-talent.github.io/
 <span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a><span class="co"># </span><span class="al">NOTE</span><span class="co">: after finishing post, run renv::snapshot() and copy the renv.lock file </span></span>
 <span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a><span class="co"># from the project root into the post directory</span></span>
 <span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>renv<span class="sc">::</span><span class="fu">snapshot</span>()</span>
-<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>?<span class="fu">file.copy</span>(<span class="st">"../../renv.lock"</span>, <span class="st">"renv.lock"</span>, <span class="at">overwrite =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a><span class="fu">file.copy</span>(<span class="st">"../../renv.lock"</span>, <span class="st">"renv.lock"</span>, <span class="at">overwrite =</span> <span class="cn">TRUE</span>)</span>
 <span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>renv<span class="sc">::</span><span class="fu">use</span>(<span class="at">lockfile =</span> <span class="st">"renv.lock"</span>)</span>
 <span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
