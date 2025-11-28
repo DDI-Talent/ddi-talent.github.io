@@ -4,5 +4,11 @@
     "items": [
       "/resources/pair-programming-community/index.html"
     ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/brittany-blankinship/index.html"
+    ]
   }
 ]
