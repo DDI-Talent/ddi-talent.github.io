@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "We’d love to hear from you!",
+    "section": "",
+    "text": "We’d love to hear from you!\nTODO"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "RESOURCES",
+    "section": "",
+    "text": "RESOURCES\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost Title\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\n\n\nInvalid Date\n\n\nTODO\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources/pair-programming-community/index.html",
+    "href": "resources/pair-programming-community/index.html",
+    "title": "Post Title",
+    "section": "",
+    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0CitationBibTeX citation:@online{untitled,\n  author = {, TODO},\n  title = {Post {Title}},\n  date = {},\n  url = {https://ddi-talent.github.io/resources/pair-programming-community/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nTODO. n.d. “Post Title.” https://ddi-talent.github.io/resources/pair-programming-community/."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "DDI Talent Team",
+    "section": "",
+    "text": "TODO, some description with links to about, people, resources, teaching\nTODO: interesting way to include link? in R:\nr icon_link(   icon = \"globe\",   text = \"website\",   url = \"https://www.pairprogramming.ed.ac.uk\" )"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DDI Talent Team",
+    "section": "",
+    "text": "Hello and welcome!\n\n\n\n\n\nAbout me, my interests and experience, and my work as a Research Software Engineer.\n\n\nABOUT\n\n\n\n\n\n\n\n\nI sometimes write about what I’m doing and learning, mostly about  and building websites.\n\n\nPOSTS\n\n\n\n\n\n\n\n\nSlides and resources from talks I’ve given at R and RLadies user groups and conferences.\n\n\nTALKS\n\n\n\n\n\n\n\n\nI develop R packages. Here are links to their repos, websites and any other resources.\n\n\nPACKAGES\n\n\n\n\n\n\n\n\nI love the R community! Here’s how to get involved, and groups I help organise or contribute to.\n\n\nCOMMUNITY\n\n\n\n\n\n\n\n\nWhere to find me online and how to get in touch. I’d love to hear from you!\n\n\nCONTACT"
+  }
+]

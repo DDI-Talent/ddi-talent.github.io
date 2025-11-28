@@ -1,0 +1,63 @@
+project:
+  type: website
+  resources:
+    - "_redirects"
+    - "images"
+    
+execute:
+  freeze: auto
+
+website:
+  title: "DDI Talent Team"
+  site-url: https://ddi-talent.github.io/
+  description: Team website, portfolio and blog [TODO]
+  repo-url: https://github.com/DDI-Talent/ddi-talent.github.io
+  #repo-actions: issue
+  image: images/logo.png
+  navbar:
+    #logo: someicon-logo-light.png[TODO]
+    title: "DDI<span class='icon-line'></span>TALENT"
+    right:
+      - text: about
+        href: about.qmd
+      # - text: people
+      #   href: people.qmd
+      - text: resources
+        href: resources.qmd
+      # - text: teaching
+      #   href: teaching.qmd
+      - text: contact
+        href: contact.qmd
+      #- icon: uni-website[TODO?]
+      #  href: https://github.com/DDI-Talent/
+      - icon: github
+        href: https://github.com/DDI-Talent/
+  favicon: images/favicon.png
+  open-graph: 
+    #description: TODO: share card text
+    image: images/logo.png
+    image-alt: |
+     alt image of logo
+     can have many lines
+    image-width: 500
+    image-height: 500
+    locale: en-GB
+  google-analytics:
+    tracking-id: "[TODO]MG-7G8FLLRS4M[TODO]"
+    anonymize-ip: true
+
+format:
+  html:
+    theme: 
+      light: assets/ddi-theme-light.scss
+      dark: assets/ddi-theme-dark.scss
+    css: assets/ddi-styles.css
+    code-block-border-left: true
+    highlight-style: 
+      light: assets/ddi-light.theme
+      dark: assets/ddi-dark.theme
+    smooth-scroll: true
+    link-external-newwindow: true
+    
+editor: source
+
