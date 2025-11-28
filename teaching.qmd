@@ -1,5 +1,5 @@
 ---
-title: "teaching"
+# title: "teaching"
 listing:
   contents: teaching
   sort: "date desc"
@@ -18,4 +18,4 @@ execute:
   echo: false
 ---
 
-[TEACHING]{.second-color}
+# [TEACHING]{.second-color}
