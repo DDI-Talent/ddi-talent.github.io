@@ -9,9 +9,9 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "",
+    "title": "RESOURCES",
     "section": "",
-    "text": "Code\n\n\n\n\n\n\nRESOURCES\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost Title\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\n\n\nInvalid Date\n\n\nTODO\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0CitationBibTeX citation:@online{untitled,\n  author = {},\n  url = {https://ddi-talent.github.io/resources.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nn.d. https://ddi-talent.github.io/resources.html."
+    "text": "RESOURCES\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost Title\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\nInvalid Date\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0CitationBibTeX citation:@online{untitled,\n  author = {},\n  url = {https://ddi-talent.github.io/resources.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nn.d. https://ddi-talent.github.io/resources.html."
   },
   {
     "objectID": "resources/pair-programming-community/index.html",
@@ -23,15 +23,43 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "",
+    "title": "DDI Talent Team",
     "section": "",
-    "text": "Code\n\n\n\n\n\n\n\n\n\n\nTODO, some description with links to about, people, resources, teaching\nTODO: interesting way to include link? in R:\nr icon_link(   icon = \"globe\",   text = \"website\",   url = \"https://www.pairprogramming.ed.ac.uk\" )\n\n\n\n\n\nReuseCC BY-SA 4.0CitationBibTeX citation:@online{untitled,\n  author = {},\n  url = {https://ddi-talent.github.io/about.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nn.d. https://ddi-talent.github.io/about.html."
+    "text": "TODO, some description with links to about, people, resources, teaching\nTODO: interesting way to include link? in R:\nr icon_link(   icon = \"globe\",   text = \"website\",   url = \"https://www.pairprogramming.ed.ac.uk\" )\n\n\n\nReuseCC BY-SA 4.0CitationBibTeX citation:@online{untitled,\n  author = {},\n  url = {https://ddi-talent.github.io/about.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nn.d. https://ddi-talent.github.io/about.html."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "DDI Talent Team",
     "section": "",
-    "text": "Code\n\n\n\n\n\n\n\nHey hey there!\n\n\n\n\n\nAbout us [TODO]\n\n\nABOUT\n\n\n\n\n\n\n\n\nResources we created and/or love [TODO]\n\n\nRESOURCES\n\n\n\n\n\n\n\n\nOur team and contributors [TODO]\n\n\nPEOPLE\n\n\n\n\n\n\n\n\nCourses and programs we run and contribute towards [TODO]\n\n\nTEACHING\n\n\n\n\n\n\n\n\nGet in touch and find us on socials [TODO]\n\n\nCONTACT\n\n\n\n\n\n\n\n\n\n\nReuseCC BY-SA 4.0CitationBibTeX citation:@online{untitled,\n  author = {},\n  url = {https://ddi-talent.github.io/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nn.d. https://ddi-talent.github.io/."
+    "text": "Hey hey there!\n\n\n\n\n\nAbout us [TODO]\n\n\nABOUT\n\n\n\n\n\n\n\n\nResources we created and/or love [TODO]\n\n\nRESOURCES\n\n\n\n\n\n\n\n\nOur team and contributors [TODO]\n\n\nPEOPLE\n\n\n\n\n\n\n\n\nCourses and programs we run and contribute towards [TODO]\n\n\nTEACHING\n\n\n\n\n\n\n\n\nGet in touch and find us on socials [TODO]\n\n\nCONTACT\n\n\n\n\n\n\n\n\nReuseCC BY-SA 4.0CitationBibTeX citation:@online{untitled,\n  author = {},\n  url = {https://ddi-talent.github.io/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nn.d. https://ddi-talent.github.io/."
+  },
+  {
+    "objectID": "people/brittany-blankinship/index.html",
+    "href": "people/brittany-blankinship/index.html",
+    "title": "About Brittany Blankinship TODO",
+    "section": "",
+    "text": "TODO: hello world\n\n\nSession info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0CitationBibTeX citation:@online{untitled,\n  author = {, TODO},\n  title = {About {Brittany} {Blankinship} {TODO}},\n  url = {https://ddi-talent.github.io/people/brittany-blankinship/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nTODO. n.d. “About Brittany Blankinship TODO.” https://ddi-talent.github.io/people/brittany-blankinship/."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "PEOPLE",
+    "section": "",
+    "text": "PEOPLE\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Brittany Blankinship TODO\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0CitationBibTeX citation:@online{untitled,\n  author = {},\n  url = {https://ddi-talent.github.io/people.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nn.d. https://ddi-talent.github.io/people.html."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "TEACHING",
+    "section": "",
+    "text": "TEACHING\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\ncourse-format\n\n\n\n\n\n\n\n\n\n\n\nPost Title MSc\n\n\nPG, UG, short-course\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0CitationBibTeX citation:@online{untitled,\n  author = {},\n  url = {https://ddi-talent.github.io/teaching.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nn.d. https://ddi-talent.github.io/teaching.html."
+  },
+  {
+    "objectID": "teaching/msc-data-science/index.html",
+    "href": "teaching/msc-data-science/index.html",
+    "title": "Post Title MSc",
+    "section": "",
+    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0CitationBibTeX citation:@online{untitled,\n  author = {, TODO},\n  title = {Post {Title} {MSc}},\n  date = {},\n  url = {https://ddi-talent.github.io/teaching/msc-data-science/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nTODO. n.d. “Post Title MSc.” https://ddi-talent.github.io/teaching/msc-data-science/."
   }
 ]

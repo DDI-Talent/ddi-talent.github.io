@@ -4,5 +4,17 @@
     "items": [
       "/resources/pair-programming-community/index.html"
     ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/brittany-blankinship/index.html"
+    ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/msc-data-science/index.html"
+    ]
   }
 ]

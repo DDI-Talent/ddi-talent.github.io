@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>resources – DDI Talent Team</title>
+<title>teaching – DDI Talent Team</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -84,9 +84,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-course-format',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -145,7 +145,7 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="assets/ddi-styles.css">
-<link rel="alternate" type="application/rss+xml" title="DDI Talent Team" href="resources.xml" data-external="1"><meta property="og:title" content="DDI Talent Team">
+<link rel="alternate" type="application/rss+xml" title="DDI Talent Team" href="teaching.xml" data-external="1"><meta property="og:title" content="DDI Talent Team">
 <meta property="og:image" content="https://ddi-talent.github.io/images/logo.png">
 <meta property="og:site_name" content="DDI Talent Team">
 <meta property="og:image:height" content="500">
@@ -340,11 +340,11 @@ window.Quarto = {
 <span class="menu-text">people</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./resources.html" aria-current="page"> 
+    <a class="nav-link" href="./resources.html"> 
 <span class="menu-text">resources</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link active" href="./teaching.html" aria-current="page"> 
 <span class="menu-text">teaching</span></a>
   </li>  
   <li class="nav-item">
@@ -373,10 +373,10 @@ window.Quarto = {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#resources" id="toc-resources" class="nav-link active" data-scroll-target="#resources"><span class="second-color">RESOURCES</span></a></li>
+  <li><a href="#teaching" id="toc-teaching" class="nav-link active" data-scroll-target="#teaching"><span class="second-color">TEACHING</span></a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VEFHXzE=">TAG_1 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VEFHXzI=">TAG_2 <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGFnMQ==">tag1 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGFnMg==">tag2 <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
@@ -384,53 +384,74 @@ window.Quarto = {
 
 
 
-<section id="resources" class="level1">
-<h1><span class="second-color">RESOURCES</span></h1>
+<section id="teaching" class="level1">
+<h1><span class="second-color">TEACHING</span></h1>
 
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="VEFHXzElMkNUQUdfMg==" data-listing-date-sort="NaN" data-listing-file-modified-sort="1764344588251" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="115">
-<a href="./resources/pair-programming-community/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Post Title
-</h5>
-<div class="listing-categories">
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table table-striped table-hover">
+<thead>
+<tr>
 
-<div class="listing-category" onclick="window.quartoListingCategory('VEFHXzE='); return false;">TAG_1</div>
+<th>
+ 
+</th>
 
-<div class="listing-category" onclick="window.quartoListingCategory('VEFHXzI='); return false;">TAG_2</div>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
 
-</div>
-<div class="card-text listing-description delink">
-<p>Post description TODO</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-TODO
-</div>
-<div class="listing-date">
-Invalid Date
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
+<th>
+course-format
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-categories="dGFnMSUyQ3RhZzI=" data-listing-date-sort="NaN" data-listing-file-modified-sort="1764373533518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="115" data-listing-title-sort="Post Title MSc" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td>
+<span class="listing-image"><div class="listing-item-img-placeholder card-img-top" style="height: 40px;">&nbsp;</div></span>
+</td>
+<td>
+<a href="./teaching/msc-data-science/index.html" class="title listing-title">Post Title MSc</a>
+</td>
+<td>
+<span class="listing-course-format">PG, UG, short-course</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
 <div class="listing-no-matching d-none">No matching items</div>
 </div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{untitled,
   author = {},
-  url = {https://ddi-talent.github.io/resources.html},
+  url = {https://ddi-talent.github.io/teaching.html},
   langid = {en}
 }
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-untitled" class="csl-entry quarto-appendix-citeas" role="listitem">
-n.d. <a href="https://ddi-talent.github.io/resources.html">https://ddi-talent.github.io/resources.html</a>.
+n.d. <a href="https://ddi-talent.github.io/teaching.html">https://ddi-talent.github.io/teaching.html</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {

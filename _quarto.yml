@@ -16,7 +16,7 @@ website:
   image: images/logo.png
   navbar:
     #logo: someicon-logo-light.png[TODO]
-    title: "DDI<span class='icon-line'></span>TALENT"
+    title: "<span class='icon-line'></span>DDI<span class='icon-line'></span>TALENT<span class='icon-line'></span>"
     right:
       - text: about
         href: about.qmd
@@ -43,7 +43,7 @@ website:
     image-height: 500
     locale: en-GB
   google-analytics:
-    tracking-id: "[TODO]MG-7G8FLLRS4M[TODO]"
+    tracking-id: "[TODO]aa-7G8FLLRS4M[TODO]"
     anonymize-ip: true
 
 format:
@@ -52,12 +52,11 @@ format:
       light: assets/ddi-theme-light.scss
       dark: assets/ddi-theme-dark.scss
     css: assets/ddi-styles.css
-    code-block-border-left: true
     highlight-style: 
       light: assets/ddi-light.theme
       dark: assets/ddi-dark.theme
     smooth-scroll: true
     link-external-newwindow: true
     
-editor: source
+# editor: source
 
