@@ -1,8 +1,8 @@
 {
-  "hash": "a0a1d799ec2f7b34881f07549ac172b3",
+  "hash": "c8af8d2e23de48bf3c6aea1dbb638b77",
   "result": {
     "engine": "knitr",
-    "markdown": "---\n#title: \"resources\"\nlisting:\n  contents: resources\n  sort: \"date desc\"\n  type: default\n  categories: true\n  sort-ui: false\n  filter-ui: false\n  feed: \n    categories: [R, Quarto]\npage-layout: full\ntitle-block-banner: false\nknitr:\n  opts_chunk: \n    collapse: true\nexecute: \n  echo: false\n---\n\n# [RESOURCES]{.second-color}",
+    "markdown": "---\n#title: \"resources\"\nlisting:\n  contents: resources\n  sort: \"date desc\"\n  type: grid\n  categories: true\n  sort-ui: false\n  filter-ui: false\n  feed: \n    categories: [R, Quarto]\npage-layout: full\ntitle-block-banner: false\nknitr:\n  opts_chunk: \n    collapse: true\nexecute: \n  echo: false\n---\n\n# [RESOURCES]{.second-color}",
     "supporting": [
       "resources_files"
     ],

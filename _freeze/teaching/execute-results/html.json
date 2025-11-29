@@ -1,0 +1,17 @@
+{
+  "hash": "d435e8ec651195fab6dd6b25193bda7d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\n#title: \"teaching\"\nlisting:\n  contents: teaching\n  sort: \"date desc\"\n  type: table\n  table-striped: true\n  table-hover: true\n  fields: [image, title, course-format]\n  categories: true\n  sort-ui: true\n  filter-ui: true\n  feed: \n    categories: [R, Quarto]\npage-layout: full\ntitle-block-banner: false\nknitr:\n  opts_chunk: \n    collapse: true\nexecute: \n  echo: false\n---\n\n# [TEACHING]{.second-color}",
+    "supporting": [
+      "teaching_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

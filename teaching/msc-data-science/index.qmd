@@ -8,7 +8,8 @@ author:
 site-url: TODO
 #image: IMAGE.png
 #image-alt: |
-categories: [TAG_1, TAG_2]
+categories: [tag1, tag2]
+course-format: [PG, UG, short-course]
 open-graph: true
 twitter-card: true
 # will inherit title, description, image

@@ -3,10 +3,13 @@
 listing:
   contents: teaching
   sort: "date desc"
-  type: default
+  type: table
+  table-striped: true
+  table-hover: true
+  fields: [image, title, course-format]
   categories: true
-  sort-ui: false
-  filter-ui: false
+  sort-ui: true
+  filter-ui: true
   feed: 
     categories: [R, Quarto]
 page-layout: full

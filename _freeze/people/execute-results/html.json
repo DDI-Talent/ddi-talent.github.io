@@ -1,0 +1,17 @@
+{
+  "hash": "36f5690be586193ea8727b62ed76ed74",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\n#title: \"people\"\nlisting:\n  contents: people\n  sort: \"date desc\"\n  type: grid\n  categories: true\n  sort-ui: false\n  filter-ui: false\n  feed: \n    categories: [R, Quarto]\npage-layout: full\ntitle-block-banner: false\nknitr:\n  opts_chunk: \n    collapse: true\nexecute: \n  echo: false\n---\n\n# [PEOPLE]{.second-color}",
+    "supporting": [
+      "people_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
