@@ -17,7 +17,50 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Sat, 29 Nov 2025 22:58:33 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 00:02:48 GMT</lastBuildDate>
+<item>
+  <title>Post Title Kasia</title>
+  <dc:creator>TODO </dc:creator>
+  <link>https://ddi-talent.github.io/people/kasia_banas/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<!--------------- set up ----------------->
+<!--------------- post content ----------------->
+<!--------------- appendices go here ----------------->
+<p>TODO: hello world Kasia</p>
+
+
+<div id="quarto-appendix" class="default"><section id="session-info" class="level5 appendix"><h2 class="anchored quarto-appendix-heading">Session info</h2><div class="quarto-appendix-contents">
+
+<details>
+<summary>
+Toggle
+</summary>
+<p>Kasia</p>
+</details>
+
+
+<!-- -->
+
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{untitled,
+  author = {, TODO},
+  title = {Post {Title} {Kasia}},
+  url = {https://ddi-talent.github.io/people/kasia_banas/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-untitled" class="csl-entry quarto-appendix-citeas">
+TODO. n.d. <span>“Post Title Kasia.”</span> <a href="https://ddi-talent.github.io/people/kasia_banas/">https://ddi-talent.github.io/people/kasia_banas/</a>.
+</div></div></section></div> ]]></description>
+  <category>TAG_1</category>
+  <category>TAG_2</category>
+  <guid>https://ddi-talent.github.io/people/kasia_banas/</guid>
+  <pubDate>Sun, 30 Nov 2025 00:02:48 GMT</pubDate>
+</item>
 <item>
   <title>About Brittany Blankinship TODO</title>
   <dc:creator>TODO </dc:creator>
@@ -58,7 +101,7 @@ TODO. n.d. <span>“About Brittany Blankinship TODO.”</span> <a href="https://
   <category>TAG_1</category>
   <category>TAG_2</category>
   <guid>https://ddi-talent.github.io/people/brittany-blankinship/</guid>
-  <pubDate>Sat, 29 Nov 2025 22:58:33 GMT</pubDate>
+  <pubDate>Sun, 30 Nov 2025 00:02:48 GMT</pubDate>
 </item>
 </channel>
 </rss>
