@@ -50,7 +50,8 @@ rsconnect/
 
 /.quarto/
 
-site/*
+_site/*
+*files/*
 
 # os files
 */.DS_Store
