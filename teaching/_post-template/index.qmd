@@ -45,15 +45,7 @@ renv::use(lockfile = "renv.lock")
 
 <!--------------- appendices go here ----------------->
 
-```{r appendix}
-#| echo: false
 
-# source("../../R/appendix.R")
-# insert_appendix(
-#   repo_spec = "EllaKaye/ellakaye.co.uk", 
-#   name = long_slug
-# )
-```
 
 TODO: hello world
 
