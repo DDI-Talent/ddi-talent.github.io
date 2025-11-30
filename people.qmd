@@ -11,9 +11,9 @@ listing:
     categories: [R, Quarto]
 page-layout: full
 title-block-banner: false
-knitr:
-  opts_chunk: 
-    collapse: true
+# knitr:
+#   opts_chunk: 
+#     collapse: true
 execute: 
   echo: false
 ---
