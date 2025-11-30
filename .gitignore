@@ -52,6 +52,7 @@ rsconnect/
 
 _site/*
 *files/*
+_freeze/*
 
 # os files
 */.DS_Store
