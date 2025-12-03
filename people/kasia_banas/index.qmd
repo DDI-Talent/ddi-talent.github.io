@@ -40,7 +40,7 @@ long_slug <- "dr-kasia-banas"
 file.copy("../../renv.lock", "renv.lock", overwrite = TRUE)
 renv::use(lockfile = "renv.lock")
 ```
-
+ 
 <!--------------- post content ----------------->
 
 <!--------------- appendices go here ----------------->
