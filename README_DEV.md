@@ -7,13 +7,14 @@ When you start to work on this:
 install.packages('renv')
 renv::restore()
 
+//but probably you do just this
+renv::rebuild()
+
 
 //only first time (try first without this)
 renv::init() 
 then pick 'reactivate (2)'
 
-//but probably you do just this
-renv::rebuild()
 
 //?renv::activate()
 
