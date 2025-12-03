@@ -4,6 +4,7 @@ When you start to work on this:
 
 
 // if you're just joining the project, try
+install.packages('renv')
 renv::restore()
 
 
