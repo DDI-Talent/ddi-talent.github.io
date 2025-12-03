@@ -2,10 +2,10 @@ When you start to work on this:
 
 - in console run: 
 
-
 // if you're just joining the project, try
 install.packages('renv')
 renv::restore()
+
 
 //but probably you do just this
 renv::rebuild()
