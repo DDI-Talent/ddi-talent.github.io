@@ -17,5 +17,5 @@ title-block-banner: false
 execute: 
   echo: false
 ---
-
+ 
 # [PEOPLE]{.second-color}
