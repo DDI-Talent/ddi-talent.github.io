@@ -25,7 +25,7 @@
     "href": "README_DEV.html",
     "title": "DDI Talent Team",
     "section": "",
-    "text": "When you start to work on this:\n\nin console run:\n\n// if you’re just joining the project, try renv::restore()\n//only first time (try first without this) renv::init() then pick ‘reactivate (2)’\n//but probably you do just this renv::rebuild()\n//?renv::activate()\n\nthen in R studio use the button Render.\n\n\n\n\nReuseCC BY-SA 4.0"
+    "text": "When you start to work on this:\n\nin console run:\n\n// if you’re just joining the project, try install.packages(‘renv’) renv::restore()\n//but probably you do just this renv::rebuild()\n//only first time (try first without this) renv::init() then pick ‘reactivate (2)’\n//?renv::activate()\n\nthen in R studio use the button Render.\n\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
     "objectID": "teaching.html",
