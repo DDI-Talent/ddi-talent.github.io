@@ -10,18 +10,13 @@ renv::restore()
 
 # (if you added new libraries) this will create a new record which can be restored. Choose 2: Install the packages, then snapshot.
 renv::snapshot()
-
-
-//but probably you do just this
+# of if drama:
 renv::rebuild()
 
 
-//only first time (try first without this)
+# only first time (try first without this). then pick 'reactivate (2)'
 renv::init() 
-then pick 'reactivate (2)'
 
-
-//?renv::activate()
 
 - then in R studio use the button Render.
 
