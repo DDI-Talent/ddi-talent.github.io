@@ -38,6 +38,7 @@ long_slug <- "FILL THIS IN"
 # NOTE: after finishing post, run renv::snapshot() and copy the renv.lock file 
 # from the project root into the post directory
 # renv::use(lockfile = "renv.lock")
+
 ```
 
 <!--------------- post content ----------------->
@@ -46,14 +47,9 @@ long_slug <- "FILL THIS IN"
 ```{r appendix}
 #| echo: false
 
+```
+
 TODO: hello world
-
-##### Session info {.appendix}
-
-<details><summary>Toggle</summary>
-Test text
-</details>
-
 
 
 

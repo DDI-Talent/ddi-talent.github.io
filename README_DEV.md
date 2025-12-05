@@ -4,7 +4,13 @@ When you start to work on this:
 
 // if you're just joining the project, try
 install.packages('renv')
+
+# this will restore libraries
 renv::restore()
+
+# this will create a new record which can be restored. Choose 2: Install the packages, then snapshot.
+renv::snapshot()
+
 
 
 //but probably you do just this
