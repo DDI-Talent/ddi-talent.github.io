@@ -37,9 +37,9 @@ long_slug <- "FILL THIS IN"
 
 # NOTE: after finishing post, run renv::snapshot() and copy the renv.lock file 
 # from the project root into the post directory
-file.copy("../../renv.lock", "renv.lock", overwrite = TRUE)
+# file.copy("../../renv.lock", "renv.lock", overwrite = TRUE)
 
-renv::use(lockfile = "renv.lock")
+# renv::use(lockfile = "renv.lock")
 ```
 
 <!--------------- post content ----------------->
