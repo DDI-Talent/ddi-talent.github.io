@@ -17,7 +17,41 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Invalid Date</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 00:38:49 GMT</lastBuildDate>
+<item>
+  <title>Post Title intercalated</title>
+  <dc:creator>TODO </dc:creator>
+  <link>https://ddi-talent.github.io/teaching/ug-intercalated/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<!--------------- set up ----------------->
+<!--------------- post content ----------------->
+<!--------------- appendices go here ----------------->
+<p>TODO: hello world. intercalated</p>
+
+
+<div id="quarto-appendix" class="default"><section id="session-info" class="level5 appendix"><h2 class="anchored quarto-appendix-heading">Session info</h2><div class="quarto-appendix-contents">
+
+<details>
+<summary>
+Toggle
+</summary>
+</details>
+
+
+<!-- -->
+
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section></div> ]]></description>
+  <category>TAG_1</category>
+  <category>TAG_2</category>
+  <guid>https://ddi-talent.github.io/teaching/ug-intercalated/</guid>
+  <pubDate>Fri, 05 Dec 2025 00:38:49 GMT</pubDate>
+</item>
 <item>
   <title>Post Title MSc</title>
   <dc:creator>TODO </dc:creator>

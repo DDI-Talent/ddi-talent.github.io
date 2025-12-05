@@ -6,16 +6,17 @@
     ]
   },
   {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/ug-intercalated/index.html",
+      "/teaching/msc-data-science/index.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/kasia_banas/index.html",
       "/people/brittany-blankinship/index.html"
-    ]
-  },
-  {
-    "listing": "/teaching.html",
-    "items": [
-      "/teaching/msc-data-science/index.html"
     ]
   }
 ]
