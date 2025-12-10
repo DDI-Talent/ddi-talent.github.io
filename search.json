@@ -14,53 +14,11 @@
     "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "people/brittany-blankinship/index.html",
-    "href": "people/brittany-blankinship/index.html",
-    "title": "About Brittany Blankinship TODO",
+    "objectID": "people/pawel-orzechowski/index.html",
+    "href": "people/pawel-orzechowski/index.html",
+    "title": "Lecturer in Programming for Data Science",
     "section": "",
-    "text": "TODO: hello world\n\n\nSession info\n\n\n\nToggle"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "DDI Talent Team",
-    "section": "",
-    "text": "TODO, some description with links to about, people, resources, teaching\nTODO: interesting way to include link? in R:\nr icon_link(   icon = \"globe\",   text = \"website\",   url = \"https://www.pairprogramming.ed.ac.uk\" )\n\n\n\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "resources/pair-programming-community/index.html",
-    "href": "resources/pair-programming-community/index.html",
-    "title": "Post Title",
-    "section": "",
-    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "We’d love to hear from you!",
-    "section": "",
-    "text": "We’d love to hear from you!\nTODO\n\n\n\n\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "DDI Talent Team",
-    "section": "",
-    "text": "Hey hey there!\n\n\n\n\n\nAbout us [TODO]\n\n\nABOUT\n\n\n\n\n\n\n\n\nResources we created and/or love [TODO]\n\n\nRESOURCES\n\n\n\n\n\n\n\n\nOur team and contributors [TODO]\n\n\nPEOPLE\n\n\n\n\n\n\n\n\nCourses and programs we run and contribute towards [TODO]\n\n\nTEACHING\n\n\n\n\n\n\n\n\nGet in touch and find us on socials [TODO]\n\n\nCONTACT\n\n\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "TEACHING",
-    "section": "",
-    "text": "TEACHING\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\ncourse-format\n\n\n\n\n\n\n\n\n\n\n\nPost Title intercalated\n\n\n \n\n\n\n\n\n\n\n\n\nPost Title MSc\n\n\nPG, UG, short-course\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "README_DEV.html",
-    "href": "README_DEV.html",
-    "title": "this will restore libraries. you might wanna do this after pulling.",
-    "section": "",
-    "text": "When you start to work on this:\n\nin console run:\n\n// if you’re just joining the project, try install.packages(‘renv’)\n\nthis will restore libraries. you might wanna do this after pulling.\nrenv::restore()\n\n\n(if you added new libraries) this will create a new record which can be restored. Choose 2: Install the packages, then snapshot.\nrenv::snapshot() # of if drama: renv::rebuild()\n\n\nonly first time (try first without this). then pick ‘reactivate (2)’\nrenv::init()\n\nthen in R studio use the button Render.\n\n\n\n\n\nReuseCC BY-SA 4.0"
+    "text": "TODO: banana banana\n\n\nSession info\n\n\n\nToggle"
   },
   {
     "objectID": "people/kasia_banas/index.html",
@@ -70,11 +28,60 @@
     "text": "TODO: hello world Kasia\n\n\nSession info\n\n\n\nToggle\n\nKasia"
   },
   {
+    "objectID": "README_DEV.html",
+    "href": "README_DEV.html",
+    "title": "this will restore libraries. you might wanna do this after pulling. Choose “1: Activate the project and use the project library”, you might have to do it twice",
+    "section": "",
+    "text": "When you start to work on this:\n\nin console run:\n\n// if you’re just joining the project, try install.packages(‘renv’)\n\nthis will restore libraries. you might wanna do this after pulling. Choose “1: Activate the project and use the project library”, you might have to do it twice\nrenv::restore()\n\n\n(if you added new libraries) this will create a new record which can be restored. Choose 2: Install the packages, then snapshot.\nrenv::snapshot() # of if drama: renv::rebuild()\n\n\nonly first time (try first without this). then pick ‘reactivate (2)’\nrenv::init()\n\nthen in R studio use the button Render.\n\n\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "TEACHING",
+    "section": "",
+    "text": "TEACHING\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\ncourse-format\n\n\n\n\n\n\n\n\n\n\n\nPost Title intercalated\n\n\n \n\n\n\n\n\n\n\n\n\nPost Title MSc\n\n\nPG, UG, short-course\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DDI Talent Team",
+    "section": "",
+    "text": "Hey hey there!\n\n\n\n\n\nAbout us [TODO]\n\n\nABOUT\n\n\n\n\n\n\n\n\nResources we created and/or love [TODO]\n\n\nRESOURCES\n\n\n\n\n\n\n\n\nOur team and contributors [TODO]\n\n\nPEOPLE\n\n\n\n\n\n\n\n\nCourses and programs we run and contribute towards [TODO]\n\n\nTEACHING\n\n\n\n\n\n\n\n\nGet in touch and find us on socials [TODO]\n\n\nCONTACT\n\n\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "We’d love to hear from you!",
+    "section": "",
+    "text": "We’d love to hear from you!\nTODO\n\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "resources/pair-programming-community/index.html",
+    "href": "resources/pair-programming-community/index.html",
+    "title": "Post Title",
+    "section": "",
+    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "DDI Talent Team",
+    "section": "",
+    "text": "TODO, some description with links to about, people, resources, teaching\nTODO: interesting way to include link? in R:\nr icon_link(   icon = \"globe\",   text = \"website\",   url = \"https://www.pairprogramming.ed.ac.uk\" )\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "people/brittany-blankinship/index.html",
+    "href": "people/brittany-blankinship/index.html",
+    "title": "About Brittany Blankinship TODO",
+    "section": "",
+    "text": "TODO: hello world\n\n\nSession info\n\n\n\nToggle"
+  },
+  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "PEOPLE",
     "section": "",
-    "text": "PEOPLE\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost Title Kasia\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nAbout Brittany Blankinship TODO\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "PEOPLE\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost Title Kasia\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nAbout Brittany Blankinship TODO\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nLecturer in Programming for Data Science\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
   },
   {
     "objectID": "teaching/ug-intercalated/index.html",
