@@ -5,7 +5,7 @@ When you start to work on this:
 // if you're just joining the project, try
 install.packages('renv')
 
-# this will restore libraries. you might wanna do this after pulling.
+# this will restore libraries. you might wanna do this after pulling. Choose "1: Activate the project and use the project library", you might have to do it twice 
 renv::restore()
 
 # (if you added new libraries) this will create a new record which can be restored. Choose 2: Install the packages, then snapshot.
