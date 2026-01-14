@@ -32,6 +32,7 @@ jobs:
           cache-version: 4 # increase this number if github actions require some old packages - it means 'needing' them is remembered in cache
           packages: |
             any::rmarkdown
+            any::pak
           #   any::knitr
           #   any::quarto
             
