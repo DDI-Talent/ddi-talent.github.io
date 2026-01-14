@@ -5,18 +5,18 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>DDI Talent Team</title>
+<title>DDI Talent Team Website</title>
 <link>https://ddi-talent.github.io/teaching.html#category=R</link>
 <atom:link href="https://ddi-talent.github.io/teaching-r.xml" rel="self" type="application/rss+xml"/>
 <description>Team website, portfolio and blog [TODO]</description>
 <image>
 <url>https://ddi-talent.github.io/images/logo.png</url>
-<title>DDI Talent Team</title>
+<title>DDI Talent Team Website</title>
 <link>https://ddi-talent.github.io/teaching.html#category=R</link>
 <height>144</height>
 <width>144</width>
 </image>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 10 Dec 2025 14:05:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 14:54:11 GMT</lastBuildDate>
 </channel>
 </rss>

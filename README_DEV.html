@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>readme_dev – DDI Talent Team</title>
+<title>readme_dev – DDI Talent Team Website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -86,10 +86,10 @@ gtag('config', '[TODO]aa-7G8FLLRS4M[TODO]', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="assets/ddi-styles.css">
-<meta property="og:title" content="DDI Talent Team">
+<meta property="og:title" content="DDI Talent Team Website">
 <meta property="og:description" content="Team website, portfolio and blog [TODO]">
 <meta property="og:image" content="https://ddi-talent.github.io/images/logo.png">
-<meta property="og:site_name" content="DDI Talent Team">
+<meta property="og:site_name" content="DDI Talent Team Website">
 <meta property="og:image:height" content="500">
 <meta property="og:image:width" content="500">
 </head>
@@ -315,8 +315,12 @@ gtag('config', '[TODO]aa-7G8FLLRS4M[TODO]', { 'anonymize_ip': true});
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice" id="toc-this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice" class="nav-link active" data-scroll-target="#this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice">this will restore libraries. you might wanna do this after pulling. Choose “1: Activate the project and use the project library”, you might have to do it twice</a></li>
+  <li><a href="#when-you-start-to-work-on-this-you-will-need-to-use-renv-which-takes-care-of-the-libraries-and-their-versions.-a-bit-more-setup-a-much-ess-drama." id="toc-when-you-start-to-work-on-this-you-will-need-to-use-renv-which-takes-care-of-the-libraries-and-their-versions.-a-bit-more-setup-a-much-ess-drama." class="nav-link active" data-scroll-target="#when-you-start-to-work-on-this-you-will-need-to-use-renv-which-takes-care-of-the-libraries-and-their-versions.-a-bit-more-setup-a-much-ess-drama.">When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.</a>
+  <ul class="collapse">
+  <li><a href="#this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice" id="toc-this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice" class="nav-link" data-scroll-target="#this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice">this will restore libraries. you might wanna do this after pulling. Choose “1: Activate the project and use the project library”, you might have to do it twice</a></li>
   <li><a href="#if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot." id="toc-if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot." class="nav-link" data-scroll-target="#if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot.">(if you added new libraries) this will create a new record which can be restored. Choose 2: Install the packages, then snapshot.</a></li>
+  <li><a href="#of-if-drama" id="toc-of-if-drama" class="nav-link" data-scroll-target="#of-if-drama">of if drama:</a></li>
+  </ul></li>
   <li><a href="#only-first-time-try-first-without-this.-then-pick-reactivate-2" id="toc-only-first-time-try-first-without-this.-then-pick-reactivate-2" class="nav-link" data-scroll-target="#only-first-time-try-first-without-this.-then-pick-reactivate-2">only first time (try first without this). then pick ‘reactivate (2)’</a></li>
   </ul>
 </nav>
@@ -328,22 +332,29 @@ gtag('config', '[TODO]aa-7G8FLLRS4M[TODO]', { 'anonymize_ip': true});
 
 
 
-<p>When you start to work on this:</p>
+<section id="when-you-start-to-work-on-this-you-will-need-to-use-renv-which-takes-care-of-the-libraries-and-their-versions.-a-bit-more-setup-a-much-ess-drama." class="level1">
+<h1>When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.</h1>
 <ul>
 <li>in console run:</li>
 </ul>
-<p>// if you’re just joining the project, try install.packages(‘renv’)</p>
-<section id="this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice" class="level1">
-<h1>this will restore libraries. you might wanna do this after pulling. Choose “1: Activate the project and use the project library”, you might have to do it twice</h1>
-<p>renv::restore()</p>
+<p>// if you’re just joining the project, you might need</p>
+<pre><code>install.packages('renv')</code></pre>
+<section id="this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice" class="level2">
+<h2 class="anchored" data-anchor-id="this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice">this will restore libraries. you might wanna do this after pulling. Choose “1: Activate the project and use the project library”, you might have to do it twice</h2>
+<pre><code>renv::restore()</code></pre>
 </section>
-<section id="if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot." class="level1">
-<h1>(if you added new libraries) this will create a new record which can be restored. Choose 2: Install the packages, then snapshot.</h1>
-<p>renv::snapshot() # of if drama: renv::rebuild()</p>
+<section id="if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot." class="level2">
+<h2 class="anchored" data-anchor-id="if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot.">(if you added new libraries) this will create a new record which can be restored. Choose 2: Install the packages, then snapshot.</h2>
+<pre><code>renv::snapshot()</code></pre>
+</section>
+<section id="of-if-drama" class="level2">
+<h2 class="anchored" data-anchor-id="of-if-drama">of if drama:</h2>
+<pre><code>renv::rebuild()</code></pre>
+</section>
 </section>
 <section id="only-first-time-try-first-without-this.-then-pick-reactivate-2" class="level1">
 <h1>only first time (try first without this). then pick ‘reactivate (2)’</h1>
-<p>renv::init()</p>
+<pre><code>renv::init() </code></pre>
 <ul>
 <li>then in R studio use the button Render.</li>
 </ul>

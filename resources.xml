@@ -5,13 +5,13 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>DDI Talent Team</title>
+<title>DDI Talent Team Website</title>
 <link>https://ddi-talent.github.io/resources.html</link>
 <atom:link href="https://ddi-talent.github.io/resources.xml" rel="self" type="application/rss+xml"/>
 <description>Team website, portfolio and blog [TODO]</description>
 <image>
 <url>https://ddi-talent.github.io/images/logo.png</url>
-<title>DDI Talent Team</title>
+<title>DDI Talent Team Website</title>
 <link>https://ddi-talent.github.io/resources.html</link>
 <height>144</height>
 <width>144</width>

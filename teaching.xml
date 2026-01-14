@@ -5,19 +5,19 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>DDI Talent Team</title>
+<title>DDI Talent Team Website</title>
 <link>https://ddi-talent.github.io/teaching.html</link>
 <atom:link href="https://ddi-talent.github.io/teaching.xml" rel="self" type="application/rss+xml"/>
 <description>Team website, portfolio and blog [TODO]</description>
 <image>
 <url>https://ddi-talent.github.io/images/logo.png</url>
-<title>DDI Talent Team</title>
+<title>DDI Talent Team Website</title>
 <link>https://ddi-talent.github.io/teaching.html</link>
 <height>144</height>
 <width>144</width>
 </image>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 10 Dec 2025 14:05:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 14:54:11 GMT</lastBuildDate>
 <item>
   <title>Post Title intercalated</title>
   <dc:creator>TODO </dc:creator>
@@ -50,7 +50,7 @@ Toggle
   <category>TAG_1</category>
   <category>TAG_2</category>
   <guid>https://ddi-talent.github.io/teaching/ug-intercalated/</guid>
-  <pubDate>Wed, 10 Dec 2025 14:05:06 GMT</pubDate>
+  <pubDate>Wed, 14 Jan 2026 14:54:11 GMT</pubDate>
 </item>
 <item>
   <title>Post Title MSc</title>
