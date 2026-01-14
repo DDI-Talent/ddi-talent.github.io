@@ -1,22 +1,36 @@
-When you start to work on this:
+# When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.
 
 - in console run: 
 
-// if you're just joining the project, try
+// if you're just joining the project, you might need
+
+```
 install.packages('renv')
+```
 
-# this will restore libraries. you might wanna do this after pulling. Choose "1: Activate the project and use the project library", you might have to do it twice 
+## this will restore libraries. you might wanna do this after pulling. Choose "1: Activate the project and use the project library", you might have to do it twice 
+
+```
 renv::restore()
+```
 
-# (if you added new libraries) this will create a new record which can be restored. Choose 2: Install the packages, then snapshot.
+## (if you added new libraries) this will create a new record which can be restored. Choose 2: Install the packages, then snapshot.
+
+```
 renv::snapshot()
-# of if drama:
-renv::rebuild()
+```
 
+## of if drama:
+
+```
+renv::rebuild()
+```
 
 # only first time (try first without this). then pick 'reactivate (2)'
-renv::init() 
 
+```
+renv::init() 
+```
 
 - then in R studio use the button Render.
 
