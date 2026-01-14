@@ -8,7 +8,7 @@ execute:
   freeze: auto
 
 website:
-  title: "DDI Talent Team"
+  title: "DDI Talent Team Website"
   site-url: https://ddi-talent.github.io/
   description: Team website, portfolio and blog [TODO]
   repo-url: https://github.com/DDI-Talent/ddi-talent.github.io
