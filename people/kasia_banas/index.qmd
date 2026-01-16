@@ -4,7 +4,7 @@ description: |
   Post description TODO
 # date: UPDATE
 author: 
-  - name: TODO
+  - name: TODO author
 site-url: TODO
 #image: IMAGE.png
 #image-alt: |
@@ -34,27 +34,8 @@ draft: false
 #| results: 'hide'
 
 long_slug <- "dr-kasia-banas"
-
-# NOTE: after finishing post, run renv::snapshot() and copy the renv.lock file 
-# from the project root into the post directory
-# file.copy("../../renv.lock", "renv.lock", overwrite = TRUE)
-# renv::use(lockfile = "renv.lock")
 ```
  
 <!--------------- post content ----------------->
 
-<!--------------- appendices go here ----------------->
-
 TODO: hello world Kasia
-
-##### Session info {.appendix}
-
-<details><summary>Toggle</summary>
-Kasia
-
-</details>
-
-
-
-
-
