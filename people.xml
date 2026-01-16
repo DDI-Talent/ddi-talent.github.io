@@ -16,41 +16,8 @@
 <height>144</height>
 <width>144</width>
 </image>
-<generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 14 Jan 2026 15:17:22 GMT</lastBuildDate>
-<item>
-  <title>Post Title Kasia</title>
-  <dc:creator>TODO </dc:creator>
-  <link>https://ddi-talent.github.io/people/kasia_banas/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<!--------------- set up ----------------->
-<!--------------- post content ----------------->
-<!--------------- appendices go here ----------------->
-<p>TODO: hello world Kasia</p>
-
-
-<div id="quarto-appendix" class="default"><section id="session-info" class="level5 appendix"><h2 class="anchored quarto-appendix-heading">Session info</h2><div class="quarto-appendix-contents">
-
-<details>
-<summary>
-Toggle
-</summary>
-<p>Kasia</p>
-</details>
-
-
-</div></section></div> ]]></description>
-  <category>TAG_1</category>
-  <category>TAG_2</category>
-  <guid>https://ddi-talent.github.io/people/kasia_banas/</guid>
-  <pubDate>Wed, 14 Jan 2026 15:17:22 GMT</pubDate>
-</item>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Fri, 16 Jan 2026 15:16:08 GMT</lastBuildDate>
 <item>
   <title>About Brittany Blankinship TODO</title>
   <dc:creator>TODO </dc:creator>
@@ -81,7 +48,30 @@ Toggle
   <category>TAG_1</category>
   <category>TAG_2</category>
   <guid>https://ddi-talent.github.io/people/brittany-blankinship/</guid>
-  <pubDate>Wed, 14 Jan 2026 15:17:22 GMT</pubDate>
+  <pubDate>Fri, 16 Jan 2026 15:16:08 GMT</pubDate>
+</item>
+<item>
+  <title>Post Title Kasia</title>
+  <dc:creator>TODO author</dc:creator>
+  <link>https://ddi-talent.github.io/people/kasia-banas/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<!--------------- set up ----------------->
+<!--------------- post content ----------------->
+<p>TODO: hello world Kasia</p>
+
+
+
+ ]]></description>
+  <category>TAG_1</category>
+  <category>TAG_2</category>
+  <guid>https://ddi-talent.github.io/people/kasia-banas/</guid>
+  <pubDate>Fri, 16 Jan 2026 15:16:08 GMT</pubDate>
 </item>
 <item>
   <title>Lecturer in Programming for Data Science</title>
@@ -113,7 +103,7 @@ Toggle
   <category>TAG_1</category>
   <category>TAG_2</category>
   <guid>https://ddi-talent.github.io/people/pawel-orzechowski/</guid>
-  <pubDate>Wed, 14 Jan 2026 15:17:22 GMT</pubDate>
+  <pubDate>Fri, 16 Jan 2026 15:16:08 GMT</pubDate>
 </item>
 </channel>
 </rss>

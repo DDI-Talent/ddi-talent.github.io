@@ -21,11 +21,11 @@
     "text": "TODO: banana banana\n\n\nSession info\n\n\n\nToggle"
   },
   {
-    "objectID": "people/kasia_banas/index.html",
-    "href": "people/kasia_banas/index.html",
-    "title": "Post Title Kasia",
+    "objectID": "people/brittany-blankinship/index.html",
+    "href": "people/brittany-blankinship/index.html",
+    "title": "About Brittany Blankinship TODO",
     "section": "",
-    "text": "TODO: hello world Kasia\n\n\nSession info\n\n\n\nToggle\n\nKasia"
+    "text": "TODO: hello world\n\n\nSession info\n\n\n\nToggle"
   },
   {
     "objectID": "README_DEV.html",
@@ -91,18 +91,18 @@
     "text": "TODO, some description with links to about, people, resources, teaching\nTODO: interesting way to include link? in R:\nr icon_link(   icon = \"globe\",   text = \"website\",   url = \"https://www.pairprogramming.ed.ac.uk\" )\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "people/brittany-blankinship/index.html",
-    "href": "people/brittany-blankinship/index.html",
-    "title": "About Brittany Blankinship TODO",
+    "objectID": "people/kasia-banas/index.html",
+    "href": "people/kasia-banas/index.html",
+    "title": "Post Title Kasia",
     "section": "",
-    "text": "TODO: hello world\n\n\nSession info\n\n\n\nToggle"
+    "text": "TODO: hello world Kasia"
   },
   {
     "objectID": "people.html",
     "href": "people.html",
     "title": "PEOPLE",
     "section": "",
-    "text": "PEOPLE\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost Title Kasia\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nAbout Brittany Blankinship TODO\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nLecturer in Programming for Data Science\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "PEOPLE\n\n\n\n\n\n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nAbout Brittany Blankinship TODO\n\n\nTODO \n\n\n\n\n\n\nPost Title Kasia\n\n\nTODO author\n\n\n\n\n\n\nLecturer in Programming for Data Science\n\n\nTODO \n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
   },
   {
     "objectID": "teaching/ug-intercalated/index.html",
