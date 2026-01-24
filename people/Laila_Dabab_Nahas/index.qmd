@@ -3,5 +3,78 @@ title: "Laila Dabab Nahas"
 editor: visual
 ---
 
-Hi! Teaching Assistant\
-Escape room
+## **Background**
+
+Laila has a bachelor and MSc in biotechnology, and a PhD and postdoctoral in bioinformatics.
+
+## Current job
+
+[Teaching assistant](https://www.research.ed.ac.uk/en/persons/laila-dabab-nahas/) in Edinburgh Medical School
+
+## **Experience**
+
+-   [High performance computers (Eddie)](https://information-services.ed.ac.uk/research-support/research-computing/ecdf/high-performance-computing)
+
+-   Programming languages: Shell, R, SQL, NLP, Python
+
+-   Websites development
+
+-   [GitHub](https://github.com/LailaNh)
+
+-   Analysis such as scRNA, RNA and HiC.
+
+## **Courses for UG and PGT**
+
+-   Data Sciences for Health and Social Care
+
+-   Foundational and Applied Research Design courses
+
+-   Introduction to Databases and information systems
+
+-   Natural Language Processing (NLP) in Health and Social Care
+
+-   Foundations of software development in Health and Social Care
+
+## **CPD**
+
+-   AFHEA
+
+-   PGCap in progress ..
+
+## **Cool ideas**
+
+[Escape room](https://www.thinglink.com/view/scene/2020543706418905956) for teaching in Foundational Research Design
+
+## **Research and supervision**
+
+-   Co-supervising a GWAS project for PG with Dr. Kristin Nicodemus
+
+-   Co-supervising a SLICC project with Dr. Nadege Atkins
+
+-   A mentor in [Education Beyond Borders programme](https://global.ed.ac.uk/education-beyond-borders) at The University of Edinburgh
+
+## **Publications**
+
+[‪Laila Dabab Nahas‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=ulTslo4AAAAJ&hl=en)
+
+Participating in two chapters in a coming book
+
+## **Outside work**
+
+-   A very proud mother
+
+-   Manges here own small business, [Ibn Battuta Arabic online centre](https://ibn-battuta.co.uk/Eng.html) for teaching Arabic for children and adults
+
+-   Volunteers in [Home-Start East Lothian ](https://homestarteastlothian.co.uk/)
+
+-   Started to learned playing piano recently!
+
+-   Loves reading books (such as "Atomic Habits" by James Clark and "That little sound in your head" by Mo Gawdat) and socializing
+
+-   Loves to learn new things
+
+## **Contact details**
+
+📧 [Laila.Dabab.Nahas\@ed.ac.uk](http://ldababn@ed.ac.uk)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/lailadababnahas/)
