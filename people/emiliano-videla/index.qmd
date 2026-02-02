@@ -1,0 +1,81 @@
+---
+title: "Emiliano Ariel Videla Rodriguez"
+subtitle: "Teaching Co-ordinator"
+image: eavr.jpg
+# date: UPDATE
+author: 
+  - name: Teaching co-ordinator
+
+site-url: TODO
+
+#image-alt: |
+categories: []
+open-graph: true
+# twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+
+<!--------------- set up ----------------->
+
+```{r}
+#| echo: false
+#| results: 'hide'
+
+long_slug <- "FILL THIS IN"
+
+# NOTE: after finishing post, run renv::snapshot() and copy the renv.lock file 
+# from the project root into the post directory
+# file.copy("../../renv.lock", "renv.lock", overwrite = TRUE)
+
+# renv::use(lockfile = "renv.lock")
+```
+
+<!--------------- post content ----------------->
+
+<!--------------- appendices go here ----------------->
+
+![](eavr.jpg){fig-align="center"}
+
+Hi there! My name is Emiliano and I am part of the DDI Health and Social Care Talent team. My role in the team is as a teaching co-ordinator, supporting course organisers with the delivery of courses, demonstrating tutorials, and contributing with different activities, including the development of this website. 
+
+## Education
+
+I did the equivalent of an integrated master program in biological sciences at the Universidad Nacional de Córdoba, Argentina. I then moved on to a first PhD, at the same university, in biological sciences where, although my main research topic was poultry science and poultry industry, I started my journey in statistical programming. 
+
+I started a second PhD working at the University of St. Andrews, in Scotland, and enrolled in a PhD programme at the Universitat de Lleida, Spain, where I specialised myself in the applications of Bayesian networks to understand relationships between the elements of complex systems. 
+
+## Latest articles
+### 2025
+EA Videla, JM Caliva, PMA Picco, RH Marín, A Luna, FN Nazar (2025). Thymol, Alpha-Tocopherol and Ascorbyl Palmitate as a Natural Feed Supplements to Modulate Immune Variables and Heterophil to Lymphocyte Ratio in Broiler Chickens. Veterinary Medicine and Science. 11(3):e70398
+```{r}
+#| echo: false
+# library(sessioninfo)
+# # save the session info as an object
+# pkg_session <- session_info(pkgs = "attached")
+# 
+# # get the quarto version
+# quarto_version <- system("quarto --version", intern = TRUE)
+# 
+# # inject the quarto info
+# pkg_session$platform$quarto <- paste(
+#   system("quarto --version", intern = TRUE), 
+#   "@", 
+#   quarto::quarto_path()
+#   )
+# 
+# # print it out
+# pkg_session
+```

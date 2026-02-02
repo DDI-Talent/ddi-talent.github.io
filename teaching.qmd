@@ -14,11 +14,14 @@ listing:
     categories: [R, Quarto]
 page-layout: full
 title-block-banner: false
-knitr:
-  opts_chunk: 
-    collapse: true
+#knitr:
+#  opts_chunk: 
+#    collapse: true
 execute: 
   echo: false
 ---
+![](images/favicon.png){.profile-pic fig-alt="logo, a simple graph resembling Edinburgh skyline" fig-align="center" width="33%"}
 
 # [TEACHING]{.second-color}
+Here you can take a look at our portfolio of courses. 
+
