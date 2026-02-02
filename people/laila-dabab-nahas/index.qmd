@@ -3,7 +3,7 @@ title: "Laila Dabab Nahas"
 editor: visual
 ---
 
-## **Background**
+## Background
 
 Laila has a bachelor and MSc in biotechnology, and a PhD and postdoctoral in bioinformatics.
 
@@ -11,7 +11,7 @@ Laila has a bachelor and MSc in biotechnology, and a PhD and postdoctoral in bio
 
 [Teaching assistant](https://www.research.ed.ac.uk/en/persons/laila-dabab-nahas/) in Edinburgh Medical School
 
-## **Experience**
+## Experience
 
 -   [High performance computers (Eddie)](https://information-services.ed.ac.uk/research-support/research-computing/ecdf/high-performance-computing)
 
@@ -23,7 +23,7 @@ Laila has a bachelor and MSc in biotechnology, and a PhD and postdoctoral in bio
 
 -   Analysis such as scRNA, RNA and HiC.
 
-## **Courses for UG and PGT**
+## Courses for UG and PGT
 
 -   Data Sciences for Health and Social Care
 
@@ -35,17 +35,17 @@ Laila has a bachelor and MSc in biotechnology, and a PhD and postdoctoral in bio
 
 -   Foundations of software development in Health and Social Care
 
-## **CPD**
+## CPD
 
 -   AFHEA
 
 -   PGCap in progress ..
 
-## **Cool ideas**
+## Cool ideas
 
 [Escape room](https://www.thinglink.com/view/scene/2020543706418905956) for teaching in Foundational Research Design
 
-## **Research and supervision**
+## Research and supervision
 
 -   Co-supervising a GWAS project for PG with Dr. Kristin Nicodemus
 
@@ -53,19 +53,19 @@ Laila has a bachelor and MSc in biotechnology, and a PhD and postdoctoral in bio
 
 -   A mentor in [Education Beyond Borders programme](https://global.ed.ac.uk/education-beyond-borders) at The University of Edinburgh
 
-## **Publications**
+## Publications
 
-[‪Laila Dabab Nahas‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=ulTslo4AAAAJ&hl=en)
+[Laila Dabab Nahas - Google Scholar](https://scholar.google.com/citations?user=ulTslo4AAAAJ&hl=en)
 
 Participating in two chapters in a coming book
 
-## **Outside work**
+## Outside work
 
 -   A very proud mother
 
 -   Manges here own small business, [Ibn Battuta Arabic online centre](https://ibn-battuta.co.uk/Eng.html) for teaching Arabic for children and adults
 
--   Volunteers in [Home-Start East Lothian ](https://homestarteastlothian.co.uk/)
+-   Volunteers in [Home-Start East Lothian](https://homestarteastlothian.co.uk/)
 
 -   Started to learned playing piano recently!
 
@@ -73,8 +73,8 @@ Participating in two chapters in a coming book
 
 -   Loves to learn new things
 
-## **Contact details**
+## Contact details
 
-📧 [Laila.Dabab.Nahas\@ed.ac.uk](http://ldababn@ed.ac.uk)
+📧 [Laila.Dabab.Nahas\@ed.ac.uk](mailto://Laila.Dabab.Nahas@ed.ac.uk)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lailadababnahas/)
