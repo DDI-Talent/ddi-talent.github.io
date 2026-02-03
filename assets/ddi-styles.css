@@ -2,6 +2,10 @@
   animation-duration: 600ms;
 }
 
+.navbar-brand:hover,.navbar-title:hover{
+	color: #212129 !important;
+}
+
 .navbar-title:hover > .icon-line:nth-child(n + 1) {
   animation-name: line-expand-1;
 }
@@ -12,13 +16,13 @@
   animation-name: line-expand-3;
 }
 
-.navbar-title > .icon-line:nth-child(n + 1) {
+.navbar-title > .icon-line:nth-child(3n + 1) {
   background-color: #BF7B58;
 }
-.navbar-title > .icon-line:nth-child(n + 2) {
+.navbar-title > .icon-line:nth-child(3n + 2) {
   background-color: #70979B;
 }
-.navbar-title > .icon-line:nth-child(n + 3) {
+.navbar-title > .icon-line:nth-child(3n + 3) {
   background-color: #DDBE65;
 }
 
