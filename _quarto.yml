@@ -16,7 +16,7 @@ website:
   image: images/logo.png
   navbar:
     #logo: someicon-logo-light.png[TODO]
-    title: "<span class='icon-line'></span>DDI<span class='icon-line'></span>TALENT<span class='icon-line'></span>"
+    title: "<span class='icon-line'></span>TEACH<span class='icon-line'></span>HEALTH<span class='icon-line'></span>DATA<span class='icon-line'></span>"
     right:
       - text: about
         href: about.qmd
