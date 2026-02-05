@@ -4,7 +4,7 @@
     "href": "resources.html",
     "title": "RESOURCES",
     "section": "",
-    "text": "RESOURCES\nInterested in our courses, workshops, and events? Take a look at our variety of resources.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost Title\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\nInvalid Date\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "RESOURCES\nInterested in our courses, workshops, and events? Take a look at our variety of resources.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPairs Maker. Pair Programming and Groupwork\n\n\n\nTools\n\n\n\nApplying pair-programming in your teaching? Take a look at this tool.\n\n\n\nPawel Orzechowsky\n\n\nFeb 5, 2026\n\n\n\n\n\n\n\n\n\n\n\nHealth Data Hackathon\n\n\n\nEvents\n\n\n\nThe Edinburgh Medical School and the School of Methematics held a health data hackathon in collaboration with Public Health Scotland.\n\n\n\nBy Dr. Banas and Dr. Videla Rodriguez\n\n\nFeb 4, 2026\n\n\n\n\n\n\n\n\n\n\n\nPost Title\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\nInvalid Date\n\n\n\n\n\n\n\n\n\n\n\nCourse Selection Tool\n\n\n\nTools\n\n\n\nAre you a prospective student of one of our MSc Degrees? Pick and choose your courses using this app.\n\n\n\nPawel Orzechowski\n\n\nFeb 5, 2026\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
   },
   {
     "objectID": "teaching/msc-data-science/index.html",
@@ -133,18 +133,18 @@
     "text": "renv::rebuild()"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "TEACHING",
+    "objectID": "resources/pair-programming-community/index.html",
+    "href": "resources/pair-programming-community/index.html",
+    "title": "Post Title",
     "section": "",
-    "text": "TEACHING\nHere you can take a look at our portfolio of courses.\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\ncourse-format\n\n\n\n\n\n\n\n\n\n\n\nPost Title intercalated\n\n\n \n\n\n\n\n\n\n\n\n\nPost Title MSc\n\n\nPG, UG, short-course\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the DDI Talent website!",
+    "objectID": "resources/pair-programming-groups-Feb-2026/index.html",
+    "href": "resources/pair-programming-groups-Feb-2026/index.html",
+    "title": "Pairs Maker. Pair Programming and Groupwork",
     "section": "",
-    "text": "Welcome to the DDI talent website!\n\n\n\n\n\nAbout us [TODO]\n\n\nABOUT\n\n\n\n\n\n\n\n\nResources we created and/or love [TODO]\n\n\nRESOURCES\n\n\n\n\n\n\n\n\nOur team and contributors [TODO]\n\n\nPEOPLE\n\n\n\n\n\n\n\n\nCourses and programs we run and contribute towards [TODO]\n\n\nTEACHING\n\n\n\n\n\n\n\n\nGet in touch and find us on socials [TODO]\n\n\nCONTACT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nABOUT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPEOPLE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRESOURCES\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTEACHING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCONTACT US\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "Course selection Tool\n\n\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
     "objectID": "contact.html",
@@ -154,11 +154,32 @@
     "text": "CONTACT US\nGet in touch with us!\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\ncourse-format\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "resources/pair-programming-community/index.html",
-    "href": "resources/pair-programming-community/index.html",
-    "title": "Post Title",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the DDI Talent website!",
     "section": "",
-    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
+    "text": "Welcome to the DDI talent website!\n\n\n\n\n\nAbout us [TODO]\n\n\nABOUT\n\n\n\n\n\n\n\n\nResources we created and/or love [TODO]\n\n\nRESOURCES\n\n\n\n\n\n\n\n\nOur team and contributors [TODO]\n\n\nPEOPLE\n\n\n\n\n\n\n\n\nCourses and programs we run and contribute towards [TODO]\n\n\nTEACHING\n\n\n\n\n\n\n\n\nGet in touch and find us on socials [TODO]\n\n\nCONTACT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nABOUT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPEOPLE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRESOURCES\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTEACHING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCONTACT US\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "TEACHING",
+    "section": "",
+    "text": "TEACHING\nHere you can take a look at our portfolio of courses.\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\ncourse-format\n\n\n\n\n\n\n\n\n\n\n\nPost Title intercalated\n\n\n \n\n\n\n\n\n\n\n\n\nPost Title MSc\n\n\nPG, UG, short-course\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "resources/hackathon-Feb-2026-ems-math-phs/index.html",
+    "href": "resources/hackathon-Feb-2026-ems-math-phs/index.html",
+    "title": "Health Data Hackathon",
+    "section": "",
+    "text": "On the 4th of February 2026, the Edinburgh Medical School and the School of Mathematics held the Health Data Hackathon in collaboration with Public Health Scotland, taking place at the Lister Learning and Teaching Centre of the University of Edinburgh.\nThe hackathon had over 30 students joining from different programs, Biomedics, Mathematics, and Statistics, working together to provide solutions to problems faced by the NHS and the healthcare system.\n\n\n\n\n\n\nThe challenge\nStudents were divided into groups of five, all joining forces to work together to provide ideas to help alleviate the pressures on the system and improve the outcomes. Public Health Scotland brought the data, covering a variety of areas:\n\nFront Door: A&E, NHS 24, Ambulance, GP.\nHospital: Emergencies, electives, specialty.\nDischarges: Delays, Social Care, Care Homes.\nPrevention: Community, advertising, Education.\n\nThe groups had to choose they targeted audience, whether it was representatives of the government, planners at a regional or local scale, or doctors, nursers or caretakers, as well as the approaches or strategies, such as analysis or modelling. Additionally, groups were encouraged to think outside the box, looking for other sources of information, for example, what other countries are doing to deal with similar challenges.\n\n\nStructure\nThe participants arrived at 10am and found a spot in tables, where they started having lively conversation to get to know each other while having some coffee, tea, and biscuits.\nThe hackathon started with a presentation by Kenneth Nicholson from Public Health Scotland. Ken introduced the organisation, the current situation of the Health Care system of Scotland and the main challenges they are facing.\nThe participants were divided into groups of five, the data was provided over email, and the hackathon officially started.\nInitially, the groups began playing with the data, taking a closer look at the different variables considered, and additionally pieces of information, such as the scientific literature or publicly available data repositories to complement the exploration. Members of Public Health Scotland were the first point to clarify any doubts regarding the data and their implications.\nAfter three hours of hard work, lunch was provided, having a variety of rolls to choose from, veggies, hummus, guacamole, and some fruits, together with some beverages. Lunch represented an opportunity for students and staff members from the Edinburgh Medical School, the School of Mathematics, and Public Health Scotland to network and come up with ideas for future events or collaborations between the organisations.\nThe teams had their hands back on the data after lunch, finalizing the exploration of their problem and identifying solutions and recommendations for Public Health Scotland. The groups started to work on their pitches with the aim of selling their ideas to persuade their targeted audience.\nThe groups were encouraged to use the principles of storytelling, starting with a hook, as a strategy to capture the audience’s attention and keep them engage during their 3-minute pitches. Thereafter, the groups would define the the challenge and provide solutions, recommendations or future studies, supported by data visualisation tools and evidence.\n\n\nTime for the pitches\nThe groups voluntarily picked the order they would be presenting their work to the panel. The later consisted of four members, including a fictitious senior NHS leader. The evaluation criteria included how well the idea was sold to the panel, the potential impacts of the idea together with the evidence to support it, and the practicalities for its implementation. The groups had up to three minutes to pitch their challenge and the solutions, with two additonal minutes for questions from the audience and the panel.\n\n\n\nThe price\nThe winning team yada yada yada\n\n\nHackathon co-organisers\n\nDr. Kasia Banas - Edinburgh Medical School, University of Edinburgh.\nDr. Skarleth Carrales Escobedo - School of Mathematics, University of Edinburgh.\nKenneth Nicholson - Public Health Scotland.\n\nAndrew - University of Edinburgh.\nDr. Pawel Orzechowski - Edinburgh Medical School, University of Edinburgh.\nDr. Emiliano Ariel Videla Rodríguez - Edinburgh Medical School, University of Edinburgh.\n\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "resources/choose-your-courses-Feb-2026/index.html",
+    "href": "resources/choose-your-courses-Feb-2026/index.html",
+    "title": "Course Selection Tool",
+    "section": "",
+    "text": "Course Selection Tool\n\n\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
     "objectID": "about.html",

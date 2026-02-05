@@ -2,15 +2,15 @@
   {
     "listing": "/resources.html",
     "items": [
-      "/resources/pair-programming-community/index.html"
+      "/resources/pair-programming-groups-Feb-2026/index.html",
+      "/resources/hackathon-Feb-2026-ems-math-phs/index.html",
+      "/resources/pair-programming-community/index.html",
+      "/resources/choose-your-courses-Feb-2026/index.html"
     ]
   },
   {
-    "listing": "/teaching.html",
-    "items": [
-      "/teaching/ug-intercalated/index.html",
-      "/teaching/msc-data-science/index.html"
-    ]
+    "listing": "/contact.html",
+    "items": []
   },
   {
     "listing": "/index.html",
@@ -23,8 +23,11 @@
     ]
   },
   {
-    "listing": "/contact.html",
-    "items": []
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/ug-intercalated/index.html",
+      "/teaching/msc-data-science/index.html"
+    ]
   },
   {
     "listing": "/about.html",
