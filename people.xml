@@ -17,7 +17,7 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Tue, 03 Feb 2026 00:03:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Feb 2026 13:12:11 GMT</lastBuildDate>
 <item>
   <title>Laila Dabab Nahas</title>
   <link>https://ddi-talent.github.io/people/laila-dabab-nahas/</link>
@@ -101,7 +101,47 @@
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/laila-dabab-nahas/</guid>
-  <pubDate>Tue, 03 Feb 2026 00:03:37 GMT</pubDate>
+  <pubDate>Thu, 05 Feb 2026 13:12:11 GMT</pubDate>
+</item>
+<item>
+  <title>Emiliano Ariel Videla Rodriguez</title>
+  <dc:creator>Teaching co-ordinator</dc:creator>
+  <link>https://ddi-talent.github.io/people/emiliano-videla/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<!--------------- set up ----------------->
+<!--------------- post content ----------------->
+<!--------------- appendices go here ----------------->
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/people/emiliano-videla/eavr.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>Hi there! My name is Emiliano and I am part of the DDI Health and Social Care Talent team. My role in the team is as a teaching co-ordinator, supporting course organisers with the delivery of courses, demonstrating tutorials, and contributing with different activities, including the development of this website.</p>
+<section id="education" class="level2">
+<h2 class="anchored" data-anchor-id="education">Education</h2>
+<p>I did the equivalent of an integrated master program in biological sciences at the Universidad Nacional de Córdoba, Argentina. I then moved on to a first PhD, at the same university, in biological sciences where, although my main research topic was poultry science and poultry industry, I started my journey in statistical programming.</p>
+<p>I started a second PhD working at the University of St.&nbsp;Andrews, in Scotland, and enrolled in a PhD programme at the Universitat de Lleida, Spain, where I specialised myself in the applications of Bayesian networks to understand relationships between the elements of complex systems.</p>
+</section>
+<section id="latest-articles" class="level2">
+<h2 class="anchored" data-anchor-id="latest-articles">Latest articles</h2>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">2025</h3>
+<p>EA Videla, JM Caliva, PMA Picco, RH Marín, A Luna, FN Nazar (2025). Thymol, Alpha-Tocopherol and Ascorbyl Palmitate as a Natural Feed Supplements to Modulate Immune Variables and Heterophil to Lymphocyte Ratio in Broiler Chickens. Veterinary Medicine and Science. 11(3):e70398</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://ddi-talent.github.io/people/emiliano-videla/</guid>
+  <pubDate>Thu, 05 Feb 2026 13:12:11 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/people/emiliano-videla/eavr.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>About Brittany Blankinship TODO</title>
@@ -133,7 +173,7 @@ Toggle
   <category>TAG_1</category>
   <category>TAG_2</category>
   <guid>https://ddi-talent.github.io/people/brittany-blankinship/</guid>
-  <pubDate>Tue, 03 Feb 2026 00:03:37 GMT</pubDate>
+  <pubDate>Thu, 05 Feb 2026 13:12:11 GMT</pubDate>
 </item>
 <item>
   <title>Post Title Kasia</title>
@@ -156,7 +196,7 @@ Toggle
   <category>TAG_1</category>
   <category>TAG_2</category>
   <guid>https://ddi-talent.github.io/people/kasia-banas/</guid>
-  <pubDate>Tue, 03 Feb 2026 00:03:37 GMT</pubDate>
+  <pubDate>Thu, 05 Feb 2026 13:12:11 GMT</pubDate>
 </item>
 <item>
   <title>Lecturer in Programming for Data Science</title>
@@ -188,7 +228,7 @@ Toggle
   <category>TAG_1</category>
   <category>TAG_2</category>
   <guid>https://ddi-talent.github.io/people/pawel-orzechowski/</guid>
-  <pubDate>Tue, 03 Feb 2026 00:03:37 GMT</pubDate>
+  <pubDate>Thu, 05 Feb 2026 13:12:11 GMT</pubDate>
 </item>
 </channel>
 </rss>

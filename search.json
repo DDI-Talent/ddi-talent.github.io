@@ -4,7 +4,7 @@
     "href": "resources.html",
     "title": "RESOURCES",
     "section": "",
-    "text": "RESOURCES\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost Title\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\nInvalid Date\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "RESOURCES\nInterested in our courses, workshops, and events? Take a look at our variety of resources.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost Title\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\nInvalid Date\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
   },
   {
     "objectID": "teaching/msc-data-science/index.html",
@@ -26,69 +26,6 @@
     "title": "About Brittany Blankinship TODO",
     "section": "",
     "text": "TODO: hello world\n\n\nSession info\n\n\n\nToggle"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "DDI Talent Team Website",
-    "section": "",
-    "text": "TODO, some description with links to about, people, resources, teaching\nTODO: interesting way to include link? in R:\nr icon_link(   icon = \"globe\",   text = \"website\",   url = \"https://www.pairprogramming.ed.ac.uk\" )\n\n\n\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "resources/pair-programming-community/index.html",
-    "href": "resources/pair-programming-community/index.html",
-    "title": "Post Title",
-    "section": "",
-    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "We’d love to hear from you!",
-    "section": "",
-    "text": "We’d love to hear from you!\nTODO\n\n\n\n\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "DDI Talent Team Website",
-    "section": "",
-    "text": "Hey hey there!\n\n\n\n\n\nAbout us [TODO]\n\n\nABOUT\n\n\n\n\n\n\n\n\nResources we created and/or love [TODO]\n\n\nRESOURCES\n\n\n\n\n\n\n\n\nOur team and contributors [TODO]\n\n\nPEOPLE\n\n\n\n\n\n\n\n\nCourses and programs we run and contribute towards [TODO]\n\n\nTEACHING\n\n\n\n\n\n\n\n\nGet in touch and find us on socials [TODO]\n\n\nCONTACT\n\n\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "TEACHING",
-    "section": "",
-    "text": "TEACHING\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\ncourse-format\n\n\n\n\n\n\n\n\n\n\n\nPost Title intercalated\n\n\n \n\n\n\n\n\n\n\n\n\nPost Title MSc\n\n\nPG, UG, short-course\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "README_DEV.html",
-    "href": "README_DEV.html",
-    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
-    "section": "",
-    "text": "in console run:\n\n// if you’re just joining the project, you might need\ninstall.packages('renv')\n\n\nrenv::restore()\n\n\n\nrenv::snapshot()\n\n\n\nrenv::rebuild()"
-  },
-  {
-    "objectID": "README_DEV.html#this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice",
-    "href": "README_DEV.html#this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice",
-    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
-    "section": "",
-    "text": "renv::restore()"
-  },
-  {
-    "objectID": "README_DEV.html#if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot.",
-    "href": "README_DEV.html#if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot.",
-    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
-    "section": "",
-    "text": "renv::snapshot()"
-  },
-  {
-    "objectID": "README_DEV.html#of-if-drama",
-    "href": "README_DEV.html#of-if-drama",
-    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
-    "section": "",
-    "text": "renv::rebuild()"
   },
   {
     "objectID": "people/laila-dabab-nahas/index.html",
@@ -168,6 +105,90 @@
     "text": "Contact details\n📧 Laila.Dabab.Nahas@ed.ac.uk\n🔗 LinkedIn"
   },
   {
+    "objectID": "README_DEV.html",
+    "href": "README_DEV.html",
+    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
+    "section": "",
+    "text": "in console run:\n\n// if you’re just joining the project, you might need\ninstall.packages('renv')\n\n\nrenv::restore()\n\n\n\nrenv::snapshot()\n\n\n\nrenv::rebuild()"
+  },
+  {
+    "objectID": "README_DEV.html#this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice",
+    "href": "README_DEV.html#this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice",
+    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
+    "section": "",
+    "text": "renv::restore()"
+  },
+  {
+    "objectID": "README_DEV.html#if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot.",
+    "href": "README_DEV.html#if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot.",
+    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
+    "section": "",
+    "text": "renv::snapshot()"
+  },
+  {
+    "objectID": "README_DEV.html#of-if-drama",
+    "href": "README_DEV.html#of-if-drama",
+    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
+    "section": "",
+    "text": "renv::rebuild()"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "TEACHING",
+    "section": "",
+    "text": "TEACHING\nHere you can take a look at our portfolio of courses.\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\ncourse-format\n\n\n\n\n\n\n\n\n\n\n\nPost Title intercalated\n\n\n \n\n\n\n\n\n\n\n\n\nPost Title MSc\n\n\nPG, UG, short-course\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the DDI Talent website!",
+    "section": "",
+    "text": "Welcome to the DDI talent website!\n\n\n\n\n\nAbout us [TODO]\n\n\nABOUT\n\n\n\n\n\n\n\n\nResources we created and/or love [TODO]\n\n\nRESOURCES\n\n\n\n\n\n\n\n\nOur team and contributors [TODO]\n\n\nPEOPLE\n\n\n\n\n\n\n\n\nCourses and programs we run and contribute towards [TODO]\n\n\nTEACHING\n\n\n\n\n\n\n\n\nGet in touch and find us on socials [TODO]\n\n\nCONTACT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nABOUT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPEOPLE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRESOURCES\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTEACHING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCONTACT US\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "CONTACT US",
+    "section": "",
+    "text": "CONTACT US\nGet in touch with us!\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\ncourse-format\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "resources/pair-programming-community/index.html",
+    "href": "resources/pair-programming-community/index.html",
+    "title": "Post Title",
+    "section": "",
+    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "ABOUT",
+    "section": "",
+    "text": "Here you will find some useful information about the team\nTODO, some description with links to about, people, resources, teaching\nTODO: interesting way to include link? in R:\nr icon_link(   icon = \"globe\",   text = \"website\",   url = \"https://www.pairprogramming.ed.ac.uk\" )\n\nABOUT\nGet to know our DDI Talent team and the different teaching activities.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\ncourse-format\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "people/emiliano-videla/index.html",
+    "href": "people/emiliano-videla/index.html",
+    "title": "Emiliano Ariel Videla Rodriguez",
+    "section": "",
+    "text": "Hi there! My name is Emiliano and I am part of the DDI Health and Social Care Talent team. My role in the team is as a teaching co-ordinator, supporting course organisers with the delivery of courses, demonstrating tutorials, and contributing with different activities, including the development of this website."
+  },
+  {
+    "objectID": "people/emiliano-videla/index.html#education",
+    "href": "people/emiliano-videla/index.html#education",
+    "title": "Emiliano Ariel Videla Rodriguez",
+    "section": "Education",
+    "text": "Education\nI did the equivalent of an integrated master program in biological sciences at the Universidad Nacional de Córdoba, Argentina. I then moved on to a first PhD, at the same university, in biological sciences where, although my main research topic was poultry science and poultry industry, I started my journey in statistical programming.\nI started a second PhD working at the University of St. Andrews, in Scotland, and enrolled in a PhD programme at the Universitat de Lleida, Spain, where I specialised myself in the applications of Bayesian networks to understand relationships between the elements of complex systems."
+  },
+  {
+    "objectID": "people/emiliano-videla/index.html#latest-articles",
+    "href": "people/emiliano-videla/index.html#latest-articles",
+    "title": "Emiliano Ariel Videla Rodriguez",
+    "section": "Latest articles",
+    "text": "Latest articles\n\n2025\nEA Videla, JM Caliva, PMA Picco, RH Marín, A Luna, FN Nazar (2025). Thymol, Alpha-Tocopherol and Ascorbyl Palmitate as a Natural Feed Supplements to Modulate Immune Variables and Heterophil to Lymphocyte Ratio in Broiler Chickens. Veterinary Medicine and Science. 11(3):e70398"
+  },
+  {
     "objectID": "people/kasia-banas/index.html",
     "href": "people/kasia-banas/index.html",
     "title": "Post Title Kasia",
@@ -179,7 +200,7 @@
     "href": "people.html",
     "title": "PEOPLE",
     "section": "",
-    "text": "PEOPLE\n\n\n\n\n\n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nLaila Dabab Nahas\n\n\n \n\n\n\n\n\n\nAbout Brittany Blankinship TODO\n\n\nTODO \n\n\n\n\n\n\nPost Title Kasia\n\n\nTODO author\n\n\n\n\n\n\nLecturer in Programming for Data Science\n\n\nTODO \n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "PEOPLE\nHere you will find useful information about the roles each one of the team members has.\nbanana banana banana\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaila Dabab Nahas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmiliano Ariel Videla Rodriguez\n\n\n\n\n\n\n\n\n\nTeaching co-ordinator\n\n\n\n\n\n\n\n\n\n\n\nAbout Brittany Blankinship TODO\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nPost Title Kasia\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO author\n\n\n\n\n\n\n\n\n\n\n\nLecturer in Programming for Data Science\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
   },
   {
     "objectID": "teaching/ug-intercalated/index.html",

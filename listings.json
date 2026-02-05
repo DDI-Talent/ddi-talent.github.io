@@ -13,9 +13,28 @@
     ]
   },
   {
+    "listing": "/index.html",
+    "items": [
+      "/about.html",
+      "/people.html",
+      "/resources.html",
+      "/teaching.html",
+      "/contact.html"
+    ]
+  },
+  {
+    "listing": "/contact.html",
+    "items": []
+  },
+  {
+    "listing": "/about.html",
+    "items": []
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/laila-dabab-nahas/index.html",
+      "/people/emiliano-videla/index.html",
       "/people/brittany-blankinship/index.html",
       "/people/kasia-banas/index.html",
       "/people/pawel-orzechowski/index.html"

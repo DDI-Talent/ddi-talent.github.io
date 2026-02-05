@@ -85,9 +85,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -147,10 +147,12 @@ window.Quarto = {
 
 <link rel="stylesheet" href="assets/ddi-styles.css">
 <link rel="alternate" type="application/rss+xml" title="DDI Talent Team Website" href="people.xml" data-external="1"><meta property="og:title" content="DDI Talent Team Website">
-<meta property="og:image" content="https://ddi-talent.github.io/images/logo.png">
+<meta property="og:description" content="Team website, portfolio and blog [TODO]">
+<meta property="og:image" content="https://ddi-talent.github.io/images/favicon.png">
 <meta property="og:site_name" content="DDI Talent Team Website">
-<meta property="og:image:height" content="500">
-<meta property="og:image:width" content="500">
+<meta property="og:image:alt" content="logo, a simple graph resembling Edinburgh skyline">
+<meta property="og:image:height" content="899">
+<meta property="og:image:width" content="904">
 </head>
 
 <body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -377,7 +379,7 @@ window.Quarto = {
   <li><a href="#people" id="toc-people" class="nav-link active" data-scroll-target="#people"><span class="second-color">PEOPLE</span></a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="VEFHXzE=">TAG_1 <span class="quarto-category-count">(3)</span></div><div class="category" data-category="VEFHXzI=">TAG_2 <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="VEFHXzE=">TAG_1 <span class="quarto-category-count">(3)</span></div><div class="category" data-category="VEFHXzI=">TAG_2 <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
@@ -385,72 +387,144 @@ window.Quarto = {
 
 
 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/favicon.png" class="profile-pic img-fluid quarto-figure quarto-figure-center figure-img" style="width:33.0%" alt="logo, a simple graph resembling Edinburgh skyline"></p>
+</figure>
+</div>
 <section id="people" class="level1">
 <h1><span class="second-color">PEOPLE</span></h1>
+<p>Here you will find useful information about the roles each one of the team members has.</p>
+<p>banana banana banana</p>
 
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<table class="quarto-listing-table table">
-<thead>
-<tr>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1770297027364" data-listing-reading-time-sort="2" data-listing-word-count-sort="254">
+<a href="./people/laila-dabab-nahas/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Laila Dabab Nahas
+</h5>
+<div class="card-text listing-description delink">
+Laila has a bachelor and MSc in biotechnology, and a PhD and postdoctoral in bioinformatics.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
-<th>
-Title
-</th>
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="" data-listing-file-modified-sort="1770297027364" data-listing-reading-time-sort="2" data-listing-word-count-sort="288">
+<a href="./people/emiliano-videla/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./people/emiliano-videla/eavr.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Emiliano Ariel Videla Rodriguez
+</h5>
+<div class="listing-categories">
 
-<th>
-Author
-</th>
+</div>
+<div class="card-text listing-description delink">
+Hi there! My name is Emiliano and I am part of the DDI Health and Social Care Talent team. My role in the team is as a teaching co-ordinator, supporting course organisers…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Teaching co-ordinator
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="VEFHXzElMkNUQUdfMg==" data-listing-file-modified-sort="1770297027364" data-listing-reading-time-sort="1" data-listing-word-count-sort="40">
+<a href="./people/brittany-blankinship/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+About Brittany Blankinship TODO
+</h5>
+<div class="listing-categories">
 
-</tr>
-</thead>
-<tbody class="list">
+<div class="listing-category" onclick="window.quartoListingCategory('VEFHXzE='); return false;">TAG_1</div>
 
-<tr data-index="0" data-listing-file-modified-sort="1770076902693" data-listing-reading-time-sort="2" data-listing-word-count-sort="254" data-listing-title-sort="Laila Dabab Nahas" data-listing-filename-sort="index.qmd">
-<td>
-<a href="./people/laila-dabab-nahas/index.html" class="title listing-title">Laila Dabab Nahas</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
+<div class="listing-category" onclick="window.quartoListingCategory('VEFHXzI='); return false;">TAG_2</div>
 
-</tr>
+</div>
+<div class="card-text listing-description delink">
+<p>Post description TODO</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+TODO
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="VEFHXzElMkNUQUdfMg==" data-listing-file-modified-sort="1770297027364" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
+<a href="./people/kasia-banas/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Post Title Kasia
+</h5>
+<div class="listing-categories">
 
-<tr data-index="1" data-categories="VEFHXzElMkNUQUdfMg==" data-listing-file-modified-sort="1770076902693" data-listing-reading-time-sort="1" data-listing-word-count-sort="40" data-listing-title-sort="About Brittany Blankinship TODO" data-listing-filename-sort="index.qmd">
-<td>
-<a href="./people/brittany-blankinship/index.html" class="title listing-title">About Brittany Blankinship TODO</a>
-</td>
-<td>
-<span class="listing-author">TODO </span>
-</td>
+<div class="listing-category" onclick="window.quartoListingCategory('VEFHXzE='); return false;">TAG_1</div>
 
-</tr>
+<div class="listing-category" onclick="window.quartoListingCategory('VEFHXzI='); return false;">TAG_2</div>
 
-<tr data-index="2" data-categories="VEFHXzElMkNUQUdfMg==" data-listing-file-modified-sort="1770076902693" data-listing-reading-time-sort="1" data-listing-word-count-sort="17" data-listing-title-sort="Post Title Kasia" data-listing-filename-sort="index.qmd">
-<td>
-<a href="./people/kasia-banas/index.html" class="title listing-title">Post Title Kasia</a>
-</td>
-<td>
-<span class="listing-author">TODO author</span>
-</td>
+</div>
+<div class="card-text listing-description delink">
+<p>Post description TODO</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+TODO author
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="VEFHXzElMkNUQUdfMg==" data-listing-file-modified-sort="1770297027364" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
+<a href="./people/pawel-orzechowski/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lecturer in Programming for Data Science
+</h5>
+<div class="listing-categories">
 
-</tr>
+<div class="listing-category" onclick="window.quartoListingCategory('VEFHXzE='); return false;">TAG_1</div>
 
-<tr data-index="3" data-categories="VEFHXzElMkNUQUdfMg==" data-listing-file-modified-sort="1770076902693" data-listing-reading-time-sort="1" data-listing-word-count-sort="103" data-listing-title-sort="Lecturer in Programming for Data Science" data-listing-filename-sort="index.qmd">
-<td>
-<a href="./people/pawel-orzechowski/index.html" class="title listing-title">Lecturer in Programming for Data Science</a>
-</td>
-<td>
-<span class="listing-author">TODO </span>
-</td>
+<div class="listing-category" onclick="window.quartoListingCategory('VEFHXzI='); return false;">TAG_2</div>
 
-</tr>
-
-</tbody>
-</table>
+</div>
+<div class="card-text listing-description delink">
+<p>Post description TODO</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+TODO
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
