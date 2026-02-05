@@ -7,12 +7,22 @@ execute:
 page-layout: full
 include-in-header: 
   - _includes/fontawesome-2up.html
+title: "Welcome to the DDI Talent website!"
+listing:
+  contents:
+    - "about.qmd"
+    - "people.qmd"
+    - "resources.qmd"
+    - "teaching.qmd"
+    - "contact.qmd"
+  sort: false
+  type: grid
 ---
 
 ::: {.grid}
 
 ::: {.g-col-12}
-[Hey hey there!]{.home-header}
+[Welcome to the DDI talent website!]{.home-header}
 :::
 
 ::: {.g-col-12 .g-col-md-4}

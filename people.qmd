@@ -3,7 +3,7 @@
 listing:
   contents: people
   sort: "date desc"
-  type: table
+  type: grid
   categories: true
   sort-ui: false
   filter-ui: false
@@ -17,5 +17,9 @@ title-block-banner: false
 execute: 
   echo: false
 ---
+ ![](images/favicon.png){.profile-pic fig-alt="logo, a simple graph resembling Edinburgh skyline" fig-align="center" width="33%"}
  
 # [PEOPLE]{.second-color}
+Here you will find useful information about the roles each one of the team members has. 
+
+banana banana banana 
