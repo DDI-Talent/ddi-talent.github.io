@@ -1,0 +1,30 @@
+---
+title: Course Selection Tool
+description: |
+  Are you a prospective student of one of our MSc Degrees? Pick and choose your courses using this app.
+date: 02/05/2026
+author: 
+  - name: Pawel Orzechowski
+site-url: TODO
+#image: IMAGE.png
+#image-alt: |
+categories: [Tools]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+
+[Course Selection Tool](https://ddi-talent.shinyapps.io/course-dashboard/)

@@ -1,0 +1,89 @@
+---
+title: Health Data Hackathon
+description: |
+  The Edinburgh Medical School and the School of Methematics held a health data hackathon in collaboration with Public Health Scotland.
+date: 02/04/2026
+author: 
+  - name: By Dr. Banas and Dr. Videla Rodriguez
+site-url: TODO
+#image: IMAGE.png
+#image-alt: |
+categories: [Events]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+
+On the 4th of February 2026, the Edinburgh Medical School and the School of Mathematics held the Health Data Hackathon in collaboration with Public Health Scotland, taking place at the Lister Learning and Teaching Centre of the University of Edinburgh. 
+
+The hackathon had over 30 students joining from different programs, Biomedics, Mathematics, and Statistics, working together to provide solutions to problems faced by the NHS and the healthcare system.
+
+![](image.jpg){fig-align="center"}
+
+# The challenge
+Students were divided into groups of five, all joining forces to work together to provide ideas to help alleviate the pressures on the system and improve the outcomes. Public Health Scotland brought the data, covering a variety of areas:
+
+-   Front Door: A&E, NHS 24, Ambulance, GP.
+
+-   Hospital: Emergencies, electives, specialty.
+
+-   Discharges: Delays, Social Care, Care Homes.
+
+-   Prevention: Community, advertising, Education. 
+
+The groups had to choose they targeted audience, whether it was representatives of the government, planners at a regional or local scale, or doctors, nursers or caretakers, as well as the approaches or strategies, such as analysis or modelling. Additionally, groups were encouraged to think outside the box, looking for other sources of information, for example, what other countries are doing to deal with similar challenges.
+
+# Structure
+
+The participants arrived at 10am and found a spot in tables, where they started having lively conversation to get to know each other while having some coffee, tea, and biscuits. 
+
+The hackathon started with a presentation by Kenneth Nicholson from Public Health Scotland. Ken introduced the organisation, the current situation of the Health Care system of Scotland and the main challenges they are facing.
+
+The participants were divided into groups of five, the data was provided over email, and the hackathon officially started. 
+
+Initially, the groups began playing with the data, taking a closer look at the different variables considered, and additionally pieces of information, such as the scientific literature or publicly available data repositories to complement the exploration. Members of Public Health Scotland were the first point to clarify any doubts regarding the data and their implications.
+
+After three hours of hard work, lunch was provided, having a variety of rolls to choose from, veggies, hummus, guacamole, and some fruits, together with some beverages. Lunch represented an opportunity for students and staff members from the Edinburgh Medical School, the School of Mathematics, and Public Health Scotland to network and come up with ideas for future events or collaborations between the organisations. 
+
+The teams had their hands back on the data after lunch, finalizing the exploration of their problem and identifying solutions and recommendations for Public Health Scotland. The groups started to work on their pitches with the aim of selling their ideas to persuade their targeted audience. 
+
+The groups were encouraged to use the principles of storytelling, starting with a hook, as a strategy to capture the audience's attention and keep them engage during their 3-minute pitches. Thereafter, the groups would define the the challenge and provide solutions, recommendations or future studies, supported by data visualisation tools and evidence.
+
+# Time for the pitches
+
+The groups voluntarily picked the order they would be presenting their work to the panel. The later consisted of four members, including a fictitious senior NHS leader. The evaluation criteria included how well the idea was sold to the panel, the potential impacts of the idea together with the evidence to support it, and the practicalities for its implementation. The groups had up to three minutes to pitch their challenge and the solutions, with two additonal minutes for questions from the audience and the panel. 
+
+<!-- maybe something about the issues that were tackled-->
+
+# The price
+
+The winning team yada yada yada 
+
+# Hackathon co-organisers
+
+-   Dr. Kasia Banas - Edinburgh Medical School, University of Edinburgh.
+
+-   Dr. Skarleth Carrales Escobedo - School of Mathematics, University of Edinburgh.
+
+-   Kenneth Nicholson - Public Health Scotland.
+
+-   
+
+-   Andrew - University of Edinburgh.
+
+-   Dr. Pawel Orzechowski - Edinburgh Medical School, University of Edinburgh. 
+
+-   Dr. Emiliano Ariel Videla Rodríguez - Edinburgh Medical School, University of Edinburgh.
