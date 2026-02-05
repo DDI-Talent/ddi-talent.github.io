@@ -1,0 +1,31 @@
+---
+title: Pairs Maker. Pair Programming and Groupwork
+description: |
+  Applying pair-programming in your teaching? Take a look at this tool.
+date: 02/05/2026
+author: 
+  - name: Pawel Orzechowsky
+site-url: TODO
+#image: IMAGE.png
+#image-alt: |
+categories: [Tools]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+
+[Course selection Tool](https://ddi-talent.shinyapps.io/course-dashboard/)
+
