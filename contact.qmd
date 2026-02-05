@@ -1,12 +1,27 @@
 ---
 include-in-header: "_includes/fontawesome-2up.html"
-knitr:
-  opts_chunk: 
-    collapse: true
+#title: "contact us"
+listing:
+  contents: contact
+  sort: "date desc"
+  type: table
+  table-striped: true
+  table-hover: true
+  fields: [image, title, course-format]
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: 
+    categories: [R, Quarto]
+page-layout: full
+title-block-banner: false
+#knitr:
+#  opts_chunk: 
+#    collapse: true
 execute: 
   echo: false
 ---
+![](images/favicon.png){.profile-pic fig-alt="logo, a simple graph resembling Edinburgh skyline" fig-align="center" width="33%"}
 
-# [We'd love to hear from you!]{.primary}
-
-TODO
+# [CONTACT US]{.second-color}
+Get in touch with us!

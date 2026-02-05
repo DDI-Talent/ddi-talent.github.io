@@ -9,6 +9,17 @@ site-url: TODO
 #image: IMAGE.png
 #image-alt: |
 categories: 
+title: "Emiliano Ariel Videla Rodriguez"
+subtitle: "Teaching Co-ordinator"
+image: eavr.jpg
+# date: UPDATE
+author: 
+  - name: Teaching co-ordinator
+
+site-url: TODO
+
+#image-alt: |
+categories: []
 open-graph: true
 # twitter-card: true
 # will inherit title, description, image
