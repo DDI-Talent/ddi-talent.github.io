@@ -7,11 +7,11 @@ editor: visual
 
 ## **Job**
 
-Currently I am a [teaching assistant](https://www.research.ed.ac.uk/en/persons/laila-dabab-nahas/) in Edinburgh Medical School since May 2024.
+Currently, I have been a [teaching assistant](https://www.research.ed.ac.uk/en/persons/laila-dabab-nahas/) at Edinburgh Medical School since May 2024.
 
 ## **About me**
 
-I love programming, teaching and research. I studied things related to biotechnology- a bachelor and MSc in biotechnology- in addition to programming and research- PhD and postdoctoral in bioinformatics. I am lucky to be able to practice all of them throughout my study and work which is really cool!
+I love programming, teaching and research. I studied things related to biotechnology- a bachelor's and MSc in biotechnology- in addition to programming and research- PhD and postdoctoral in bioinformatics. I am lucky to be able to practice all of them throughout my study and work which is really cool!
 
 ## **Experience**
 
@@ -47,7 +47,7 @@ I love programming, teaching and research. I studied things related to biotechno
 
 ## **Cool ideas**
 
-[Escape room](https://www.thinglink.com/view/scene/2020543706418905956) for teaching in Foundational Research Design
+[Escape room](https://www.thinglink.com/view/scene/2020543706418905956) for teaching in Foundation Research Design
 
 ## **Supervision and Research**
 
@@ -80,5 +80,7 @@ Participating in two chapters in a coming book..
 ## **Contact details**
 
 📧 [Laila.Dabab.Nahas\@ed.ac.uk](http://ldababn@ed.ac.uk)
+
+📧 [lailanhass\@hotmail.com](http://lailanhass@hotmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lailadababnahas/)
