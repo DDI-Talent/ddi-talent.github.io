@@ -1,16 +1,14 @@
 ---
-title: "Emiliano Ariel Videla Rodriguez"
-subtitle: "Teaching Co-ordinator"
+title: ""
+subtitle: ""
 description: |
-  All I know is that I know nothing
-image: eavr.jpg
-# date: UPDATE
+  your brief description
 author: 
-  - name: Teaching co-ordinator
-draft: false
+  name: ""
 ---
+<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
 
-<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 31 before the .jpg-->
+<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
 
 ![](.jpg){fig-align="center"}
 
@@ -41,7 +39,7 @@ draft: false
  - Links and contact: email, github, linkedin, google scholar. 
  
 To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
-# References
+# Publications
 ## 2025
 
 Paper 1
