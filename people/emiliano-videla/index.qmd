@@ -1,43 +1,12 @@
 ---
-title: Emilano Videla Rodriguez
-description: |
-  Teaching co-ordinator
-# date: UPDATE
-#author: 
-#  - name: TODO
-site-url: TODO
-#image: IMAGE.png
-#image-alt: |
-categories: 
-title: "Emiliano Ariel Videla Rodriguez"
+title: "Emiliano Ariel Videla Rodríguez"
 subtitle: "Teaching Co-ordinator"
-image: eavr.jpg
-# date: UPDATE
+description: |
+  All I know is that I know nothing
 author: 
-  - name: Teaching co-ordinator
-
-site-url: TODO
-
-#image-alt: |
-categories: []
-open-graph: true
-# twitter-card: true
-# will inherit title, description, image
-# to change ANYTHING about card, need to fill in EVERYTHING below
-#  title: |
-#  description: |
-#  image: |
-#  image-alt: |
-#  defaults to 500 x 500 summary: uncomment lines below for large card
-#  image-width: 600 
-#  image-height: 314
-#  card-style: summary_large_image 
-#  image-width: 500
-#  image-height: 500
-#  card-style: summary
-draft: false
+  name: "Teaching Co-ordinator"
 ---
-![](EAVR.jpg){fig-aling="center"}
+![](EAVR.jpg){fig-align="centre"}
 
 ## Background
 
