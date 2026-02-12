@@ -1,8 +1,16 @@
 ---
+title: Emilano Videla Rodriguez
+description: |
+  Teaching co-ordinator
+# date: UPDATE
+#author: 
+#  - name: TODO
+site-url: TODO
+#image: IMAGE.png
+#image-alt: |
+categories: 
 title: "Emiliano Ariel Videla Rodriguez"
 subtitle: "Teaching Co-ordinator"
-description: |
-  All I know is that I know nothing
 image: eavr.jpg
 # date: UPDATE
 author: 
@@ -29,39 +37,58 @@ open-graph: true
 #  card-style: summary
 draft: false
 ---
-<!--------------- post content ----------------->
+![](EAVR.jpg){fig-aling="center"}
 
-<!--------------- appendices go here ----------------->
+## Background
 
-![](eavr.jpg){fig-align="center"}
+Emiliano is a teaching co-ordinator at the Edinburgh Medical School. He did an integrated master degree in biological sciences at the Universidad Nacional de Córdoba, Argentina. He did his PhDs at the Universidad Nacional de Córdoba (Argentina) and the Universitat de Lleida (Spain). During his academic career, he speciliased himself in statistical programming and computational biology, with focus on Bayesian Networks as graphical expert systems to facilitate decision making. 
 
-Hi there! My name is Emiliano and I am part of the DDI Health and Social Care Talent team. My role in the team is as a teaching co-ordinator, supporting course organisers with the delivery of courses, demonstrating tutorials, and contributing with different activities, including the development of this website. 
+## Experience
 
-## Education
+-   Programming languages: R, Python, Shell
 
-I did the equivalent of an integrated master program in biological sciences at the Universidad Nacional de Córdoba, Argentina. I then moved on to a first PhD, at the same university, in biological sciences where, although my main research topic was poultry science and poultry industry, I started my journey in statistical programming. 
+-   Data wrangling and pre-processing: integration of databases, feature engineering, data discretization. 
 
-I started a second PhD working at the University of St. Andrews, in Scotland, and enrolled in a PhD programme at the Universitat de Lleida, Spain, where I specialised myself in the applications of Bayesian networks to understand relationships between the elements of complex systems. 
+-   Data analysis: Bayesian and Social Networks, General and Generalized (Mixed) Models, Machine Learning modelling. 
 
-## Latest articles
-### 2025
-EA Videla, JM Caliva, PMA Picco, RH Marín, A Luna, FN Nazar (2025). Thymol, Alpha-Tocopherol and Ascorbyl Palmitate as a Natural Feed Supplements to Modulate Immune Variables and Heterophil to Lymphocyte Ratio in Broiler Chickens. Veterinary Medicine and Science. 11(3):e70398
-```{r}
-#| echo: false
-# library(sessioninfo)
-# # save the session info as an object
-# pkg_session <- session_info(pkgs = "attached")
-# 
-# # get the quarto version
-# quarto_version <- system("quarto --version", intern = TRUE)
-# 
-# # inject the quarto info
-# pkg_session$platform$quarto <- paste(
-#   system("quarto --version", intern = TRUE), 
-#   "@", 
-#   quarto::quarto_path()
-#   )
-# 
-# # print it out
-# pkg_session
-```
+-   Website development
+
+-   Project and partnership management 
+
+## Courses for UG and PGT
+
+-   Data Science for Health and Social Care
+
+-   Introduction to Statistics
+
+-   Research Design and Reproducible Skills
+
+-   Research and Evidence Based Medicine
+
+-   Data Analysis with R
+
+## Continuing Professional Development
+
+-   Edinburgh Teaching Award - Associate Fellow (in progress)
+
+## Publications
+-   Videla Rodriguez E.A., Bouba I., V.A. Smith, van der Brand H., Rodenburg T.B., and B. Viser. 2024. [A two-step Bayesian network approach to identify key SNPs associated to multiple phenotypic traits in four purebread laying hen lines.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297533). PLoS ONE. 19:e0297533.
+
+-   Videla Rodriguez E.A., Mitchell J.B.O., and V.A. Smith. 2024. [Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data.](https://www.nature.com/articles/s41598-024-58679-3). Scientific Reports. 14:9019.
+
+-   Videla Rodriguez E.A., Mitchell J.B.O, and V.A. Smith. 2022. [A Bayesian network structure learning approach to identify genes associated with stress in spleens of chickens](https://www.nature.com/articles/s41598-022-11633-7). Scientific Reports. 12:7482.
+
+-   Videla Rodriguez E.A., Pértille F., Guerrero-Bosagna C., Mitchell J.B.O., Jensen P., and V.A. Smith. 2022. [Practical Application of a Bayesian network approach to poultry epigenetics and stress.](https://link.springer.com/article/10.1186/s12859-022-04800-0). BMC Bioinformatics. 23:261
+
+
+## Outside work
+
+-   Emiliano plays volleyball for Jets Volleybal Club, competing at the National Scottish League and some regional leagues. 
+
+-   He usually carries a book with him so he is grateful for any recommendations. 
+
+## Contact details
+
+📧 [Emiliano.Videla.Rodriguez\@ed.ac.uk](mailto://evidela@ed.ac.uk)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/emiliano-ariel-videla-rodriguez-a1b697102/)
