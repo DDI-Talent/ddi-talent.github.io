@@ -252,25 +252,53 @@
     "text": "Contact details\n📧 Laila.Dabab.Nahas@ed.ac.uk\n🔗 LinkedIn"
   },
   {
-    "objectID": "people/emiliano-videla/index.html",
-    "href": "people/emiliano-videla/index.html",
-    "title": "Emiliano Ariel Videla Rodriguez",
-    "section": "",
-    "text": "Hi there! My name is Emiliano and I am part of the DDI Health and Social Care Talent team. My role in the team is as a teaching co-ordinator, supporting course organisers with the delivery of courses, demonstrating tutorials, and contributing with different activities, including the development of this website."
+    "objectID": "people/emiliano-videla/index.html#background",
+    "href": "people/emiliano-videla/index.html#background",
+    "title": "Emiliano Ariel Videla Rodríguez",
+    "section": "Background",
+    "text": "Background\nEmiliano is a teaching co-ordinator at the Edinburgh Medical School. He did an integrated master degree in biological sciences at the Universidad Nacional de Córdoba, Argentina. He did his PhDs at the Universidad Nacional de Córdoba (Argentina) and the Universitat de Lleida (Spain). During his academic career, he speciliased himself in statistical programming and computational biology, with focus on Bayesian Networks as graphical expert systems to facilitate decision making."
   },
   {
-    "objectID": "people/emiliano-videla/index.html#education",
-    "href": "people/emiliano-videla/index.html#education",
-    "title": "Emiliano Ariel Videla Rodriguez",
-    "section": "Education",
-    "text": "Education\nI did the equivalent of an integrated master program in biological sciences at the Universidad Nacional de Córdoba, Argentina. I then moved on to a first PhD, at the same university, in biological sciences where, although my main research topic was poultry science and poultry industry, I started my journey in statistical programming.\nI started a second PhD working at the University of St. Andrews, in Scotland, and enrolled in a PhD programme at the Universitat de Lleida, Spain, where I specialised myself in the applications of Bayesian networks to understand relationships between the elements of complex systems."
+    "objectID": "people/emiliano-videla/index.html#experience",
+    "href": "people/emiliano-videla/index.html#experience",
+    "title": "Emiliano Ariel Videla Rodríguez",
+    "section": "Experience",
+    "text": "Experience\n\nProgramming languages: R, Python, Shell\nData wrangling and pre-processing: integration of databases, feature engineering, data discretization.\nData analysis: Bayesian and Social Networks, General and Generalized (Mixed) Models, Machine Learning modelling.\nWebsite development\nProject and partnership management"
   },
   {
-    "objectID": "people/emiliano-videla/index.html#latest-articles",
-    "href": "people/emiliano-videla/index.html#latest-articles",
-    "title": "Emiliano Ariel Videla Rodriguez",
-    "section": "Latest articles",
-    "text": "Latest articles\n\n2025\nEA Videla, JM Caliva, PMA Picco, RH Marín, A Luna, FN Nazar (2025). Thymol, Alpha-Tocopherol and Ascorbyl Palmitate as a Natural Feed Supplements to Modulate Immune Variables and Heterophil to Lymphocyte Ratio in Broiler Chickens. Veterinary Medicine and Science. 11(3):e70398"
+    "objectID": "people/emiliano-videla/index.html#courses-for-ug-and-pgt",
+    "href": "people/emiliano-videla/index.html#courses-for-ug-and-pgt",
+    "title": "Emiliano Ariel Videla Rodríguez",
+    "section": "Courses for UG and PGT",
+    "text": "Courses for UG and PGT\n\nData Science for Health and Social Care\nIntroduction to Statistics\nResearch Design and Reproducible Skills\nResearch and Evidence Based Medicine\nData Analysis with R"
+  },
+  {
+    "objectID": "people/emiliano-videla/index.html#continuing-professional-development",
+    "href": "people/emiliano-videla/index.html#continuing-professional-development",
+    "title": "Emiliano Ariel Videla Rodríguez",
+    "section": "Continuing Professional Development",
+    "text": "Continuing Professional Development\n\nEdinburgh Teaching Award - Associate Fellow (in progress)"
+  },
+  {
+    "objectID": "people/emiliano-videla/index.html#publications",
+    "href": "people/emiliano-videla/index.html#publications",
+    "title": "Emiliano Ariel Videla Rodríguez",
+    "section": "Publications",
+    "text": "Publications\n\nVidela Rodriguez E.A., Bouba I., V.A. Smith, van der Brand H., Rodenburg T.B., and B. Viser. 2024. A two-step Bayesian network approach to identify key SNPs associated to multiple phenotypic traits in four purebread laying hen lines.. PLoS ONE. 19:e0297533.\nVidela Rodriguez E.A., Mitchell J.B.O., and V.A. Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data.. Scientific Reports. 14:9019.\nVidela Rodriguez E.A., Mitchell J.B.O, and V.A. Smith. 2022. A Bayesian network structure learning approach to identify genes associated with stress in spleens of chickens. Scientific Reports. 12:7482.\nVidela Rodriguez E.A., Pértille F., Guerrero-Bosagna C., Mitchell J.B.O., Jensen P., and V.A. Smith. 2022. Practical Application of a Bayesian network approach to poultry epigenetics and stress.. BMC Bioinformatics. 23:261"
+  },
+  {
+    "objectID": "people/emiliano-videla/index.html#outside-work",
+    "href": "people/emiliano-videla/index.html#outside-work",
+    "title": "Emiliano Ariel Videla Rodríguez",
+    "section": "Outside work",
+    "text": "Outside work\n\nEmiliano plays volleyball for Jets Volleybal Club, competing at the National Scottish League and some regional leagues.\nHe usually carries a book with him so he is grateful for any recommendations."
+  },
+  {
+    "objectID": "people/emiliano-videla/index.html#contact-details",
+    "href": "people/emiliano-videla/index.html#contact-details",
+    "title": "Emiliano Ariel Videla Rodríguez",
+    "section": "Contact details",
+    "text": "Contact details\n📧 Emiliano.Videla.Rodriguez@ed.ac.uk\n🔗 LinkedIn"
   },
   {
     "objectID": "people/kasia-banas/index.html",
@@ -305,7 +333,7 @@
     "href": "people.html",
     "title": "PEOPLE",
     "section": "",
-    "text": "PEOPLE\nHere you will find useful information about the roles each one of the team members has.\nbanana banana banana\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaila Dabab Nahas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmiliano Ariel Videla Rodriguez\n\n\n\n\n\nAll I know is that I know nothing\n\n\n\nTeaching co-ordinator\n\n\n\n\n\n\n\n\n\n\n\nAbout Brittany Blankinship TODO\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nPost Title Kasia\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO author\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecturer in Programming for Data Science\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "PEOPLE\nHere you will find useful information about the roles each one of the team members has.\nbanana banana banana\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaila Dabab Nahas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmiliano Ariel Videla Rodríguez\n\n\nAll I know is that I know nothing\n\n\n\nTeaching Co-ordinator\n\n\n\n\n\n\n\n\n\n\n\nAbout Brittany Blankinship TODO\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nPost Title Kasia\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO author\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecturer in Programming for Data Science\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
   },
   {
     "objectID": "teaching/ug-intercalated/index.html",

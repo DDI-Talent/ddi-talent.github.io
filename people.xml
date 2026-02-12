@@ -17,7 +17,7 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Tue, 10 Feb 2026 17:27:03 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Feb 2026 08:50:49 GMT</lastBuildDate>
 <item>
   <title></title>
   <link>https://ddi-talent.github.io/people/angelo-ercia/</link>
@@ -81,7 +81,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/angelo-ercia/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -146,7 +146,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/mavis-frempong/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -211,7 +211,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/sophie-marion-de-proce/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -276,7 +276,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/jenn-liedtke/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -341,7 +341,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/matt-sanders/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title>Laila Dabab Nahas</title>
@@ -426,7 +426,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/laila-dabab-nahas/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -491,11 +491,11 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/franziska-mcmanus/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
-  <title>Emiliano Ariel Videla Rodriguez</title>
-  <dc:creator>Teaching co-ordinator</dc:creator>
+  <title>Emiliano Ariel Videla Rodríguez</title>
+  <dc:creator>Teaching Co-ordinator</dc:creator>
   <link>https://ddi-talent.github.io/people/emiliano-videla/</link>
   <description><![CDATA[ 
 
@@ -504,33 +504,68 @@ Paper 2
 
 
 
-<!--------------- post content ----------------->
-<!--------------- appendices go here ----------------->
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-centre">
 <figure class="figure">
-<p><img src="https://ddi-talent.github.io/people/emiliano-videla/eavr.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://ddi-talent.github.io/people/emiliano-videla/EAVR.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
 </figure>
 </div>
-<p>Hi there! My name is Emiliano and I am part of the DDI Health and Social Care Talent team. My role in the team is as a teaching co-ordinator, supporting course organisers with the delivery of courses, demonstrating tutorials, and contributing with different activities, including the development of this website.</p>
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-<p>I did the equivalent of an integrated master program in biological sciences at the Universidad Nacional de Córdoba, Argentina. I then moved on to a first PhD, at the same university, in biological sciences where, although my main research topic was poultry science and poultry industry, I started my journey in statistical programming.</p>
-<p>I started a second PhD working at the University of St.&nbsp;Andrews, in Scotland, and enrolled in a PhD programme at the Universitat de Lleida, Spain, where I specialised myself in the applications of Bayesian networks to understand relationships between the elements of complex systems.</p>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+<p>Emiliano is a teaching co-ordinator at the Edinburgh Medical School. He did an integrated master degree in biological sciences at the Universidad Nacional de Córdoba, Argentina. He did his PhDs at the Universidad Nacional de Córdoba (Argentina) and the Universitat de Lleida (Spain). During his academic career, he speciliased himself in statistical programming and computational biology, with focus on Bayesian Networks as graphical expert systems to facilitate decision making.</p>
 </section>
-<section id="latest-articles" class="level2">
-<h2 class="anchored" data-anchor-id="latest-articles">Latest articles</h2>
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section">2025</h3>
-<p>EA Videla, JM Caliva, PMA Picco, RH Marín, A Luna, FN Nazar (2025). Thymol, Alpha-Tocopherol and Ascorbyl Palmitate as a Natural Feed Supplements to Modulate Immune Variables and Heterophil to Lymphocyte Ratio in Broiler Chickens. Veterinary Medicine and Science. 11(3):e70398</p>
+<section id="experience" class="level2">
+<h2 class="anchored" data-anchor-id="experience">Experience</h2>
+<ul>
+<li><p>Programming languages: R, Python, Shell</p></li>
+<li><p>Data wrangling and pre-processing: integration of databases, feature engineering, data discretization.</p></li>
+<li><p>Data analysis: Bayesian and Social Networks, General and Generalized (Mixed) Models, Machine Learning modelling.</p></li>
+<li><p>Website development</p></li>
+<li><p>Project and partnership management</p></li>
+</ul>
+</section>
+<section id="courses-for-ug-and-pgt" class="level2">
+<h2 class="anchored" data-anchor-id="courses-for-ug-and-pgt">Courses for UG and PGT</h2>
+<ul>
+<li><p>Data Science for Health and Social Care</p></li>
+<li><p>Introduction to Statistics</p></li>
+<li><p>Research Design and Reproducible Skills</p></li>
+<li><p>Research and Evidence Based Medicine</p></li>
+<li><p>Data Analysis with R</p></li>
+</ul>
+</section>
+<section id="continuing-professional-development" class="level2">
+<h2 class="anchored" data-anchor-id="continuing-professional-development">Continuing Professional Development</h2>
+<ul>
+<li>Edinburgh Teaching Award - Associate Fellow (in progress)</li>
+</ul>
+</section>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<ul>
+<li><p>Videla Rodriguez E.A., Bouba I., V.A. Smith, van der Brand H., Rodenburg T.B., and B. Viser. 2024. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297533">A two-step Bayesian network approach to identify key SNPs associated to multiple phenotypic traits in four purebread laying hen lines.</a>. PLoS ONE. 19:e0297533.</p></li>
+<li><p>Videla Rodriguez E.A., Mitchell J.B.O., and V.A. Smith. 2024. <a href="https://www.nature.com/articles/s41598-024-58679-3">Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data.</a>. Scientific Reports. 14:9019.</p></li>
+<li><p>Videla Rodriguez E.A., Mitchell J.B.O, and V.A. Smith. 2022. <a href="https://www.nature.com/articles/s41598-022-11633-7">A Bayesian network structure learning approach to identify genes associated with stress in spleens of chickens</a>. Scientific Reports. 12:7482.</p></li>
+<li><p>Videla Rodriguez E.A., Pértille F., Guerrero-Bosagna C., Mitchell J.B.O., Jensen P., and V.A. Smith. 2022. <a href="https://link.springer.com/article/10.1186/s12859-022-04800-0">Practical Application of a Bayesian network approach to poultry epigenetics and stress.</a>. BMC Bioinformatics. 23:261</p></li>
+</ul>
+</section>
+<section id="outside-work" class="level2">
+<h2 class="anchored" data-anchor-id="outside-work">Outside work</h2>
+<ul>
+<li><p>Emiliano plays volleyball for Jets Volleybal Club, competing at the National Scottish League and some regional leagues.</p></li>
+<li><p>He usually carries a book with him so he is grateful for any recommendations.</p></li>
+</ul>
+</section>
+<section id="contact-details" class="level2">
+<h2 class="anchored" data-anchor-id="contact-details">Contact details</h2>
+<p>📧 <a href="mailto://evidela@ed.ac.uk">Emiliano.Videla.Rodriguez@ed.ac.uk</a></p>
+<p>🔗 <a href="https://www.linkedin.com/in/emiliano-ariel-videla-rodriguez-a1b697102/">LinkedIn</a></p>
 
 
-</section>
 </section>
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/emiliano-videla/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
-  <media:content url="https://ddi-talent.github.io/people/emiliano-videla/eavr.jpg" medium="image" type="image/jpeg"/>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title>About Brittany Blankinship TODO</title>
@@ -562,7 +597,7 @@ Toggle
   <category>TAG_1</category>
   <category>TAG_2</category>
   <guid>https://ddi-talent.github.io/people/brittany-blankinship/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title>Post Title Kasia</title>
@@ -585,7 +620,7 @@ Toggle
   <category>TAG_1</category>
   <category>TAG_2</category>
   <guid>https://ddi-talent.github.io/people/kasia-banas/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -650,7 +685,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/elaine-mowat/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -715,7 +750,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/karolina-gibson-bajbuz/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -780,7 +815,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/nazir-lone/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -845,7 +880,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/suzanne-goopy/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -910,7 +945,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/rosie-downs/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title>Lecturer in Programming for Data Science</title>
@@ -942,7 +977,7 @@ Toggle
   <category>TAG_1</category>
   <category>TAG_2</category>
   <guid>https://ddi-talent.github.io/people/pawel-orzechowski/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -1007,7 +1042,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/john-wilson/</guid>
-  <pubDate>Tue, 10 Feb 2026 17:27:03 GMT</pubDate>
+  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
 </item>
 </channel>
 </rss>
