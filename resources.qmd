@@ -11,11 +11,13 @@ listing:
     categories: [R, Quarto]
 page-layout: full
 title-block-banner: false
-knitr:
-  opts_chunk: 
-    collapse: true
+#knitr:
+#  opts_chunk: 
+#    collapse: true
 execute: 
   echo: false
 ---
+![](images/favicon.png){.profile-pic fig-alt="logo, a simple graph resembling Edinburgh skyline" fig-align="center" width="33%"}
 
 # [RESOURCES]{.second-color}
+Interested in our courses, workshops, and events? Take a look at our variety of resources. 

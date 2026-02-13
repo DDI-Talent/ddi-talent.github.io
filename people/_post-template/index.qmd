@@ -1,29 +1,10 @@
 ---
-title: Post Title
-description: |
-  Post description TODO
-# date: UPDATE
-author: 
-  - name: TODO
+title: "Your full name"
+subtitle: "Your role"
+author:
+	name: your role
+
 site-url: TODO
-#image: IMAGE.png
-#image-alt: |
-categories: [TAG_1, TAG_2]
-open-graph: true
-# twitter-card: true
-# will inherit title, description, image
-# to change ANYTHING about card, need to fill in EVERYTHING below
-#  title: |
-#  description: |
-#  image: |
-#  image-alt: |
-#  defaults to 500 x 500 summary: uncomment lines below for large card
-#  image-width: 600 
-#  image-height: 314
-#  card-style: summary_large_image 
-#  image-width: 500
-#  image-height: 500
-#  card-style: summary
 draft: false
 ---
 
@@ -34,48 +15,18 @@ draft: false
 #| results: 'hide'
 
 long_slug <- "FILL THIS IN"
-
-# NOTE: after finishing post, run renv::snapshot() and copy the renv.lock file 
-# from the project root into the post directory
-# file.copy("../../renv.lock", "renv.lock", overwrite = TRUE)
-
-# renv::use(lockfile = "renv.lock")
 ```
 
-<!--------------- post content ----------------->
+<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 22 before the .jpg-->
 
-<!--------------- appendices go here ----------------->
+![](.jpg){fig-align="center"}
 
+<!--write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog. It could be topics such as background and education, courses you are teaching (if possible provide links), research articles (include links). You can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3)-->
 
-TODO: hello world
+#Heading 1
+Your paragraph.
 
-##### Session info {.appendix}
+#Heading 2
+Your paragraph.
 
-<details><summary>Toggle</summary>
-
-```{r}
-#| echo: false
-# library(sessioninfo)
-# # save the session info as an object
-# pkg_session <- session_info(pkgs = "attached")
-# 
-# # get the quarto version
-# quarto_version <- system("quarto --version", intern = TRUE)
-# 
-# # inject the quarto info
-# pkg_session$platform$quarto <- paste(
-#   system("quarto --version", intern = TRUE), 
-#   "@", 
-#   quarto::quarto_path()
-#   )
-# 
-# # print it out
-# pkg_session
-```
-
-</details>
-
-
-
-
-
+<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->

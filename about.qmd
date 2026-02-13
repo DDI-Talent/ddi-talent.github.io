@@ -1,4 +1,29 @@
+---
+#title: "about"
+listing:
+  contents: about
+  sort: "date desc"
+  type: table
+  table-striped: true
+  table-hover: true
+  fields: [image, title, course-format]
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: 
+    categories: [R, Quarto]
+page-layout: full
+title-block-banner: false
+#knitr:
+#  opts_chunk: 
+#    collapse: true
+execute: 
+  echo: false
+---
+
 ![](images/logo.png){.profile-pic fig-alt="logo, a simple graph resembling Edinburgh skyline" fig-align="center" width="33%"}
+
+Here you will find some useful information about the team
 
 TODO, some description with links to [about](about.qmd),  [people](people.qmd),  [resources](resources.qmd),  [teaching](teaching.qmd)
 
@@ -9,3 +34,6 @@ TODO: interesting way to include link? in R:
   text = "website",
   url = "https://www.pairprogramming.ed.ac.uk"
 )`
+
+# [ABOUT]{.second-color}
+Get to know our DDI Talent team and the different teaching activities. 

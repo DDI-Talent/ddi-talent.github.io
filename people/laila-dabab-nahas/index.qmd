@@ -13,7 +13,7 @@ Currently, I have been a [teaching assistant](https://www.research.ed.ac.uk/en/p
 
 I love programming, teaching and research. I studied things related to biotechnology- a bachelor's and MSc in biotechnology- in addition to programming and research- PhD and postdoctoral in bioinformatics. I am lucky to be able to practice all of them throughout my study and work which is really cool!
 
-## **Experience**
+## Experience
 
 -   [High performance computers (Eddie)](https://information-services.ed.ac.uk/research-support/research-computing/ecdf/high-performance-computing)
 
@@ -25,7 +25,7 @@ I love programming, teaching and research. I studied things related to biotechno
 
 -   Analysis such as scRNA, RNA and HiC.
 
-## **Courses I teach in**
+## Courses I teach in
 
 -   Data Sciences for Health and Social Care
 
@@ -39,17 +39,17 @@ I love programming, teaching and research. I studied things related to biotechno
 
 -   In addition to a lot of other courses I support such as the AI for Care in The Degital of Age
 
-## **CPD**
+## CPD
 
 -   AFHEA
 
 -   PGCap in progress ..
 
-## **Cool ideas**
+## Cool ideas
 
 [Escape room](https://www.thinglink.com/view/scene/2020543706418905956) for teaching in Foundation Research Design
 
-## **Supervision and Research**
+## Supervision and Research
 
 -   Co-supervising a GWAS project for PG with Dr. Kristin Nicodemus
 
@@ -57,13 +57,13 @@ I love programming, teaching and research. I studied things related to biotechno
 
 -   A mentor in [Education Beyond Borders programme](https://global.ed.ac.uk/education-beyond-borders) at The University of Edinburgh
 
-## **Publications**
+## Publications
 
 [Laila Dabab Nahas - Google Scholar](https://scholar.google.com/citations?user=ulTslo4AAAAJ&hl=en)
 
 Participating in two chapters in a coming book..
 
-## **Outside work**
+## Outside work
 
 -   A very proud mother
 
@@ -77,9 +77,9 @@ Participating in two chapters in a coming book..
 
 -   Loves to learn new things
 
-## **Contact details**
+## Contact details
 
-📧 [Laila.Dabab.Nahas\@ed.ac.uk](http://ldababn@ed.ac.uk)
+📧 [Laila.Dabab.Nahas\@ed.ac.uk](mailto://Laila.Dabab.Nahas@ed.ac.uk)
 
 📧 [lailanhass\@hotmail.com](http://lailanhass@hotmail.com)
 
