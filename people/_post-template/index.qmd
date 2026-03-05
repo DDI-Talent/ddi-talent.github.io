@@ -1,12 +1,12 @@
 ---
-title: "Emiliano Ariel Videla Rodriguez"
-subtitle: "Teaching Co-ordinator"
+title: ""
+subtitle: ""
 description: |
-  All I know is that I know nothing
-image: eavr.jpg
+  
+image: .jpg
 # date: UPDATE
 author: 
-  - name: Teaching co-ordinator
+  - name: 
 draft: false
 ---
 
@@ -54,10 +54,10 @@ Paper 2
 
 -->
 
-#Heading 1
+# Heading 1
 Your paragraph.
 
-#Heading 2
+# Heading 2
 Your paragraph.
 
 <!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
