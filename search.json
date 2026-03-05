@@ -1,145 +1,5 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "RESOURCES",
-    "section": "",
-    "text": "RESOURCES\nInterested in our courses, workshops, and events? Take a look at our variety of resources.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPairs Maker. Pair Programming and Groupwork\n\n\n\nTools\n\n\n\nApplying pair-programming in your teaching? Take a look at this tool.\n\n\n\nPawel Orzechowsky\n\n\nFeb 5, 2026\n\n\n\n\n\n\n\n\n\n\n\nHealth Data Hackathon\n\n\n\nEvents\n\n\n\nThe Edinburgh Medical School and the School of Methematics held a health data hackathon in collaboration with Public Health Scotland.\n\n\n\nBy Dr. Banas and Dr. Videla Rodriguez\n\n\nFeb 4, 2026\n\n\n\n\n\n\n\n\n\n\n\nPost Title\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\nInvalid Date\n\n\n\n\n\n\n\n\n\n\n\nCourse Selection Tool\n\n\n\nTools\n\n\n\nAre you a prospective student of one of our MSc Degrees? Pick and choose your courses using this app.\n\n\n\nPawel Orzechowski\n\n\nFeb 5, 2026\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "teaching/msc-data-science/index.html",
-    "href": "teaching/msc-data-science/index.html",
-    "title": "Post Title MSc",
-    "section": "",
-    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "people/john-wilson/index.html",
-    "href": "people/john-wilson/index.html",
-    "title": "DDI Talent Team Website",
-    "section": "",
-    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
-  },
-  {
-    "objectID": "people/rosie-downs/index.html",
-    "href": "people/rosie-downs/index.html",
-    "title": "DDI Talent Team Website",
-    "section": "",
-    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
-  },
-  {
-    "objectID": "people/nazir-lone/index.html",
-    "href": "people/nazir-lone/index.html",
-    "title": "DDI Talent Team Website",
-    "section": "",
-    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
-  },
-  {
-    "objectID": "people/elaine-mowat/index.html",
-    "href": "people/elaine-mowat/index.html",
-    "title": "DDI Talent Team Website",
-    "section": "",
-    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
-  },
-  {
-    "objectID": "people/brittany-blankinship/index.html",
-    "href": "people/brittany-blankinship/index.html",
-    "title": "About Brittany Blankinship TODO",
-    "section": "",
-    "text": "TODO: hello world\n\n\nSession info\n\n\n\nToggle"
-  },
-  {
-    "objectID": "people/franziska-mcmanus/index.html",
-    "href": "people/franziska-mcmanus/index.html",
-    "title": "DDI Talent Team Website",
-    "section": "",
-    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
-  },
-  {
-    "objectID": "people/matt-sanders/index.html",
-    "href": "people/matt-sanders/index.html",
-    "title": "DDI Talent Team Website",
-    "section": "",
-    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
-  },
-  {
-    "objectID": "people/sophie-marion-de-proce/index.html",
-    "href": "people/sophie-marion-de-proce/index.html",
-    "title": "DDI Talent Team Website",
-    "section": "",
-    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
-  },
-  {
-    "objectID": "people/angelo-ercia/index.html",
-    "href": "people/angelo-ercia/index.html",
-    "title": "DDI Talent Team Website",
-    "section": "",
-    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
-  },
-  {
-    "objectID": "README_DEV.html",
-    "href": "README_DEV.html",
-    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
-    "section": "",
-    "text": "in console run:\n\n// if you’re just joining the project, you might need\ninstall.packages('renv')\n\n\nrenv::restore()\n\n\n\nrenv::snapshot()\n\n\n\nrenv::rebuild()"
-  },
-  {
-    "objectID": "README_DEV.html#this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice",
-    "href": "README_DEV.html#this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice",
-    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
-    "section": "",
-    "text": "renv::restore()"
-  },
-  {
-    "objectID": "README_DEV.html#if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot.",
-    "href": "README_DEV.html#if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot.",
-    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
-    "section": "",
-    "text": "renv::snapshot()"
-  },
-  {
-    "objectID": "README_DEV.html#of-if-drama",
-    "href": "README_DEV.html#of-if-drama",
-    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
-    "section": "",
-    "text": "renv::rebuild()"
-  },
-  {
-    "objectID": "resources/pair-programming-community/index.html",
-    "href": "resources/pair-programming-community/index.html",
-    "title": "Post Title",
-    "section": "",
-    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "resources/pair-programming-groups-Feb-2026/index.html",
-    "href": "resources/pair-programming-groups-Feb-2026/index.html",
-    "title": "Pairs Maker. Pair Programming and Groupwork",
-    "section": "",
-    "text": "Course selection Tool\n\n\n\n\n\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "CONTACT US",
-    "section": "",
-    "text": "CONTACT US\nGet in touch with us!\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\ncourse-format\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the DDI Talent website!",
-    "section": "",
-    "text": "Welcome to the DDI talent website!\n\n\n\n\n\nAbout us [TODO]\n\n\nABOUT\n\n\n\n\n\n\n\n\nResources we created and/or love [TODO]\n\n\nRESOURCES\n\n\n\n\n\n\n\n\nOur team and contributors [TODO]\n\n\nPEOPLE\n\n\n\n\n\n\n\n\nCourses and programs we run and contribute towards [TODO]\n\n\nTEACHING\n\n\n\n\n\n\n\n\nGet in touch and find us on socials [TODO]\n\n\nCONTACT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nABOUT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPEOPLE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRESOURCES\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTEACHING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCONTACT US\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "TEACHING",
-    "section": "",
-    "text": "TEACHING\nHere you can take a look at our portfolio of courses.\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\ncourse-format\n\n\n\n\n\n\n\n\n\n\n\nPost Title intercalated\n\n\n \n\n\n\n\n\n\n\n\n\nPost Title MSc\n\n\nPG, UG, short-course\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
-  },
-  {
     "objectID": "resources/hackathon-Feb-2026-ems-math-phs/index.html",
     "href": "resources/hackathon-Feb-2026-ems-math-phs/index.html",
     "title": "Health Data Hackathon",
@@ -154,22 +14,8 @@
     "text": "Course Selection Tool\n\n\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "ABOUT",
-    "section": "",
-    "text": "Here you will find some useful information about the team\nTODO, some description with links to about, people, resources, teaching\nTODO: interesting way to include link? in R:\nr icon_link(   icon = \"globe\",   text = \"website\",   url = \"https://www.pairprogramming.ed.ac.uk\" )\n\nABOUT\nGet to know our DDI Talent team and the different teaching activities.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\ncourse-format\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "people/mavis-frempong/index.html",
-    "href": "people/mavis-frempong/index.html",
-    "title": "DDI Talent Team Website",
-    "section": "",
-    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
-  },
-  {
-    "objectID": "people/jenn-liedtke/index.html",
-    "href": "people/jenn-liedtke/index.html",
+    "objectID": "people/angelo-ercia/index.html",
+    "href": "people/angelo-ercia/index.html",
     "title": "DDI Talent Team Website",
     "section": "",
     "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
@@ -252,6 +98,13 @@
     "text": "Contact details\n📧 Laila.Dabab.Nahas@ed.ac.uk\n🔗 LinkedIn"
   },
   {
+    "objectID": "people/suzanne-goopy/index.html",
+    "href": "people/suzanne-goopy/index.html",
+    "title": "DDI Talent Team Website",
+    "section": "",
+    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
+  },
+  {
     "objectID": "people/emiliano-videla/index.html#background",
     "href": "people/emiliano-videla/index.html#background",
     "title": "Emiliano Ariel Videla Rodríguez",
@@ -301,11 +154,151 @@
     "text": "Contact details\n📧 Emiliano.Videla.Rodriguez@ed.ac.uk\n🔗 LinkedIn"
   },
   {
+    "objectID": "people/pawel-orzechowski/index.html",
+    "href": "people/pawel-orzechowski/index.html",
+    "title": "Lecturer in Programming for Data Science",
+    "section": "",
+    "text": "TODO: banana banana\n\n\nSession info\n\n\n\nToggle"
+  },
+  {
     "objectID": "people/kasia-banas/index.html",
     "href": "people/kasia-banas/index.html",
     "title": "Post Title Kasia",
     "section": "",
     "text": "TODO: hello world Kasia"
+  },
+  {
+    "objectID": "people/elaine-mowat/index.html",
+    "href": "people/elaine-mowat/index.html",
+    "title": "DDI Talent Team Website",
+    "section": "",
+    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
+  },
+  {
+    "objectID": "people/brittany-blankinship/index.html",
+    "href": "people/brittany-blankinship/index.html",
+    "title": "About Brittany Blankinship TODO",
+    "section": "",
+    "text": "TODO: hello world\n\n\nSession info\n\n\n\nToggle"
+  },
+  {
+    "objectID": "people/nazir-lone/index.html",
+    "href": "people/nazir-lone/index.html",
+    "title": "DDI Talent Team Website",
+    "section": "",
+    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "PEOPLE",
+    "section": "",
+    "text": "PEOPLE\nHere you will find useful information about the roles each one of the team members has.\nbanana banana banana\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Brittany Blankinship TODO\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost Title Kasia\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO author\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecturer in Programming for Data Science\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmiliano Ariel Videla Rodríguez\n\n\nAll I know is that I know nothing\n\n\n\nTeaching Co-ordinator\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaila Dabab Nahas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "teaching/ug-intercalated/index.html",
+    "href": "teaching/ug-intercalated/index.html",
+    "title": "Post Title intercalated",
+    "section": "",
+    "text": "TODO: hello world. intercalated\n\n\nSession info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "TEACHING",
+    "section": "",
+    "text": "TEACHING\nHere you can take a look at our portfolio of courses.\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\ncourse-format\n\n\n\n\n\n\n\n\n\n\n\nPost Title intercalated\n\n\n \n\n\n\n\n\n\n\n\n\nPost Title MSc\n\n\nPG, UG, short-course\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the DDI Talent website!",
+    "section": "",
+    "text": "Welcome to the DDI talent website!\n\n\n\n\n\nAbout us [TODO]\n\n\nABOUT\n\n\n\n\n\n\n\n\nResources we created and/or love [TODO]\n\n\nRESOURCES\n\n\n\n\n\n\n\n\nOur team and contributors [TODO]\n\n\nPEOPLE\n\n\n\n\n\n\n\n\nCourses and programs we run and contribute towards [TODO]\n\n\nTEACHING\n\n\n\n\n\n\n\n\nGet in touch and find us on socials [TODO]\n\n\nCONTACT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nABOUT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPEOPLE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRESOURCES\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTEACHING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCONTACT US\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "README_DEV.html",
+    "href": "README_DEV.html",
+    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
+    "section": "",
+    "text": "in console run:\n\n// if you’re just joining the project, you might need\ninstall.packages('renv')\n\n\nrenv::restore()\n\n\n\nrenv::snapshot()\n\n\n\nrenv::rebuild()"
+  },
+  {
+    "objectID": "README_DEV.html#this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice",
+    "href": "README_DEV.html#this-will-restore-libraries.-you-might-wanna-do-this-after-pulling.-choose-1-activate-the-project-and-use-the-project-library-you-might-have-to-do-it-twice",
+    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
+    "section": "",
+    "text": "renv::restore()"
+  },
+  {
+    "objectID": "README_DEV.html#if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot.",
+    "href": "README_DEV.html#if-you-added-new-libraries-this-will-create-a-new-record-which-can-be-restored.-choose-2-install-the-packages-then-snapshot.",
+    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
+    "section": "",
+    "text": "renv::snapshot()"
+  },
+  {
+    "objectID": "README_DEV.html#of-if-drama",
+    "href": "README_DEV.html#of-if-drama",
+    "title": "When you start to work on this you will need to use renv which takes care of the libraries and their versions. A bit more setup, a much #ess drama.",
+    "section": "",
+    "text": "renv::rebuild()"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "CONTACT US",
+    "section": "",
+    "text": "CONTACT US\nGet in touch with us!\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\ncourse-format\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "RESOURCES",
+    "section": "",
+    "text": "RESOURCES\nInterested in our courses, workshops, and events? Take a look at our variety of resources.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPairs Maker. Pair Programming and Groupwork\n\n\n\nTools\n\n\n\nApplying pair-programming in your teaching? Take a look at this tool.\n\n\n\nPawel Orzechowsky\n\n\nFeb 5, 2026\n\n\n\n\n\n\n\n\n\n\n\nCourse Selection Tool\n\n\n\nTools\n\n\n\nAre you a prospective student of one of our MSc Degrees? Pick and choose your courses using this app.\n\n\n\nPawel Orzechowski\n\n\nFeb 5, 2026\n\n\n\n\n\n\n\n\n\n\n\nPost Title\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\nInvalid Date\n\n\n\n\n\n\n\n\n\n\n\nHealth Data Hackathon\n\n\n\nEvents\n\n\n\nThe Edinburgh Medical School and the School of Methematics held a health data hackathon in collaboration with Public Health Scotland.\n\n\n\nBy Dr. Banas and Dr. Videla Rodriguez\n\n\nFeb 4, 2026\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "teaching/msc-data-science/index.html",
+    "href": "teaching/msc-data-science/index.html",
+    "title": "Post Title MSc",
+    "section": "",
+    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "ABOUT",
+    "section": "",
+    "text": "Here you will find some useful information about the team\nTODO, some description with links to about, people, resources, teaching\nTODO: interesting way to include link? in R:\nr icon_link(   icon = \"globe\",   text = \"website\",   url = \"https://www.pairprogramming.ed.ac.uk\" )\n\nABOUT\nGet to know our DDI Talent team and the different teaching activities.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\ncourse-format\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "people/mavis-frempong/index.html",
+    "href": "people/mavis-frempong/index.html",
+    "title": "DDI Talent Team Website",
+    "section": "",
+    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
+  },
+  {
+    "objectID": "people/john-wilson/index.html",
+    "href": "people/john-wilson/index.html",
+    "title": "DDI Talent Team Website",
+    "section": "",
+    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
+  },
+  {
+    "objectID": "people/matt-sanders/index.html",
+    "href": "people/matt-sanders/index.html",
+    "title": "DDI Talent Team Website",
+    "section": "",
+    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
+  },
+  {
+    "objectID": "people/rosie-downs/index.html",
+    "href": "people/rosie-downs/index.html",
+    "title": "DDI Talent Team Website",
+    "section": "",
+    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
   },
   {
     "objectID": "people/karolina-gibson-bajbuz/index.html",
@@ -315,31 +308,38 @@
     "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
   },
   {
-    "objectID": "people/suzanne-goopy/index.html",
-    "href": "people/suzanne-goopy/index.html",
+    "objectID": "people/franziska-mcmanus/index.html",
+    "href": "people/franziska-mcmanus/index.html",
     "title": "DDI Talent Team Website",
     "section": "",
     "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
   },
   {
-    "objectID": "people/pawel-orzechowski/index.html",
-    "href": "people/pawel-orzechowski/index.html",
-    "title": "Lecturer in Programming for Data Science",
+    "objectID": "people/sophie-marion-de-proce/index.html",
+    "href": "people/sophie-marion-de-proce/index.html",
+    "title": "DDI Talent Team Website",
     "section": "",
-    "text": "TODO: banana banana\n\n\nSession info\n\n\n\nToggle"
+    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "PEOPLE",
+    "objectID": "people/jenn-liedtke/index.html",
+    "href": "people/jenn-liedtke/index.html",
+    "title": "DDI Talent Team Website",
     "section": "",
-    "text": "PEOPLE\nHere you will find useful information about the roles each one of the team members has.\nbanana banana banana\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaila Dabab Nahas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmiliano Ariel Videla Rodríguez\n\n\nAll I know is that I know nothing\n\n\n\nTeaching Co-ordinator\n\n\n\n\n\n\n\n\n\n\n\nAbout Brittany Blankinship TODO\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nPost Title Kasia\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO author\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecturer in Programming for Data Science\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
   },
   {
-    "objectID": "teaching/ug-intercalated/index.html",
-    "href": "teaching/ug-intercalated/index.html",
-    "title": "Post Title intercalated",
+    "objectID": "resources/pair-programming-groups-Feb-2026/index.html",
+    "href": "resources/pair-programming-groups-Feb-2026/index.html",
+    "title": "Pairs Maker. Pair Programming and Groupwork",
     "section": "",
-    "text": "TODO: hello world. intercalated\n\n\nSession info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
+    "text": "Course selection Tool\n\n\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "resources/pair-programming-community/index.html",
+    "href": "resources/pair-programming-community/index.html",
+    "title": "Post Title",
+    "section": "",
+    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
   }
 ]

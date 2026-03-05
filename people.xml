@@ -17,10 +17,10 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Thu, 12 Feb 2026 08:50:49 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 14:37:02 GMT</lastBuildDate>
 <item>
   <title></title>
-  <link>https://ddi-talent.github.io/people/angelo-ercia/</link>
+  <link>https://ddi-talent.github.io/people/nazir-lone/</link>
   <description><![CDATA[ 
 
 
@@ -31,7 +31,7 @@
 <!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://ddi-talent.github.io/people/angelo-ercia/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://ddi-talent.github.io/people/nazir-lone/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
@@ -80,8 +80,8 @@ Paper 2
 
 
  ]]></description>
-  <guid>https://ddi-talent.github.io/people/angelo-ercia/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
+  <guid>https://ddi-talent.github.io/people/nazir-lone/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -146,11 +146,43 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/mavis-frempong/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
+</item>
+<item>
+  <title>About Brittany Blankinship TODO</title>
+  <dc:creator>TODO </dc:creator>
+  <link>https://ddi-talent.github.io/people/brittany-blankinship/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<!--------------- set up ----------------->
+<!--------------- post content ----------------->
+<!--------------- appendices go here ----------------->
+<p>TODO: hello world</p>
+
+
+<div id="quarto-appendix" class="default"><section id="session-info" class="level5 appendix"><h2 class="anchored quarto-appendix-heading">Session info</h2><div class="quarto-appendix-contents">
+
+<details>
+<summary>
+Toggle
+</summary>
+</details>
+
+
+</div></section></div> ]]></description>
+  <category>TAG_1</category>
+  <category>TAG_2</category>
+  <guid>https://ddi-talent.github.io/people/brittany-blankinship/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
 </item>
 <item>
   <title></title>
-  <link>https://ddi-talent.github.io/people/sophie-marion-de-proce/</link>
+  <link>https://ddi-talent.github.io/people/john-wilson/</link>
   <description><![CDATA[ 
 
 
@@ -161,7 +193,7 @@ Paper 2
 <!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://ddi-talent.github.io/people/sophie-marion-de-proce/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://ddi-talent.github.io/people/john-wilson/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
@@ -210,12 +242,12 @@ Paper 2
 
 
  ]]></description>
-  <guid>https://ddi-talent.github.io/people/sophie-marion-de-proce/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
+  <guid>https://ddi-talent.github.io/people/john-wilson/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
 </item>
 <item>
   <title></title>
-  <link>https://ddi-talent.github.io/people/jenn-liedtke/</link>
+  <link>https://ddi-talent.github.io/people/elaine-mowat/</link>
   <description><![CDATA[ 
 
 
@@ -226,7 +258,7 @@ Paper 2
 <!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://ddi-talent.github.io/people/jenn-liedtke/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://ddi-talent.github.io/people/elaine-mowat/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
@@ -275,8 +307,8 @@ Paper 2
 
 
  ]]></description>
-  <guid>https://ddi-talent.github.io/people/jenn-liedtke/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
+  <guid>https://ddi-talent.github.io/people/elaine-mowat/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -341,7 +373,461 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/matt-sanders/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
+</item>
+<item>
+  <title>Post Title Kasia</title>
+  <dc:creator>TODO author</dc:creator>
+  <link>https://ddi-talent.github.io/people/kasia-banas/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<!--------------- set up ----------------->
+<!--------------- post content ----------------->
+<p>TODO: hello world Kasia</p>
+
+
+
+ ]]></description>
+  <category>TAG_1</category>
+  <category>TAG_2</category>
+  <guid>https://ddi-talent.github.io/people/kasia-banas/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <link>https://ddi-talent.github.io/people/rosie-downs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
+<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/people/rosie-downs/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
+
+ - Name: e.g., Emiliano Ariel Videla Rodriguez
+ 
+ - Job: e.g., Teaching Co-ordinator
+ 
+ - About Me/Bio: (3+ Sentences) "I am X who does Y, I care about X..."
+ 
+ - Current roles: Lecturer in ABC, year 2 lead. quality committee member...
+ 
+ - Areas of specialty: (technical/other thing someone is likely to want to talk to you about, or you feel proud of), as a list of bullet-points, each being 1-2 sentences. 
+ 
+ - Courses I teach: list of course names, tag them as PG?UG and provide the corresponding links.
+ 
+ - Projects and Resources: here link to non-course things you do, projects, organisations, each been a short sentence/words and provide the corresponding links. 
+ 
+ - Publications, Talks: provide the list of articles/reports you have published. Follow a consistent citation style (Authors, Year, Title, Volume, Pages, et cetera). Include links to the publisher website. Alternatively, you could provide a link to google scholar. For example: EA Videla Rodriguez, JBO Mitchell, and VA Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data. Scientific Reports. 14:9019. https://www.nature.com/articles/s41598-024-58679-3. 
+ 
+ - Timeline of Education and past jobs: here if you'd like, put your timeline as bullet-points. You can start with a year. 
+ 
+ - Research and supervision: a small list of your most proud achievements. If you have things to share, especially if there are links. 
+ 
+ - Things I do outside of work: if you'd like
+ 
+ - Links and contact: email, github, linkedin, google scholar. 
+ 
+To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
+# Publications
+## 2025
+
+Paper 1
+Paper 2
+
+## 2024
+
+Paper 1
+Paper 2
+
+-->
+<p>#Heading 1 Your paragraph.</p>
+<p>#Heading 2 Your paragraph.</p>
+<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
+
+
+
+ ]]></description>
+  <guid>https://ddi-talent.github.io/people/rosie-downs/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
+</item>
+<item>
+  <title>Lecturer in Programming for Data Science</title>
+  <dc:creator>TODO </dc:creator>
+  <link>https://ddi-talent.github.io/people/pawel-orzechowski/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<!--------------- set up ----------------->
+<!--------------- post content ----------------->
+<!--------------- appendices go here ----------------->
+<p>TODO: banana banana</p>
+
+
+<div id="quarto-appendix" class="default"><section id="session-info" class="level5 appendix"><h2 class="anchored quarto-appendix-heading">Session info</h2><div class="quarto-appendix-contents">
+
+<details>
+<summary>
+Toggle
+</summary>
+</details>
+
+
+</div></section></div> ]]></description>
+  <category>TAG_1</category>
+  <category>TAG_2</category>
+  <guid>https://ddi-talent.github.io/people/pawel-orzechowski/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <link>https://ddi-talent.github.io/people/karolina-gibson-bajbuz/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
+<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/people/karolina-gibson-bajbuz/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
+
+ - Name: e.g., Emiliano Ariel Videla Rodriguez
+ 
+ - Job: e.g., Teaching Co-ordinator
+ 
+ - About Me/Bio: (3+ Sentences) "I am X who does Y, I care about X..."
+ 
+ - Current roles: Lecturer in ABC, year 2 lead. quality committee member...
+ 
+ - Areas of specialty: (technical/other thing someone is likely to want to talk to you about, or you feel proud of), as a list of bullet-points, each being 1-2 sentences. 
+ 
+ - Courses I teach: list of course names, tag them as PG?UG and provide the corresponding links.
+ 
+ - Projects and Resources: here link to non-course things you do, projects, organisations, each been a short sentence/words and provide the corresponding links. 
+ 
+ - Publications, Talks: provide the list of articles/reports you have published. Follow a consistent citation style (Authors, Year, Title, Volume, Pages, et cetera). Include links to the publisher website. Alternatively, you could provide a link to google scholar. For example: EA Videla Rodriguez, JBO Mitchell, and VA Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data. Scientific Reports. 14:9019. https://www.nature.com/articles/s41598-024-58679-3. 
+ 
+ - Timeline of Education and past jobs: here if you'd like, put your timeline as bullet-points. You can start with a year. 
+ 
+ - Research and supervision: a small list of your most proud achievements. If you have things to share, especially if there are links. 
+ 
+ - Things I do outside of work: if you'd like
+ 
+ - Links and contact: email, github, linkedin, google scholar. 
+ 
+To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
+# Publications
+## 2025
+
+Paper 1
+Paper 2
+
+## 2024
+
+Paper 1
+Paper 2
+
+-->
+<p>#Heading 1 Your paragraph.</p>
+<p>#Heading 2 Your paragraph.</p>
+<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
+
+
+
+ ]]></description>
+  <guid>https://ddi-talent.github.io/people/karolina-gibson-bajbuz/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
+</item>
+<item>
+  <title>Emiliano Ariel Videla Rodríguez</title>
+  <dc:creator>Teaching Co-ordinator</dc:creator>
+  <link>https://ddi-talent.github.io/people/emiliano-videla/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/people/emiliano-videla/EAVR.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+<p>Emiliano is a teaching co-ordinator at the Edinburgh Medical School. He did an integrated master degree in biological sciences at the Universidad Nacional de Córdoba, Argentina. He did his PhDs at the Universidad Nacional de Córdoba (Argentina) and the Universitat de Lleida (Spain). During his academic career, he speciliased himself in statistical programming and computational biology, with focus on Bayesian Networks as graphical expert systems to facilitate decision making.</p>
+</section>
+<section id="experience" class="level2">
+<h2 class="anchored" data-anchor-id="experience">Experience</h2>
+<ul>
+<li><p>Programming languages: R, Python, Shell</p></li>
+<li><p>Data wrangling and pre-processing: integration of databases, feature engineering, data discretization.</p></li>
+<li><p>Data analysis: Bayesian and Social Networks, General and Generalized (Mixed) Models, Machine Learning modelling.</p></li>
+<li><p>Website development</p></li>
+<li><p>Project and partnership management</p></li>
+</ul>
+</section>
+<section id="courses-for-ug-and-pgt" class="level2">
+<h2 class="anchored" data-anchor-id="courses-for-ug-and-pgt">Courses for UG and PGT</h2>
+<ul>
+<li><p>Data Science for Health and Social Care</p></li>
+<li><p>Introduction to Statistics</p></li>
+<li><p>Research Design and Reproducible Skills</p></li>
+<li><p>Research and Evidence Based Medicine</p></li>
+<li><p>Data Analysis with R</p></li>
+</ul>
+</section>
+<section id="continuing-professional-development" class="level2">
+<h2 class="anchored" data-anchor-id="continuing-professional-development">Continuing Professional Development</h2>
+<ul>
+<li>Edinburgh Teaching Award - Associate Fellow (in progress)</li>
+</ul>
+</section>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<ul>
+<li><p>Videla Rodriguez E.A., Bouba I., V.A. Smith, van der Brand H., Rodenburg T.B., and B. Viser. 2024. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297533">A two-step Bayesian network approach to identify key SNPs associated to multiple phenotypic traits in four purebread laying hen lines.</a>. PLoS ONE. 19:e0297533.</p></li>
+<li><p>Videla Rodriguez E.A., Mitchell J.B.O., and V.A. Smith. 2024. <a href="https://www.nature.com/articles/s41598-024-58679-3">Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data.</a>. Scientific Reports. 14:9019.</p></li>
+<li><p>Videla Rodriguez E.A., Mitchell J.B.O, and V.A. Smith. 2022. <a href="https://www.nature.com/articles/s41598-022-11633-7">A Bayesian network structure learning approach to identify genes associated with stress in spleens of chickens</a>. Scientific Reports. 12:7482.</p></li>
+<li><p>Videla Rodriguez E.A., Pértille F., Guerrero-Bosagna C., Mitchell J.B.O., Jensen P., and V.A. Smith. 2022. <a href="https://link.springer.com/article/10.1186/s12859-022-04800-0">Practical Application of a Bayesian network approach to poultry epigenetics and stress.</a>. BMC Bioinformatics. 23:261</p></li>
+</ul>
+</section>
+<section id="outside-work" class="level2">
+<h2 class="anchored" data-anchor-id="outside-work">Outside work</h2>
+<ul>
+<li><p>Emiliano plays volleyball for Jets Volleybal Club, competing at the National Scottish League and some regional leagues.</p></li>
+<li><p>He usually carries a book with him so he is grateful for any recommendations.</p></li>
+</ul>
+</section>
+<section id="contact-details" class="level2">
+<h2 class="anchored" data-anchor-id="contact-details">Contact details</h2>
+<p>📧 <a href="mailto://evidela@ed.ac.uk">Emiliano.Videla.Rodriguez@ed.ac.uk</a></p>
+<p>🔗 <a href="https://www.linkedin.com/in/emiliano-ariel-videla-rodriguez-a1b697102/">LinkedIn</a></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://ddi-talent.github.io/people/emiliano-videla/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <link>https://ddi-talent.github.io/people/franziska-mcmanus/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
+<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/people/franziska-mcmanus/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
+
+ - Name: e.g., Emiliano Ariel Videla Rodriguez
+ 
+ - Job: e.g., Teaching Co-ordinator
+ 
+ - About Me/Bio: (3+ Sentences) "I am X who does Y, I care about X..."
+ 
+ - Current roles: Lecturer in ABC, year 2 lead. quality committee member...
+ 
+ - Areas of specialty: (technical/other thing someone is likely to want to talk to you about, or you feel proud of), as a list of bullet-points, each being 1-2 sentences. 
+ 
+ - Courses I teach: list of course names, tag them as PG?UG and provide the corresponding links.
+ 
+ - Projects and Resources: here link to non-course things you do, projects, organisations, each been a short sentence/words and provide the corresponding links. 
+ 
+ - Publications, Talks: provide the list of articles/reports you have published. Follow a consistent citation style (Authors, Year, Title, Volume, Pages, et cetera). Include links to the publisher website. Alternatively, you could provide a link to google scholar. For example: EA Videla Rodriguez, JBO Mitchell, and VA Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data. Scientific Reports. 14:9019. https://www.nature.com/articles/s41598-024-58679-3. 
+ 
+ - Timeline of Education and past jobs: here if you'd like, put your timeline as bullet-points. You can start with a year. 
+ 
+ - Research and supervision: a small list of your most proud achievements. If you have things to share, especially if there are links. 
+ 
+ - Things I do outside of work: if you'd like
+ 
+ - Links and contact: email, github, linkedin, google scholar. 
+ 
+To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
+# Publications
+## 2025
+
+Paper 1
+Paper 2
+
+## 2024
+
+Paper 1
+Paper 2
+
+-->
+<p>#Heading 1 Your paragraph.</p>
+<p>#Heading 2 Your paragraph.</p>
+<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
+
+
+
+ ]]></description>
+  <guid>https://ddi-talent.github.io/people/franziska-mcmanus/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <link>https://ddi-talent.github.io/people/suzanne-goopy/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
+<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/people/suzanne-goopy/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
+
+ - Name: e.g., Emiliano Ariel Videla Rodriguez
+ 
+ - Job: e.g., Teaching Co-ordinator
+ 
+ - About Me/Bio: (3+ Sentences) "I am X who does Y, I care about X..."
+ 
+ - Current roles: Lecturer in ABC, year 2 lead. quality committee member...
+ 
+ - Areas of specialty: (technical/other thing someone is likely to want to talk to you about, or you feel proud of), as a list of bullet-points, each being 1-2 sentences. 
+ 
+ - Courses I teach: list of course names, tag them as PG?UG and provide the corresponding links.
+ 
+ - Projects and Resources: here link to non-course things you do, projects, organisations, each been a short sentence/words and provide the corresponding links. 
+ 
+ - Publications, Talks: provide the list of articles/reports you have published. Follow a consistent citation style (Authors, Year, Title, Volume, Pages, et cetera). Include links to the publisher website. Alternatively, you could provide a link to google scholar. For example: EA Videla Rodriguez, JBO Mitchell, and VA Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data. Scientific Reports. 14:9019. https://www.nature.com/articles/s41598-024-58679-3. 
+ 
+ - Timeline of Education and past jobs: here if you'd like, put your timeline as bullet-points. You can start with a year. 
+ 
+ - Research and supervision: a small list of your most proud achievements. If you have things to share, especially if there are links. 
+ 
+ - Things I do outside of work: if you'd like
+ 
+ - Links and contact: email, github, linkedin, google scholar. 
+ 
+To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
+# Publications
+## 2025
+
+Paper 1
+Paper 2
+
+## 2024
+
+Paper 1
+Paper 2
+
+-->
+<p>#Heading 1 Your paragraph.</p>
+<p>#Heading 2 Your paragraph.</p>
+<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
+
+
+
+ ]]></description>
+  <guid>https://ddi-talent.github.io/people/suzanne-goopy/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <link>https://ddi-talent.github.io/people/sophie-marion-de-proce/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
+<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/people/sophie-marion-de-proce/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
+
+ - Name: e.g., Emiliano Ariel Videla Rodriguez
+ 
+ - Job: e.g., Teaching Co-ordinator
+ 
+ - About Me/Bio: (3+ Sentences) "I am X who does Y, I care about X..."
+ 
+ - Current roles: Lecturer in ABC, year 2 lead. quality committee member...
+ 
+ - Areas of specialty: (technical/other thing someone is likely to want to talk to you about, or you feel proud of), as a list of bullet-points, each being 1-2 sentences. 
+ 
+ - Courses I teach: list of course names, tag them as PG?UG and provide the corresponding links.
+ 
+ - Projects and Resources: here link to non-course things you do, projects, organisations, each been a short sentence/words and provide the corresponding links. 
+ 
+ - Publications, Talks: provide the list of articles/reports you have published. Follow a consistent citation style (Authors, Year, Title, Volume, Pages, et cetera). Include links to the publisher website. Alternatively, you could provide a link to google scholar. For example: EA Videla Rodriguez, JBO Mitchell, and VA Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data. Scientific Reports. 14:9019. https://www.nature.com/articles/s41598-024-58679-3. 
+ 
+ - Timeline of Education and past jobs: here if you'd like, put your timeline as bullet-points. You can start with a year. 
+ 
+ - Research and supervision: a small list of your most proud achievements. If you have things to share, especially if there are links. 
+ 
+ - Things I do outside of work: if you'd like
+ 
+ - Links and contact: email, github, linkedin, google scholar. 
+ 
+To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
+# Publications
+## 2025
+
+Paper 1
+Paper 2
+
+## 2024
+
+Paper 1
+Paper 2
+
+-->
+<p>#Heading 1 Your paragraph.</p>
+<p>#Heading 2 Your paragraph.</p>
+<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
+
+
+
+ ]]></description>
+  <guid>https://ddi-talent.github.io/people/sophie-marion-de-proce/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
 </item>
 <item>
   <title>Laila Dabab Nahas</title>
@@ -426,11 +912,11 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/laila-dabab-nahas/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
 </item>
 <item>
   <title></title>
-  <link>https://ddi-talent.github.io/people/franziska-mcmanus/</link>
+  <link>https://ddi-talent.github.io/people/jenn-liedtke/</link>
   <description><![CDATA[ 
 
 
@@ -441,7 +927,7 @@ Paper 2
 <!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://ddi-talent.github.io/people/franziska-mcmanus/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://ddi-talent.github.io/people/jenn-liedtke/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
@@ -490,141 +976,12 @@ Paper 2
 
 
  ]]></description>
-  <guid>https://ddi-talent.github.io/people/franziska-mcmanus/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
-</item>
-<item>
-  <title>Emiliano Ariel Videla Rodríguez</title>
-  <dc:creator>Teaching Co-ordinator</dc:creator>
-  <link>https://ddi-talent.github.io/people/emiliano-videla/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<div class="quarto-figure quarto-figure-centre">
-<figure class="figure">
-<p><img src="https://ddi-talent.github.io/people/emiliano-videla/EAVR.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
-</figure>
-</div>
-<section id="background" class="level2">
-<h2 class="anchored" data-anchor-id="background">Background</h2>
-<p>Emiliano is a teaching co-ordinator at the Edinburgh Medical School. He did an integrated master degree in biological sciences at the Universidad Nacional de Córdoba, Argentina. He did his PhDs at the Universidad Nacional de Córdoba (Argentina) and the Universitat de Lleida (Spain). During his academic career, he speciliased himself in statistical programming and computational biology, with focus on Bayesian Networks as graphical expert systems to facilitate decision making.</p>
-</section>
-<section id="experience" class="level2">
-<h2 class="anchored" data-anchor-id="experience">Experience</h2>
-<ul>
-<li><p>Programming languages: R, Python, Shell</p></li>
-<li><p>Data wrangling and pre-processing: integration of databases, feature engineering, data discretization.</p></li>
-<li><p>Data analysis: Bayesian and Social Networks, General and Generalized (Mixed) Models, Machine Learning modelling.</p></li>
-<li><p>Website development</p></li>
-<li><p>Project and partnership management</p></li>
-</ul>
-</section>
-<section id="courses-for-ug-and-pgt" class="level2">
-<h2 class="anchored" data-anchor-id="courses-for-ug-and-pgt">Courses for UG and PGT</h2>
-<ul>
-<li><p>Data Science for Health and Social Care</p></li>
-<li><p>Introduction to Statistics</p></li>
-<li><p>Research Design and Reproducible Skills</p></li>
-<li><p>Research and Evidence Based Medicine</p></li>
-<li><p>Data Analysis with R</p></li>
-</ul>
-</section>
-<section id="continuing-professional-development" class="level2">
-<h2 class="anchored" data-anchor-id="continuing-professional-development">Continuing Professional Development</h2>
-<ul>
-<li>Edinburgh Teaching Award - Associate Fellow (in progress)</li>
-</ul>
-</section>
-<section id="publications" class="level2">
-<h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<ul>
-<li><p>Videla Rodriguez E.A., Bouba I., V.A. Smith, van der Brand H., Rodenburg T.B., and B. Viser. 2024. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297533">A two-step Bayesian network approach to identify key SNPs associated to multiple phenotypic traits in four purebread laying hen lines.</a>. PLoS ONE. 19:e0297533.</p></li>
-<li><p>Videla Rodriguez E.A., Mitchell J.B.O., and V.A. Smith. 2024. <a href="https://www.nature.com/articles/s41598-024-58679-3">Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data.</a>. Scientific Reports. 14:9019.</p></li>
-<li><p>Videla Rodriguez E.A., Mitchell J.B.O, and V.A. Smith. 2022. <a href="https://www.nature.com/articles/s41598-022-11633-7">A Bayesian network structure learning approach to identify genes associated with stress in spleens of chickens</a>. Scientific Reports. 12:7482.</p></li>
-<li><p>Videla Rodriguez E.A., Pértille F., Guerrero-Bosagna C., Mitchell J.B.O., Jensen P., and V.A. Smith. 2022. <a href="https://link.springer.com/article/10.1186/s12859-022-04800-0">Practical Application of a Bayesian network approach to poultry epigenetics and stress.</a>. BMC Bioinformatics. 23:261</p></li>
-</ul>
-</section>
-<section id="outside-work" class="level2">
-<h2 class="anchored" data-anchor-id="outside-work">Outside work</h2>
-<ul>
-<li><p>Emiliano plays volleyball for Jets Volleybal Club, competing at the National Scottish League and some regional leagues.</p></li>
-<li><p>He usually carries a book with him so he is grateful for any recommendations.</p></li>
-</ul>
-</section>
-<section id="contact-details" class="level2">
-<h2 class="anchored" data-anchor-id="contact-details">Contact details</h2>
-<p>📧 <a href="mailto://evidela@ed.ac.uk">Emiliano.Videla.Rodriguez@ed.ac.uk</a></p>
-<p>🔗 <a href="https://www.linkedin.com/in/emiliano-ariel-videla-rodriguez-a1b697102/">LinkedIn</a></p>
-
-
-</section>
-
- ]]></description>
-  <guid>https://ddi-talent.github.io/people/emiliano-videla/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
-</item>
-<item>
-  <title>About Brittany Blankinship TODO</title>
-  <dc:creator>TODO </dc:creator>
-  <link>https://ddi-talent.github.io/people/brittany-blankinship/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<!--------------- set up ----------------->
-<!--------------- post content ----------------->
-<!--------------- appendices go here ----------------->
-<p>TODO: hello world</p>
-
-
-<div id="quarto-appendix" class="default"><section id="session-info" class="level5 appendix"><h2 class="anchored quarto-appendix-heading">Session info</h2><div class="quarto-appendix-contents">
-
-<details>
-<summary>
-Toggle
-</summary>
-</details>
-
-
-</div></section></div> ]]></description>
-  <category>TAG_1</category>
-  <category>TAG_2</category>
-  <guid>https://ddi-talent.github.io/people/brittany-blankinship/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
-</item>
-<item>
-  <title>Post Title Kasia</title>
-  <dc:creator>TODO author</dc:creator>
-  <link>https://ddi-talent.github.io/people/kasia-banas/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<!--------------- set up ----------------->
-<!--------------- post content ----------------->
-<p>TODO: hello world Kasia</p>
-
-
-
- ]]></description>
-  <category>TAG_1</category>
-  <category>TAG_2</category>
-  <guid>https://ddi-talent.github.io/people/kasia-banas/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
+  <guid>https://ddi-talent.github.io/people/jenn-liedtke/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
 </item>
 <item>
   <title></title>
-  <link>https://ddi-talent.github.io/people/elaine-mowat/</link>
+  <link>https://ddi-talent.github.io/people/angelo-ercia/</link>
   <description><![CDATA[ 
 
 
@@ -635,7 +992,7 @@ Toggle
 <!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://ddi-talent.github.io/people/elaine-mowat/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://ddi-talent.github.io/people/angelo-ercia/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
@@ -684,365 +1041,8 @@ Paper 2
 
 
  ]]></description>
-  <guid>https://ddi-talent.github.io/people/elaine-mowat/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <link>https://ddi-talent.github.io/people/karolina-gibson-bajbuz/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
-<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ddi-talent.github.io/people/karolina-gibson-bajbuz/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
-
- - Name: e.g., Emiliano Ariel Videla Rodriguez
- 
- - Job: e.g., Teaching Co-ordinator
- 
- - About Me/Bio: (3+ Sentences) "I am X who does Y, I care about X..."
- 
- - Current roles: Lecturer in ABC, year 2 lead. quality committee member...
- 
- - Areas of specialty: (technical/other thing someone is likely to want to talk to you about, or you feel proud of), as a list of bullet-points, each being 1-2 sentences. 
- 
- - Courses I teach: list of course names, tag them as PG?UG and provide the corresponding links.
- 
- - Projects and Resources: here link to non-course things you do, projects, organisations, each been a short sentence/words and provide the corresponding links. 
- 
- - Publications, Talks: provide the list of articles/reports you have published. Follow a consistent citation style (Authors, Year, Title, Volume, Pages, et cetera). Include links to the publisher website. Alternatively, you could provide a link to google scholar. For example: EA Videla Rodriguez, JBO Mitchell, and VA Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data. Scientific Reports. 14:9019. https://www.nature.com/articles/s41598-024-58679-3. 
- 
- - Timeline of Education and past jobs: here if you'd like, put your timeline as bullet-points. You can start with a year. 
- 
- - Research and supervision: a small list of your most proud achievements. If you have things to share, especially if there are links. 
- 
- - Things I do outside of work: if you'd like
- 
- - Links and contact: email, github, linkedin, google scholar. 
- 
-To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
-# Publications
-## 2025
-
-Paper 1
-Paper 2
-
-## 2024
-
-Paper 1
-Paper 2
-
--->
-<p>#Heading 1 Your paragraph.</p>
-<p>#Heading 2 Your paragraph.</p>
-<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
-
-
-
- ]]></description>
-  <guid>https://ddi-talent.github.io/people/karolina-gibson-bajbuz/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <link>https://ddi-talent.github.io/people/nazir-lone/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
-<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ddi-talent.github.io/people/nazir-lone/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
-
- - Name: e.g., Emiliano Ariel Videla Rodriguez
- 
- - Job: e.g., Teaching Co-ordinator
- 
- - About Me/Bio: (3+ Sentences) "I am X who does Y, I care about X..."
- 
- - Current roles: Lecturer in ABC, year 2 lead. quality committee member...
- 
- - Areas of specialty: (technical/other thing someone is likely to want to talk to you about, or you feel proud of), as a list of bullet-points, each being 1-2 sentences. 
- 
- - Courses I teach: list of course names, tag them as PG?UG and provide the corresponding links.
- 
- - Projects and Resources: here link to non-course things you do, projects, organisations, each been a short sentence/words and provide the corresponding links. 
- 
- - Publications, Talks: provide the list of articles/reports you have published. Follow a consistent citation style (Authors, Year, Title, Volume, Pages, et cetera). Include links to the publisher website. Alternatively, you could provide a link to google scholar. For example: EA Videla Rodriguez, JBO Mitchell, and VA Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data. Scientific Reports. 14:9019. https://www.nature.com/articles/s41598-024-58679-3. 
- 
- - Timeline of Education and past jobs: here if you'd like, put your timeline as bullet-points. You can start with a year. 
- 
- - Research and supervision: a small list of your most proud achievements. If you have things to share, especially if there are links. 
- 
- - Things I do outside of work: if you'd like
- 
- - Links and contact: email, github, linkedin, google scholar. 
- 
-To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
-# Publications
-## 2025
-
-Paper 1
-Paper 2
-
-## 2024
-
-Paper 1
-Paper 2
-
--->
-<p>#Heading 1 Your paragraph.</p>
-<p>#Heading 2 Your paragraph.</p>
-<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
-
-
-
- ]]></description>
-  <guid>https://ddi-talent.github.io/people/nazir-lone/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <link>https://ddi-talent.github.io/people/suzanne-goopy/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
-<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ddi-talent.github.io/people/suzanne-goopy/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
-
- - Name: e.g., Emiliano Ariel Videla Rodriguez
- 
- - Job: e.g., Teaching Co-ordinator
- 
- - About Me/Bio: (3+ Sentences) "I am X who does Y, I care about X..."
- 
- - Current roles: Lecturer in ABC, year 2 lead. quality committee member...
- 
- - Areas of specialty: (technical/other thing someone is likely to want to talk to you about, or you feel proud of), as a list of bullet-points, each being 1-2 sentences. 
- 
- - Courses I teach: list of course names, tag them as PG?UG and provide the corresponding links.
- 
- - Projects and Resources: here link to non-course things you do, projects, organisations, each been a short sentence/words and provide the corresponding links. 
- 
- - Publications, Talks: provide the list of articles/reports you have published. Follow a consistent citation style (Authors, Year, Title, Volume, Pages, et cetera). Include links to the publisher website. Alternatively, you could provide a link to google scholar. For example: EA Videla Rodriguez, JBO Mitchell, and VA Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data. Scientific Reports. 14:9019. https://www.nature.com/articles/s41598-024-58679-3. 
- 
- - Timeline of Education and past jobs: here if you'd like, put your timeline as bullet-points. You can start with a year. 
- 
- - Research and supervision: a small list of your most proud achievements. If you have things to share, especially if there are links. 
- 
- - Things I do outside of work: if you'd like
- 
- - Links and contact: email, github, linkedin, google scholar. 
- 
-To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
-# Publications
-## 2025
-
-Paper 1
-Paper 2
-
-## 2024
-
-Paper 1
-Paper 2
-
--->
-<p>#Heading 1 Your paragraph.</p>
-<p>#Heading 2 Your paragraph.</p>
-<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
-
-
-
- ]]></description>
-  <guid>https://ddi-talent.github.io/people/suzanne-goopy/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <link>https://ddi-talent.github.io/people/rosie-downs/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
-<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ddi-talent.github.io/people/rosie-downs/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
-
- - Name: e.g., Emiliano Ariel Videla Rodriguez
- 
- - Job: e.g., Teaching Co-ordinator
- 
- - About Me/Bio: (3+ Sentences) "I am X who does Y, I care about X..."
- 
- - Current roles: Lecturer in ABC, year 2 lead. quality committee member...
- 
- - Areas of specialty: (technical/other thing someone is likely to want to talk to you about, or you feel proud of), as a list of bullet-points, each being 1-2 sentences. 
- 
- - Courses I teach: list of course names, tag them as PG?UG and provide the corresponding links.
- 
- - Projects and Resources: here link to non-course things you do, projects, organisations, each been a short sentence/words and provide the corresponding links. 
- 
- - Publications, Talks: provide the list of articles/reports you have published. Follow a consistent citation style (Authors, Year, Title, Volume, Pages, et cetera). Include links to the publisher website. Alternatively, you could provide a link to google scholar. For example: EA Videla Rodriguez, JBO Mitchell, and VA Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data. Scientific Reports. 14:9019. https://www.nature.com/articles/s41598-024-58679-3. 
- 
- - Timeline of Education and past jobs: here if you'd like, put your timeline as bullet-points. You can start with a year. 
- 
- - Research and supervision: a small list of your most proud achievements. If you have things to share, especially if there are links. 
- 
- - Things I do outside of work: if you'd like
- 
- - Links and contact: email, github, linkedin, google scholar. 
- 
-To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
-# Publications
-## 2025
-
-Paper 1
-Paper 2
-
-## 2024
-
-Paper 1
-Paper 2
-
--->
-<p>#Heading 1 Your paragraph.</p>
-<p>#Heading 2 Your paragraph.</p>
-<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
-
-
-
- ]]></description>
-  <guid>https://ddi-talent.github.io/people/rosie-downs/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
-</item>
-<item>
-  <title>Lecturer in Programming for Data Science</title>
-  <dc:creator>TODO </dc:creator>
-  <link>https://ddi-talent.github.io/people/pawel-orzechowski/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<!--------------- set up ----------------->
-<!--------------- post content ----------------->
-<!--------------- appendices go here ----------------->
-<p>TODO: banana banana</p>
-
-
-<div id="quarto-appendix" class="default"><section id="session-info" class="level5 appendix"><h2 class="anchored quarto-appendix-heading">Session info</h2><div class="quarto-appendix-contents">
-
-<details>
-<summary>
-Toggle
-</summary>
-</details>
-
-
-</div></section></div> ]]></description>
-  <category>TAG_1</category>
-  <category>TAG_2</category>
-  <guid>https://ddi-talent.github.io/people/pawel-orzechowski/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <link>https://ddi-talent.github.io/people/john-wilson/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
-<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ddi-talent.github.io/people/john-wilson/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
-
- - Name: e.g., Emiliano Ariel Videla Rodriguez
- 
- - Job: e.g., Teaching Co-ordinator
- 
- - About Me/Bio: (3+ Sentences) "I am X who does Y, I care about X..."
- 
- - Current roles: Lecturer in ABC, year 2 lead. quality committee member...
- 
- - Areas of specialty: (technical/other thing someone is likely to want to talk to you about, or you feel proud of), as a list of bullet-points, each being 1-2 sentences. 
- 
- - Courses I teach: list of course names, tag them as PG?UG and provide the corresponding links.
- 
- - Projects and Resources: here link to non-course things you do, projects, organisations, each been a short sentence/words and provide the corresponding links. 
- 
- - Publications, Talks: provide the list of articles/reports you have published. Follow a consistent citation style (Authors, Year, Title, Volume, Pages, et cetera). Include links to the publisher website. Alternatively, you could provide a link to google scholar. For example: EA Videla Rodriguez, JBO Mitchell, and VA Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data. Scientific Reports. 14:9019. https://www.nature.com/articles/s41598-024-58679-3. 
- 
- - Timeline of Education and past jobs: here if you'd like, put your timeline as bullet-points. You can start with a year. 
- 
- - Research and supervision: a small list of your most proud achievements. If you have things to share, especially if there are links. 
- 
- - Things I do outside of work: if you'd like
- 
- - Links and contact: email, github, linkedin, google scholar. 
- 
-To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
-# Publications
-## 2025
-
-Paper 1
-Paper 2
-
-## 2024
-
-Paper 1
-Paper 2
-
--->
-<p>#Heading 1 Your paragraph.</p>
-<p>#Heading 2 Your paragraph.</p>
-<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
-
-
-
- ]]></description>
-  <guid>https://ddi-talent.github.io/people/john-wilson/</guid>
-  <pubDate>Thu, 12 Feb 2026 08:50:49 GMT</pubDate>
+  <guid>https://ddi-talent.github.io/people/angelo-ercia/</guid>
+  <pubDate>Thu, 05 Mar 2026 14:37:02 GMT</pubDate>
 </item>
 </channel>
 </rss>

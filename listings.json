@@ -1,16 +1,32 @@
 [
   {
-    "listing": "/resources.html",
+    "listing": "/people.html",
     "items": [
-      "/resources/pair-programming-groups-Feb-2026/index.html",
-      "/resources/hackathon-Feb-2026-ems-math-phs/index.html",
-      "/resources/pair-programming-community/index.html",
-      "/resources/choose-your-courses-Feb-2026/index.html"
+      "/people/nazir-lone/index.html",
+      "/people/mavis-frempong/index.html",
+      "/people/brittany-blankinship/index.html",
+      "/people/john-wilson/index.html",
+      "/people/elaine-mowat/index.html",
+      "/people/matt-sanders/index.html",
+      "/people/kasia-banas/index.html",
+      "/people/rosie-downs/index.html",
+      "/people/pawel-orzechowski/index.html",
+      "/people/karolina-gibson-bajbuz/index.html",
+      "/people/emiliano-videla/index.html",
+      "/people/franziska-mcmanus/index.html",
+      "/people/suzanne-goopy/index.html",
+      "/people/sophie-marion-de-proce/index.html",
+      "/people/laila-dabab-nahas/index.html",
+      "/people/jenn-liedtke/index.html",
+      "/people/angelo-ercia/index.html"
     ]
   },
   {
-    "listing": "/contact.html",
-    "items": []
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/ug-intercalated/index.html",
+      "/teaching/msc-data-science/index.html"
+    ]
   },
   {
     "listing": "/index.html",
@@ -23,36 +39,20 @@
     ]
   },
   {
-    "listing": "/teaching.html",
+    "listing": "/contact.html",
+    "items": []
+  },
+  {
+    "listing": "/resources.html",
     "items": [
-      "/teaching/ug-intercalated/index.html",
-      "/teaching/msc-data-science/index.html"
+      "/resources/pair-programming-groups-Feb-2026/index.html",
+      "/resources/choose-your-courses-Feb-2026/index.html",
+      "/resources/pair-programming-community/index.html",
+      "/resources/hackathon-Feb-2026-ems-math-phs/index.html"
     ]
   },
   {
     "listing": "/about.html",
     "items": []
-  },
-  {
-    "listing": "/people.html",
-    "items": [
-      "/people/angelo-ercia/index.html",
-      "/people/mavis-frempong/index.html",
-      "/people/sophie-marion-de-proce/index.html",
-      "/people/jenn-liedtke/index.html",
-      "/people/matt-sanders/index.html",
-      "/people/laila-dabab-nahas/index.html",
-      "/people/franziska-mcmanus/index.html",
-      "/people/emiliano-videla/index.html",
-      "/people/brittany-blankinship/index.html",
-      "/people/kasia-banas/index.html",
-      "/people/elaine-mowat/index.html",
-      "/people/karolina-gibson-bajbuz/index.html",
-      "/people/nazir-lone/index.html",
-      "/people/suzanne-goopy/index.html",
-      "/people/rosie-downs/index.html",
-      "/people/pawel-orzechowski/index.html",
-      "/people/john-wilson/index.html"
-    ]
   }
 ]
