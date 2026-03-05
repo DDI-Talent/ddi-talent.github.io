@@ -14,7 +14,7 @@ draft: false
 
 ![](.jpg){fig-align="center"}
 
-<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
+<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information:  
 
  - Name: e.g., Emiliano Ariel Videla Rodriguez
  
