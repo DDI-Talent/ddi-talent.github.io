@@ -1,18 +1,18 @@
 ---
-title: ""
-subtitle: ""
+title: "Emiliano Ariel Videla Rodriguez"
+subtitle: "Teaching Co-ordinator"
 description: |
-  
-image: .jpg
+  All I know is that I know nothing
+image: EAVR.jpg
 # date: UPDATE
 author: 
-  - name: 
+  - name: Teaching Co-ordinator
 draft: false
 ---
 
 <!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 31 before the .jpg-->
 
-![](.jpg){fig-align="center"}
+![](EAVR.jpg){fig-align="center"}
 
 <!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information:  
 
@@ -54,10 +54,19 @@ Paper 2
 
 -->
 
-# Heading 1
-Your paragraph.
+# About me
+Emiliano is the teaching co-ordinator. He did his PhD at ....
 
-# Heading 2
-Your paragraph.
+Here you can keep typing additional content
+
+# References
+## 2025
+
+-  EA Videla Rodriguez. 2025. Bayesian...
+-  EA Videla Rodriguez. 2025. An approach....
+
+# Things I enjoy doing
+
+# Book I read
 
 <!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
