@@ -45,6 +45,15 @@ website:
   google-analytics:
     tracking-id: "[TODO]aa-7G8FLLRS4M[TODO]"
     anonymize-ip: true
+  page-footer: 
+    left: "Teach Health Data"
+    right:
+     - href: privacy.qmd
+     - href: cookies.qmd
+  cookie-consent: 
+    type: express
+    style: simple
+    palette: light
 
 format:
   html:
