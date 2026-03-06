@@ -1,12 +1,12 @@
 ---
-title: ""
-subtitle: ""
+title: "Emiliano Ariel Videla Rodriguez"
+subtitle: "Teaching Co-ordinator"
 description: |
-  
-image: .jpg
+  All I know is that I know nothing
+image: EAVR.jpg
 # date: UPDATE
 author: 
-  - name: 
+  - name: Teaching Co-ordinator
 draft: false
 ---
 
@@ -53,8 +53,15 @@ Paper 1
 Paper 2
 
 -->
-# 
+# Short Bio
 
-## 
+Emiliano is a Teaching Co-ordinator. He did his PhD at the University of St. Andrews....
+
+# Publication
+## 2025
+
+-  EA Videla Rodriguez. 2025. Bayesian....
+
+-  EA Videla Rodriguez. 2025. An approach to....
 
 <!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
