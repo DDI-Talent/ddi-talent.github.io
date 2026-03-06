@@ -1,0 +1,38 @@
+---
+title: "Privacy Policy"
+page-layout: full
+title-block-banner: false
+# knitr:
+#   opts_chunk: 
+#     collapse: true
+execute: 
+  echo: false
+---
+
+The website address of the Teach Health Data is https://ddi-talent.github.io/.
+
+The information contained in this website is for general information purposes only. The information is provided by the Teach Health Data team and while we try to keep the information up-to-date and accurate, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website information, products, services, or graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+
+In no event we will be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data arising or in connection with the use of this website.
+
+Through this website, you are able to link to other websites which are not under the control of Teach HEalth Data. We have no control over the nature, content, and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. The Teach Health Data team has not taken any steps to confirm the accuracy or reliability of any of the information contained in such third parties’ websites, and does not make any representation or warranties as to the security of any information (including, without limitation, personal information) you might be requested to give any third party.
+
+Efforts are made to keep the website up and running smoothly. However, the Teach Health Data team takes no responsibility for and will not be liable for the website being temporarily unavailable due to technical issues beyond our control.
+
+# Privacy statement
+We collect the minimum amount of information about you that is commensurable with providing you with a satisfactory service. The policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information.
+
+# What information we collect about you
+We may collect any or all of the information that you give us depending on the type of transaction you enter into, including user experience that facilitates account management and ensures secure website dashboard access. Other information that may be needed from time to time to process a request might also be collected as indicated on the website.
+
+# Information use
+We use the information collected primarily to process the task for which you visited the website. Data collected in the UK is held in accordance with the Data Protection Act. All reasonable precautions are taken to prevent unauthorised access to this information.
+
+# Disclosing information
+We do not disclose any personal information obtained about you from this website to third parties for commercial purposes. However, we may use the information to keep in contact with you and inform you on developments associated with our activities. You will be given the chance to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent.
+
+# Changes to this policy
+Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets your approval.
+
+# Contacting us
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us at. You can also correct any factual errors in this information or request we remove your details from any list under our control.

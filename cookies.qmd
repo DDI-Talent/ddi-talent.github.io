@@ -1,0 +1,46 @@
+---
+title: "Cookies"
+page-layout: full
+title-block-banner: false
+# knitr:
+#   opts_chunk: 
+#     collapse: true
+execute: 
+  echo: false
+---
+
+# What are cookies?
+
+Cookies are small text files stored on your device (laptop, tablet, or smartphone) when you visit certain websites. The usage of cookies helps us monitor which pages the visitors find useful and which ones they do not, allowing us to improve user experience, and consequently, improving our website. A cookie does not give us access to your device or any information about you, other than the data you choose to share. We attempt to use functional cookies only (e.g., essential to make our website work, or anonymous statistics). 
+
+Cookies are not programs, and they do not damage your device. To protect your privacy, your web browser only returns a cookie to the website that sent you the cookie and does not send it to any other website.
+
+# Types of Cookies we use
+
+Strictly necessary cookies: these cookies are essential for the website to work, making the website usable by enabling basic functions such as page navigation. Without them, certain services or functionality cannot be provided.
+
+Performance cookies: these cookies provide us with a better understanding on how visitors use our website, for example, the pages they visit, the stay of their visit, and if they encountered any errors. They help us improve the performance and usability of the website.
+
+Analytical/Tracking cookies: these cookies help us understand how visitors interact with the website by collecting and reporting information anonymously, analysing the traffic and user behaviour on our website, so we can improve the design and functionality.
+
+# Google analytics cookies
+
+Google analytics is a simple, easy-to-use tool that helps website owners measure how users interact with website content.
+
+As a user navigates between web pages, google Analytics provides website owners tags to record information about the page a user has seen. These cookies are governed by the cookie policy of those external services and do not control them.
+
+# Managing your browser cookies
+
+You will be able to use the Help menu bar on your browser to get information on how to manage (e.g., block or prevent) cookies. More information on how to manage your browser cookies is available via the links below.
+
+[Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB) 
+
+[Mozilla](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=Enabling+and+disabling+cookies&redirectlocale=en-US)
+
+[Microsoft Edge](https://support.microsoft.com/en-gb/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d)
+
+[Opera Welcome](https://security.opera.com/en/)
+
+[Safari Safari](https://support.apple.com/en-gb/safari)
+
+*Latest update: 05/02/2026.*
