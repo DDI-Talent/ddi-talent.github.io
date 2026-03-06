@@ -1,5 +1,39 @@
 [
   {
+    "listing": "/about.html",
+    "items": []
+  },
+  {
+    "listing": "/resources.html",
+    "items": [
+      "/resources/pair-programming-groups-Feb-2026/index.html",
+      "/resources/choose-your-courses-Feb-2026/index.html",
+      "/resources/pair-programming-community/index.html",
+      "/resources/hackathon-Feb-2026-ems-math-phs/index.html"
+    ]
+  },
+  {
+    "listing": "/contact.html",
+    "items": []
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/ug-intercalated/index.html",
+      "/teaching/msc-data-science/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/about.html",
+      "/people.html",
+      "/resources.html",
+      "/teaching.html",
+      "/contact.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/nazir-lone/index.html",
@@ -20,39 +54,5 @@
       "/people/jenn-liedtke/index.html",
       "/people/angelo-ercia/index.html"
     ]
-  },
-  {
-    "listing": "/teaching.html",
-    "items": [
-      "/teaching/ug-intercalated/index.html",
-      "/teaching/msc-data-science/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/about.html",
-      "/people.html",
-      "/resources.html",
-      "/teaching.html",
-      "/contact.html"
-    ]
-  },
-  {
-    "listing": "/contact.html",
-    "items": []
-  },
-  {
-    "listing": "/resources.html",
-    "items": [
-      "/resources/pair-programming-groups-Feb-2026/index.html",
-      "/resources/choose-your-courses-Feb-2026/index.html",
-      "/resources/pair-programming-community/index.html",
-      "/resources/hackathon-Feb-2026-ems-math-phs/index.html"
-    ]
-  },
-  {
-    "listing": "/about.html",
-    "items": []
   }
 ]
