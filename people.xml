@@ -17,7 +17,7 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Fri, 06 Mar 2026 13:31:04 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Mar 2026 13:32:05 GMT</lastBuildDate>
 <item>
   <title></title>
   <link>https://ddi-talent.github.io/people/nazir-lone/</link>
@@ -81,7 +81,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/nazir-lone/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -146,7 +146,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/mavis-frempong/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -211,7 +211,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/brittany-blankinship/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -276,7 +276,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/john-wilson/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -341,7 +341,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/elaine-mowat/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -406,11 +406,10 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/matt-sanders/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
-  <title>Post Title Kasia</title>
-  <dc:creator>TODO author</dc:creator>
+  <title></title>
   <link>https://ddi-talent.github.io/people/kasia-banas/</link>
   <description><![CDATA[ 
 
@@ -418,18 +417,61 @@ Paper 2
 
 
 
+<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
+<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/people/kasia-banas/.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
 
-<!--------------- set up ----------------->
-<!--------------- post content ----------------->
-<p>TODO: hello world Kasia</p>
+ - Name: e.g., Emiliano Ariel Videla Rodriguez
+ 
+ - Job: e.g., Teaching Co-ordinator
+ 
+ - About Me/Bio: (3+ Sentences) "I am X who does Y, I care about X..."
+ 
+ - Current roles: Lecturer in ABC, year 2 lead. quality committee member...
+ 
+ - Areas of specialty: (technical/other thing someone is likely to want to talk to you about, or you feel proud of), as a list of bullet-points, each being 1-2 sentences. 
+ 
+ - Courses I teach: list of course names, tag them as PG?UG and provide the corresponding links.
+ 
+ - Projects and Resources: here link to non-course things you do, projects, organisations, each been a short sentence/words and provide the corresponding links. 
+ 
+ - Publications, Talks: provide the list of articles/reports you have published. Follow a consistent citation style (Authors, Year, Title, Volume, Pages, et cetera). Include links to the publisher website. Alternatively, you could provide a link to google scholar. For example: EA Videla Rodriguez, JBO Mitchell, and VA Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data. Scientific Reports. 14:9019. https://www.nature.com/articles/s41598-024-58679-3. 
+ 
+ - Timeline of Education and past jobs: here if you'd like, put your timeline as bullet-points. You can start with a year. 
+ 
+ - Research and supervision: a small list of your most proud achievements. If you have things to share, especially if there are links. 
+ 
+ - Things I do outside of work: if you'd like
+ 
+ - Links and contact: email, github, linkedin, google scholar. 
+ 
+To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
+# Publications
+## 2025
+
+Paper 1
+Paper 2
+
+## 2024
+
+Paper 1
+Paper 2
+
+-->
+<p>#Heading 1 Your paragraph.</p>
+<p>#Heading 2 Your paragraph.</p>
+<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
 
 
 
  ]]></description>
-  <category>TAG_1</category>
-  <category>TAG_2</category>
   <guid>https://ddi-talent.github.io/people/kasia-banas/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -494,7 +536,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/rosie-downs/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title>Lecturer in Programming for Data Science</title>
@@ -526,7 +568,7 @@ Toggle
   <category>TAG_1</category>
   <category>TAG_2</category>
   <guid>https://ddi-talent.github.io/people/pawel-orzechowski/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -591,7 +633,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/karolina-gibson-bajbuz/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title>Emiliano Ariel Videla Rodríguez</title>
@@ -665,7 +707,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/emiliano-videla/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -730,7 +772,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/franziska-mcmanus/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -795,7 +837,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/suzanne-goopy/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -860,7 +902,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/sophie-marion-de-proce/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title>Laila Dabab Nahas</title>
@@ -945,7 +987,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/laila-dabab-nahas/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -1010,7 +1052,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/jenn-liedtke/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -1075,7 +1117,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/angelo-ercia/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:31:04 GMT</pubDate>
+  <pubDate>Fri, 06 Mar 2026 13:32:05 GMT</pubDate>
 </item>
 </channel>
 </rss>
