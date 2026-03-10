@@ -77,46 +77,32 @@
     "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "ABOUT",
+    "objectID": "people/nazir-lone/index.html",
+    "href": "people/nazir-lone/index.html",
+    "title": "DDI Talent Team Website",
     "section": "",
-    "text": "Here you will find some useful information about the team\nTODO, some description with links to about, people, resources, teaching\nTODO: interesting way to include link? in R:\nr icon_link(   icon = \"globe\",   text = \"website\",   url = \"https://www.pairprogramming.ed.ac.uk\" )\n\nABOUT\nGet to know our DDI Talent team and the different teaching activities.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\ncourse-format\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
   },
   {
-    "objectID": "teaching/msc-data-science/index.html",
-    "href": "teaching/msc-data-science/index.html",
-    "title": "Post Title MSc",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "PEOPLE",
     "section": "",
-    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
+    "text": "PEOPLE\nHere you will find useful information about the roles each one of the team members has.\nbanana banana banana\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecturer in Programming for Data Science\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmiliano Ariel Videla Rodríguez\n\n\nAll I know is that I know nothing\n\n\n\nTeaching Co-ordinator\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaila Dabab Nahas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "RESOURCES",
+    "objectID": "teaching/ug-intercalated/index.html",
+    "href": "teaching/ug-intercalated/index.html",
+    "title": "Post Title intercalated",
     "section": "",
-    "text": "RESOURCES\nInterested in our courses, workshops, and events? Take a look at our variety of resources.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPairs Maker. Pair Programming and Groupwork\n\n\n\nTools\n\n\n\nApplying pair-programming in your teaching? Take a look at this tool.\n\n\n\nPawel Orzechowsky\n\n\nFeb 5, 2026\n\n\n\n\n\n\n\n\n\n\n\nCourse Selection Tool\n\n\n\nTools\n\n\n\nAre you a prospective student of one of our MSc Degrees? Pick and choose your courses using this app.\n\n\n\nPawel Orzechowski\n\n\nFeb 5, 2026\n\n\n\n\n\n\n\n\n\n\n\nPost Title\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\nInvalid Date\n\n\n\n\n\n\n\n\n\n\n\nHealth Data Hackathon\n\n\n\nEvents\n\n\n\nThe Edinburgh Medical School and the School of Methematics held a health data hackathon in collaboration with Public Health Scotland.\n\n\n\nBy Dr. Banas and Dr. Videla Rodriguez\n\n\nFeb 4, 2026\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "TODO: hello world. intercalated\n\n\nSession info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "CONTACT US",
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy Policy",
     "section": "",
-    "text": "CONTACT US\nGet in touch with us!\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\ncourse-format\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "TEACHING",
-    "section": "",
-    "text": "TEACHING\nHere you can take a look at our portfolio of courses.\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\ncourse-format\n\n\n\n\n\n\n\n\n\n\n\nPost Title intercalated\n\n\n \n\n\n\n\n\n\n\n\n\nPost Title MSc\n\n\nPG, UG, short-course\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the DDI Talent website!",
-    "section": "",
-    "text": "Welcome to the DDI talent website!\n\n\n\n\n\nAbout us [TODO]\n\n\nABOUT\n\n\n\n\n\n\n\n\nResources we created and/or love [TODO]\n\n\nRESOURCES\n\n\n\n\n\n\n\n\nOur team and contributors [TODO]\n\n\nPEOPLE\n\n\n\n\n\n\n\n\nCourses and programs we run and contribute towards [TODO]\n\n\nTEACHING\n\n\n\n\n\n\n\n\nGet in touch and find us on socials [TODO]\n\n\nCONTACT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nABOUT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPEOPLE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRESOURCES\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTEACHING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCONTACT US\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "The website address of the Teach Health Data is https://ddi-talent.github.io/.\nThe information contained in this website is for general information purposes only. The information is provided by the Teach Health Data team and while we try to keep the information up-to-date and accurate, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website information, products, services, or graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.\nIn no event we will be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data arising or in connection with the use of this website.\nThrough this website, you are able to link to other websites which are not under the control of Teach HEalth Data. We have no control over the nature, content, and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. The Teach Health Data team has not taken any steps to confirm the accuracy or reliability of any of the information contained in such third parties’ websites, and does not make any representation or warranties as to the security of any information (including, without limitation, personal information) you might be requested to give any third party.\nEfforts are made to keep the website up and running smoothly. However, the Teach Health Data team takes no responsibility for and will not be liable for the website being temporarily unavailable due to technical issues beyond our control.\n\nPrivacy statement\nWe collect the minimum amount of information about you that is commensurable with providing you with a satisfactory service. The policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information.\n\n\nWhat information we collect about you\nWe may collect any or all of the information that you give us depending on the type of transaction you enter into, including user experience that facilitates account management and ensures secure website dashboard access. Other information that may be needed from time to time to process a request might also be collected as indicated on the website.\n\n\nInformation use\nWe use the information collected primarily to process the task for which you visited the website. Data collected in the UK is held in accordance with the Data Protection Act. All reasonable precautions are taken to prevent unauthorised access to this information.\n\n\nDisclosing information\nWe do not disclose any personal information obtained about you from this website to third parties for commercial purposes. However, we may use the information to keep in contact with you and inform you on developments associated with our activities. You will be given the chance to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent.\n\n\nChanges to this policy\nAny changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets your approval.\n\n\nContacting us\nIf you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us at. You can also correct any factual errors in this information or request we remove your details from any list under our control.\n\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
     "objectID": "README_DEV.html",
@@ -147,29 +133,50 @@
     "text": "renv::rebuild()"
   },
   {
-    "objectID": "privacy.html",
-    "href": "privacy.html",
-    "title": "Privacy Policy",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the DDI Talent website!",
     "section": "",
-    "text": "The website address of the Teach Health Data is https://ddi-talent.github.io/.\nThe information contained in this website is for general information purposes only. The information is provided by the Teach Health Data team and while we try to keep the information up-to-date and accurate, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website information, products, services, or graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.\nIn no event we will be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data arising or in connection with the use of this website.\nThrough this website, you are able to link to other websites which are not under the control of Teach HEalth Data. We have no control over the nature, content, and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. The Teach Health Data team has not taken any steps to confirm the accuracy or reliability of any of the information contained in such third parties’ websites, and does not make any representation or warranties as to the security of any information (including, without limitation, personal information) you might be requested to give any third party.\nEfforts are made to keep the website up and running smoothly. However, the Teach Health Data team takes no responsibility for and will not be liable for the website being temporarily unavailable due to technical issues beyond our control.\n\nPrivacy statement\nWe collect the minimum amount of information about you that is commensurable with providing you with a satisfactory service. The policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information.\n\n\nWhat information we collect about you\nWe may collect any or all of the information that you give us depending on the type of transaction you enter into, including user experience that facilitates account management and ensures secure website dashboard access. Other information that may be needed from time to time to process a request might also be collected as indicated on the website.\n\n\nInformation use\nWe use the information collected primarily to process the task for which you visited the website. Data collected in the UK is held in accordance with the Data Protection Act. All reasonable precautions are taken to prevent unauthorised access to this information.\n\n\nDisclosing information\nWe do not disclose any personal information obtained about you from this website to third parties for commercial purposes. However, we may use the information to keep in contact with you and inform you on developments associated with our activities. You will be given the chance to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent.\n\n\nChanges to this policy\nAny changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets your approval.\n\n\nContacting us\nIf you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us at. You can also correct any factual errors in this information or request we remove your details from any list under our control.\n\n\n\n\nReuseCC BY-SA 4.0"
+    "text": "Welcome to the DDI talent website!\n\n\n\n\n\nAbout us [TODO]\n\n\nABOUT\n\n\n\n\n\n\n\n\nResources we created and/or love [TODO]\n\n\nRESOURCES\n\n\n\n\n\n\n\n\nOur team and contributors [TODO]\n\n\nPEOPLE\n\n\n\n\n\n\n\n\nCourses and programs we run and contribute towards [TODO]\n\n\nTEACHING\n\n\n\n\n\n\n\n\nGet in touch and find us on socials [TODO]\n\n\nCONTACT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nABOUT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPEOPLE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRESOURCES\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTEACHING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCONTACT US\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "teaching/ug-intercalated/index.html",
-    "href": "teaching/ug-intercalated/index.html",
-    "title": "Post Title intercalated",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "TEACHING",
     "section": "",
-    "text": "TODO: hello world. intercalated\n\n\nSession info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
+    "text": "TEACHING\nHere you can take a look at our portfolio of courses.\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\ncourse-format\n\n\n\n\n\n\n\n\n\n\n\nPost Title intercalated\n\n\n \n\n\n\n\n\n\n\n\n\nPost Title MSc\n\n\nPG, UG, short-course\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "PEOPLE",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "CONTACT US",
     "section": "",
-    "text": "PEOPLE\nHere you will find useful information about the roles each one of the team members has.\nbanana banana banana\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecturer in Programming for Data Science\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmiliano Ariel Videla Rodríguez\n\n\nAll I know is that I know nothing\n\n\n\nTeaching Co-ordinator\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaila Dabab Nahas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "CONTACT US\nGet in touch with us!\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\ncourse-format\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "people/nazir-lone/index.html",
-    "href": "people/nazir-lone/index.html",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "RESOURCES",
+    "section": "",
+    "text": "RESOURCES\nInterested in our courses, workshops, and events? Take a look at our variety of resources.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPairs Maker. Pair Programming and Groupwork\n\n\n\nTools\n\n\n\nApplying pair-programming in your teaching? Take a look at this tool.\n\n\n\nPawel Orzechowsky\n\n\nFeb 5, 2026\n\n\n\n\n\n\n\n\n\n\n\nCourse Selection Tool\n\n\n\nTools\n\n\n\nAre you a prospective student of one of our MSc Degrees? Pick and choose your courses using this app.\n\n\n\nPawel Orzechowski\n\n\nFeb 5, 2026\n\n\n\n\n\n\n\n\n\n\n\nPost Title\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\nInvalid Date\n\n\n\n\n\n\n\n\n\n\n\nHealth Data Hackathon\n\n\n\nEvents\n\n\n\nThe Edinburgh Medical School and the School of Methematics held a health data hackathon in collaboration with Public Health Scotland.\n\n\n\nBy Dr. Banas and Dr. Videla Rodriguez\n\n\nFeb 4, 2026\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "teaching/msc-data-science/index.html",
+    "href": "teaching/msc-data-science/index.html",
+    "title": "Post Title MSc",
+    "section": "",
+    "text": "Session info\n\n\n\nToggle\n\n\n\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "ABOUT",
+    "section": "",
+    "text": "Here you will find some useful information about the team\nTODO, some description with links to about, people, resources, teaching\nTODO: interesting way to include link? in R:\nr icon_link(   icon = \"globe\",   text = \"website\",   url = \"https://www.pairprogramming.ed.ac.uk\" )\n\nABOUT\nGet to know our DDI Talent team and the different teaching activities.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\ncourse-format\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "people/chris-oldnall/index.html",
+    "href": "people/chris-oldnall/index.html",
     "title": "DDI Talent Team Website",
     "section": "",
     "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
