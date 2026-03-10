@@ -1,81 +1,57 @@
 ---
-title: Lecturer in Programming for Data Science
+title: Pawel Orzechowski
+subtitle: Lecturer in Programming for Data Science
 description: |
-  Post description TODO
-# date: UPDATE
+  Programmer who fell in love with teaching.
 author: 
-  - name: TODO
-site-url: TODO
-#image: IMAGE.png
-#image-alt: |
-categories: [TAG_1, TAG_2]
-open-graph: true
-# twitter-card: true
-# will inherit title, description, image
-# to change ANYTHING about card, need to fill in EVERYTHING below
-#  title: |
-#  description: |
-#  image: |
-#  image-alt: |
-#  defaults to 500 x 500 summary: uncomment lines below for large card
-#  image-width: 600 
-#  image-height: 314
-#  card-style: summary_large_image 
-#  image-width: 500
-#  image-height: 500
-#  card-style: summary
-draft: false
+  - name: Lecturer in Programming for Data Science
+#image: pawel_profile.jpg
+image-alt: |
+  Photo of Pawel
 ---
+![](pawel_profile.jpg){fig-align="centre"}
 
-<!--------------- set up ----------------->
+## Background
 
-```{r}
-#| echo: false
-#| results: 'hide'
+I'm a programmer who fell in love with teaching. I believe that coding is a social and creating activity. I've taught programming for over a decade in coding bootcamps, business and medical departments. Currently working on up-skilling medical and care staff, and widening access to coding skills. My courses [introduce](https://www.drps.ed.ac.uk/current/dpt/cxhein11045.htm) and [expand on](https://www.drps.ed.ac.uk/current/dpt/cxhein11062.htm) Software Development Practices (in Python) and [Text Analysis (NLP) in R](https://www.drps.ed.ac.uk/current/dpt/cxhein11093.htm). I also build teaching and marking tools and am on the leadership team of the book [Teaching Programming across Disiplines](https://pairprogramming.ed.ac.uk/category/book/).
 
-long_slug <- "FILL THIS IN"
+## Experience
 
-# NOTE: after finishing post, run renv::snapshot() and copy the renv.lock file 
-# from the project root into the post directory
-# file.copy("../../renv.lock", "renv.lock", overwrite = TRUE)
+-   PhD in Computer Science and UX from Heriot-Watt University. "Pinching sweaters on your phone – iShoogle : multi-gesture touchscreen fabric simulator using natural on-fabric gestures to communicate textile qualities" [printed Book](https://www.amazon.co.uk/iShoogle-Touching-Feeling-Fabrics-Touchscreen/dp/1326642197) or [pdf download](https://www.ros.hw.ac.uk/items/5ad905fd-d97e-4006-8f37-ea7e2e3c7ea6)  
 
-# renv::use(lockfile = "renv.lock")
-```
+## Courses for UG and PGT
 
-<!--------------- post content ----------------->
+Edinburgh Medical School (previously Usher Institute):
 
-<!--------------- appendices go here ----------------->
+- [Introduction to software development in Health and Social Care (HEIN11045)](https://www.drps.ed.ac.uk/current/dpt/cxhein11045.htm)
+- [Applied Software Development in Health and Social Care (HEIN11062)](https://www.drps.ed.ac.uk/current/dpt/cxhein11062.htm)
+- [Natural Language Processing (NLP) in Health and Social Care (HEIN11085) Online](https://www.drps.ed.ac.uk/25-26/dpt/cxhein11085.htm) and  [On Campus](https://www.drps.ed.ac.uk/25-26/dpt/cxhein11093.htm)
 
+Edinburgh Futures Institute:
 
-TODO: banana banana 
+- Text Mining for Social Research (Fusion Online EFIE11005) [Online](https://www.drps.ed.ac.uk/current/dpt/cxefie11005.htm) [Fusion On Campus EFIE11006](https://www.drps.ed.ac.uk/current/dpt/cxefie11006.htm)
 
-##### Session info {.appendix}
+Short Courses Platform:
 
-<details><summary>Toggle</summary>
+- (NLP in R for Health and Social Care)[https://shortcourses.ed.ac.uk/course/natural-language-processing-nlp-1-in-r-for-health-and-social-care]
 
-```{r}
-#| echo: false
-# library(sessioninfo)
-# # save the session info as an object
-# pkg_session <- session_info(pkgs = "attached")
-# 
-# # get the quarto version
-# quarto_version <- system("quarto --version", intern = TRUE)
-# 
-# # inject the quarto info
-# pkg_session$platform$quarto <- paste(
-#   system("quarto --version", intern = TRUE), 
-#   "@", 
-#   quarto::quarto_path()
-#   )
-# 
-# # print it out
-# pkg_session
-```
+<!--
+## Continuing Professional Development
 
-</details>
+-   TODO
 
+## Publications
 
+-   TODO
+-->
 
+## Outside of work
 
+- Pawel is a co-organiser of  (codebar Edinburgh)[https://codebar.io/edinburgh]
+
+## Contact details
+
+📧 [Pawel.Orzechowski@ed.ac.uk](mailto:Pawel.Orzechowski@ed.ac.uk)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/dr-pawel-orzechowski/)
 
