@@ -1,3 +1,20 @@
+.profile-image-float-left{
+	float: left;
+	padding: 10px 20px 5px 0px;
+}
+
+.profile-image-float-left .quarto-figure{
+	margin-bottom: 0px;
+}
+
+
+
+@media only screen and (min-height: 600px) {
+.profile-image-float-left{
+    width: 30%;
+  }
+}
+
 .navbar-title:hover > .icon-line{
   animation-duration: 600ms;
 }
