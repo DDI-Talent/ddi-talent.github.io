@@ -1,0 +1,61 @@
+---
+title: ""
+subtitle: ""
+description: |
+  your brief description
+author: 
+  name: ""
+---
+<!-- Complete the above lines with the information requested. Please make sure you respect the usage of quotation marks. Leave the field "author" blank and complete the field "name" with your job title (e.g., Teaching Co-ordinator or Teaching Assistant). This website is currently a work in progress so in the future, author will be renamed to job title. -->
+
+<!-- upload your picture as a .jpg file in your corresponding folder and then add the name of the file in line 13 before the .jpg-->
+
+![](.jpg){fig-align="center"}
+
+<!--Write a few paragraph about yourself. Think about the message you want to give to the people who will be taking a look at your blog post. Make sure you provide the following pieces of information: 
+
+ - Name: e.g., Emiliano Ariel Videla Rodriguez
+ 
+ - Job: e.g., Teaching Co-ordinator
+ 
+ - About Me/Bio: (3+ Sentences) "I am X who does Y, I care about X..."
+ 
+ - Current roles: Lecturer in ABC, year 2 lead. quality committee member...
+ 
+ - Areas of specialty: (technical/other thing someone is likely to want to talk to you about, or you feel proud of), as a list of bullet-points, each being 1-2 sentences. 
+ 
+ - Courses I teach: list of course names, tag them as PG?UG and provide the corresponding links.
+ 
+ - Projects and Resources: here link to non-course things you do, projects, organisations, each been a short sentence/words and provide the corresponding links. 
+ 
+ - Publications, Talks: provide the list of articles/reports you have published. Follow a consistent citation style (Authors, Year, Title, Volume, Pages, et cetera). Include links to the publisher website. Alternatively, you could provide a link to google scholar. For example: EA Videla Rodriguez, JBO Mitchell, and VA Smith. 2024. Robust identification of interactions between heat-stress responsive genes in the chicken brain using Bayesian networks and augmented expression data. Scientific Reports. 14:9019. https://www.nature.com/articles/s41598-024-58679-3. 
+ 
+ - Timeline of Education and past jobs: here if you'd like, put your timeline as bullet-points. You can start with a year. 
+ 
+ - Research and supervision: a small list of your most proud achievements. If you have things to share, especially if there are links. 
+ 
+ - Things I do outside of work: if you'd like
+ 
+ - Links and contact: email, github, linkedin, google scholar. 
+ 
+To divide your blog into sections, you can use the # symbol to have clear headings (#Header 1; ##Header 2; ###Header 3). For example:
+# Publications
+## 2025
+
+Paper 1
+Paper 2
+
+## 2024
+
+Paper 1
+Paper 2
+
+-->
+
+#Heading 1
+Your paragraph.
+
+#Heading 2
+Your paragraph.
+
+<!--If you are working in RStudio, you can take a look at your blog by clicking the "Render" button (blue arrow pointing to the right)-->
