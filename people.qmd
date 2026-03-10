@@ -9,6 +9,8 @@ listing:
   filter-ui: false
   feed: 
     categories: [R, Quarto]
+  fields: [image, title, description, subtitle]
+
 page-layout: full
 title-block-banner: false
 # knitr:
@@ -21,5 +23,3 @@ execute:
  
 # [PEOPLE]{.second-color}
 Here you will find useful information about the roles each one of the team members has. 
-
-banana banana banana 
