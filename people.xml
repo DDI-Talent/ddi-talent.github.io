@@ -17,7 +17,7 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Tue, 10 Mar 2026 08:50:49 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 10:31:51 GMT</lastBuildDate>
 <item>
   <title></title>
   <link>https://ddi-talent.github.io/people/nazir-lone/</link>
@@ -81,7 +81,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/nazir-lone/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -146,7 +146,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/chris-oldnall/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -211,7 +211,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/mavis-frempong/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -276,7 +276,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/brittany-blankinship/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -341,7 +341,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/john-wilson/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -406,7 +406,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/elaine-mowat/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -471,7 +471,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/matt-sanders/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -536,7 +536,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/kasia-banas/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -601,11 +601,11 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/rosie-downs/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
-  <title>Lecturer in Programming for Data Science</title>
-  <dc:creator>TODO </dc:creator>
+  <title>Pawel Orzechowski</title>
+  <dc:creator>Lecturer in Programming for Data Science</dc:creator>
   <link>https://ddi-talent.github.io/people/pawel-orzechowski/</link>
   <description><![CDATA[ 
 
@@ -614,26 +614,64 @@ Paper 2
 
 
 
-<!--------------- set up ----------------->
-<!--------------- post content ----------------->
-<!--------------- appendices go here ----------------->
-<p>TODO: banana banana</p>
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/people/pawel-orzechowski/pawel_profile.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+<p>I’m a programmer who fell in love with teaching. I believe that coding is a social and creating activity. I’ve taught programming for over a decade in coding bootcamps, business and medical departments. Currently working on up-skilling medical and care staff, and widening access to coding skills. My courses <a href="https://www.drps.ed.ac.uk/current/dpt/cxhein11045.htm">introduce</a> and <a href="https://www.drps.ed.ac.uk/current/dpt/cxhein11062.htm">expand on</a> Software Development Practices (in Python) and <a href="https://www.drps.ed.ac.uk/current/dpt/cxhein11093.htm">Text Analysis (NLP) in R</a>. I also build teaching and marking tools and am on the leadership team of the book <a href="https://pairprogramming.ed.ac.uk/category/book/">Teaching Programming across Disiplines</a>.</p>
+</section>
+<section id="experience" class="level2">
+<h2 class="anchored" data-anchor-id="experience">Experience</h2>
+<ul>
+<li>PhD in Computer Science and UX from Heriot-Watt University. “Pinching sweaters on your phone – iShoogle : multi-gesture touchscreen fabric simulator using natural on-fabric gestures to communicate textile qualities” <a href="https://www.amazon.co.uk/iShoogle-Touching-Feeling-Fabrics-Touchscreen/dp/1326642197">printed Book</a> or <a href="https://www.ros.hw.ac.uk/items/5ad905fd-d97e-4006-8f37-ea7e2e3c7ea6">pdf download</a></li>
+</ul>
+</section>
+<section id="courses-for-ug-and-pgt" class="level2">
+<h2 class="anchored" data-anchor-id="courses-for-ug-and-pgt">Courses for UG and PGT</h2>
+<p>Edinburgh Medical School (previously Usher Institute):</p>
+<ul>
+<li><a href="https://www.drps.ed.ac.uk/current/dpt/cxhein11045.htm">Introduction to software development in Health and Social Care (HEIN11045)</a></li>
+<li><a href="https://www.drps.ed.ac.uk/current/dpt/cxhein11062.htm">Applied Software Development in Health and Social Care (HEIN11062)</a></li>
+<li><a href="https://www.drps.ed.ac.uk/25-26/dpt/cxhein11085.htm">Natural Language Processing (NLP) in Health and Social Care (HEIN11085) Online</a> and <a href="https://www.drps.ed.ac.uk/25-26/dpt/cxhein11093.htm">On Campus</a></li>
+</ul>
+<p>Edinburgh Futures Institute:</p>
+<ul>
+<li>Text Mining for Social Research (Fusion Online EFIE11005) <a href="https://www.drps.ed.ac.uk/current/dpt/cxefie11005.htm">Online</a> <a href="https://www.drps.ed.ac.uk/current/dpt/cxefie11006.htm">Fusion On Campus EFIE11006</a></li>
+</ul>
+<p>Short Courses Platform:</p>
+<ul>
+<li>(NLP in R for Health and Social Care)[https://shortcourses.ed.ac.uk/course/natural-language-processing-nlp-1-in-r-for-health-and-social-care]</li>
+</ul>
+<!--
+## Continuing Professional Development
+
+-   TODO
+
+## Publications
+
+-   TODO
+-->
+</section>
+<section id="outside-of-work" class="level2">
+<h2 class="anchored" data-anchor-id="outside-of-work">Outside of work</h2>
+<ul>
+<li>Pawel is a co-organiser of (codebar Edinburgh)[https://codebar.io/edinburgh]</li>
+</ul>
+</section>
+<section id="contact-details" class="level2">
+<h2 class="anchored" data-anchor-id="contact-details">Contact details</h2>
+<p>📧 <a href="mailto:Pawel.Orzechowski@ed.ac.uk">Pawel.Orzechowski@ed.ac.uk</a></p>
+<p>🔗 <a href="https://www.linkedin.com/in/dr-pawel-orzechowski/">LinkedIn</a></p>
 
 
-<div id="quarto-appendix" class="default"><section id="session-info" class="level5 appendix"><h2 class="anchored quarto-appendix-heading">Session info</h2><div class="quarto-appendix-contents">
+</section>
 
-<details>
-<summary>
-Toggle
-</summary>
-</details>
-
-
-</div></section></div> ]]></description>
-  <category>TAG_1</category>
-  <category>TAG_2</category>
+ ]]></description>
   <guid>https://ddi-talent.github.io/people/pawel-orzechowski/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -698,7 +736,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/karolina-gibson-bajbuz/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title>Emiliano Ariel Videla Rodríguez</title>
@@ -772,7 +810,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/emiliano-videla/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -837,7 +875,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/franziska-mcmanus/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -902,7 +940,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/suzanne-goopy/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -967,7 +1005,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/sophie-marion-de-proce/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title>Laila Dabab Nahas</title>
@@ -1052,7 +1090,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/laila-dabab-nahas/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -1117,7 +1155,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/jenn-liedtke/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -1182,7 +1220,7 @@ Paper 2
 
  ]]></description>
   <guid>https://ddi-talent.github.io/people/angelo-ercia/</guid>
-  <pubDate>Tue, 10 Mar 2026 08:50:49 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 10:31:51 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -88,7 +88,7 @@
     "href": "people.html",
     "title": "PEOPLE",
     "section": "",
-    "text": "PEOPLE\nHere you will find useful information about the roles each one of the team members has.\nbanana banana banana\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecturer in Programming for Data Science\n\n\n\nTAG_1\n\nTAG_2\n\n\n\nPost description TODO\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmiliano Ariel Videla Rodríguez\n\n\nAll I know is that I know nothing\n\n\n\nTeaching Co-ordinator\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaila Dabab Nahas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
+    "text": "PEOPLE\nHere you will find useful information about the roles each one of the team members has.\nbanana banana banana\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPawel Orzechowski\n\n\nProgrammer who fell in love with teaching.\n\n\n\nLecturer in Programming for Data Science\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmiliano Ariel Videla Rodríguez\n\n\nAll I know is that I know nothing\n\n\n\nTeaching Co-ordinator\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaila Dabab Nahas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\nyour brief description\n\n\n\n\n\n\n\n\n\n\nNo matching items\nReuseCC BY-SA 4.0"
   },
   {
     "objectID": "teaching/ug-intercalated/index.html",
@@ -203,11 +203,39 @@
     "text": "#Heading 1 Your paragraph.\n#Heading 2 Your paragraph."
   },
   {
-    "objectID": "people/pawel-orzechowski/index.html",
-    "href": "people/pawel-orzechowski/index.html",
-    "title": "Lecturer in Programming for Data Science",
-    "section": "",
-    "text": "TODO: banana banana\n\n\nSession info\n\n\n\nToggle"
+    "objectID": "people/pawel-orzechowski/index.html#background",
+    "href": "people/pawel-orzechowski/index.html#background",
+    "title": "Pawel Orzechowski",
+    "section": "Background",
+    "text": "Background\nI’m a programmer who fell in love with teaching. I believe that coding is a social and creating activity. I’ve taught programming for over a decade in coding bootcamps, business and medical departments. Currently working on up-skilling medical and care staff, and widening access to coding skills. My courses introduce and expand on Software Development Practices (in Python) and Text Analysis (NLP) in R. I also build teaching and marking tools and am on the leadership team of the book Teaching Programming across Disiplines."
+  },
+  {
+    "objectID": "people/pawel-orzechowski/index.html#experience",
+    "href": "people/pawel-orzechowski/index.html#experience",
+    "title": "Pawel Orzechowski",
+    "section": "Experience",
+    "text": "Experience\n\nPhD in Computer Science and UX from Heriot-Watt University. “Pinching sweaters on your phone – iShoogle : multi-gesture touchscreen fabric simulator using natural on-fabric gestures to communicate textile qualities” printed Book or pdf download"
+  },
+  {
+    "objectID": "people/pawel-orzechowski/index.html#courses-for-ug-and-pgt",
+    "href": "people/pawel-orzechowski/index.html#courses-for-ug-and-pgt",
+    "title": "Pawel Orzechowski",
+    "section": "Courses for UG and PGT",
+    "text": "Courses for UG and PGT\nEdinburgh Medical School (previously Usher Institute):\n\nIntroduction to software development in Health and Social Care (HEIN11045)\nApplied Software Development in Health and Social Care (HEIN11062)\nNatural Language Processing (NLP) in Health and Social Care (HEIN11085) Online and On Campus\n\nEdinburgh Futures Institute:\n\nText Mining for Social Research (Fusion Online EFIE11005) Online Fusion On Campus EFIE11006\n\nShort Courses Platform:\n\n(NLP in R for Health and Social Care)[https://shortcourses.ed.ac.uk/course/natural-language-processing-nlp-1-in-r-for-health-and-social-care]"
+  },
+  {
+    "objectID": "people/pawel-orzechowski/index.html#outside-of-work",
+    "href": "people/pawel-orzechowski/index.html#outside-of-work",
+    "title": "Pawel Orzechowski",
+    "section": "Outside of work",
+    "text": "Outside of work\n\nPawel is a co-organiser of (codebar Edinburgh)[https://codebar.io/edinburgh]"
+  },
+  {
+    "objectID": "people/pawel-orzechowski/index.html#contact-details",
+    "href": "people/pawel-orzechowski/index.html#contact-details",
+    "title": "Pawel Orzechowski",
+    "section": "Contact details",
+    "text": "Contact details\n📧 Pawel.Orzechowski@ed.ac.uk\n🔗 LinkedIn"
   },
   {
     "objectID": "people/emiliano-videla/index.html#background",
