@@ -3,7 +3,7 @@ title: "Laila Dabab Nahas"
 editor: visual
 ---
 
-![](images/My_photo_2.png){fig-align="left" width="239"}
+![](My_photo_2.png){fig-align="left" width="239"}
 
 ## **Job**
 
