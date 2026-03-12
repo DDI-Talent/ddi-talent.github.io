@@ -3,13 +3,15 @@ title: "Laila Dabab Nahas"
 editor: visual
 ---
 
-## Background
+![](images/My_photo_2.png){fig-align="left" width="239"}
 
-Laila has a bachelor and MSc in biotechnology, and a PhD and postdoctoral in bioinformatics.
+## **Job**
 
-## Current job
+Currently, I have been a [teaching assistant](https://www.research.ed.ac.uk/en/persons/laila-dabab-nahas/) at Edinburgh Medical School since May 2024.
 
-[Teaching assistant](https://www.research.ed.ac.uk/en/persons/laila-dabab-nahas/) in Edinburgh Medical School
+## **About me**
+
+I love programming, teaching and research. I studied things related to biotechnology- a bachelor's and MSc in biotechnology- in addition to programming and research- PhD and postdoctoral in bioinformatics. I am lucky to be able to practice all of them throughout my study and work which is really cool!
 
 ## Experience
 
@@ -23,7 +25,7 @@ Laila has a bachelor and MSc in biotechnology, and a PhD and postdoctoral in bio
 
 -   Analysis such as scRNA, RNA and HiC.
 
-## Courses for UG and PGT
+## Courses I teach in
 
 -   Data Sciences for Health and Social Care
 
@@ -35,6 +37,8 @@ Laila has a bachelor and MSc in biotechnology, and a PhD and postdoctoral in bio
 
 -   Foundations of software development in Health and Social Care
 
+-   In addition to a lot of other courses I support such as the AI for Care in The Degital of Age
+
 ## CPD
 
 -   AFHEA
@@ -43,9 +47,9 @@ Laila has a bachelor and MSc in biotechnology, and a PhD and postdoctoral in bio
 
 ## Cool ideas
 
-[Escape room](https://www.thinglink.com/view/scene/2020543706418905956) for teaching in Foundational Research Design
+[Escape room](https://www.thinglink.com/view/scene/2020543706418905956) for teaching in Foundation Research Design
 
-## Research and supervision
+## Supervision and Research
 
 -   Co-supervising a GWAS project for PG with Dr. Kristin Nicodemus
 
@@ -57,7 +61,7 @@ Laila has a bachelor and MSc in biotechnology, and a PhD and postdoctoral in bio
 
 [Laila Dabab Nahas - Google Scholar](https://scholar.google.com/citations?user=ulTslo4AAAAJ&hl=en)
 
-Participating in two chapters in a coming book
+Participating in two chapters in a coming book..
 
 ## Outside work
 
@@ -65,9 +69,9 @@ Participating in two chapters in a coming book
 
 -   Manges here own small business, [Ibn Battuta Arabic online centre](https://ibn-battuta.co.uk/Eng.html) for teaching Arabic for children and adults
 
--   Volunteers in [Home-Start East Lothian](https://homestarteastlothian.co.uk/)
+-   A volunteer in [Home-Start East Lothian](https://homestarteastlothian.co.uk/)
 
--   Started to learned playing piano recently!
+-   Started to learn playing piano recently!
 
 -   Loves reading books (such as "Atomic Habits" by James Clark and "That little sound in your head" by Mo Gawdat) and socializing
 
@@ -76,5 +80,7 @@ Participating in two chapters in a coming book
 ## Contact details
 
 📧 [Laila.Dabab.Nahas\@ed.ac.uk](mailto://Laila.Dabab.Nahas@ed.ac.uk)
+
+📧 [lailanhass\@hotmail.com](http://lailanhass@hotmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lailadababnahas/)
