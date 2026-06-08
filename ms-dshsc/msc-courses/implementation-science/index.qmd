@@ -1,0 +1,44 @@
+---
+title: Introduction to Data Science in Health and Social Care
+description: |
+  **Delivery mode:** Online (distance learning) 
+  
+  **Start date:** Term 1 - Blocks 1 and 2 
+  
+  **Credits:** 20 
+site-url: https://shortcourses.ed.ac.uk/course/basics-of-practical-data-science-for-health-social-care
+image: uoe.jpg
+#image-alt: |
+categories: [code, data, context]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+::: {.profile-image-float-left}
+![](.jpg){fig-align="centre"}
+:::
+
+## About this course
+
+ Demystify data science, what it is and what it is not. Introduction to core topics in data science generally and data science in the health and social care context. Build your data science toolkit with R programming for data handling/wrangling and visualisation and RMarkdown authoring framework. Apply the data science process throughout the course in the datathon assignments and build the skills and confidence to write R code from scratch. Foundation for future courses in the Data Science programme. Suitable for absolute beginners to R.
+ 
+## Assessment
+ 
+Datathon (data and coding) presentation and report, mini-weekly reports. 
+
+## Programming
+
+R

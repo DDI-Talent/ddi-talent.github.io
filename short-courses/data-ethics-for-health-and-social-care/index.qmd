@@ -1,0 +1,43 @@
+---
+title: Data Ethics for Health and Social Care
+description: |
+  **Delivery mode:** Online (self-paced independent learning)
+  
+  **Start date:** Anytime
+  
+  **Cost:** Free
+  
+  **Duration:** 2 weeks
+site-url: https://shortcourses.ed.ac.uk/course/data-ethics-for-health-and-social-care
+image: standard-quality-control-collage-concept.jpg
+#image-alt: |
+categories: []
+course-format: [PG, UG, short-course]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+::: {.profile-image-float-left}
+![](standard-quality-control-collage-concept.jpg){fig-align="centre"}
+:::
+
+## About the course
+
+In this Byte Size Learning course, we will start to think about ethics itself. We will be introducing you to ethics and how you can engage with ethical approaches. We will also talk about how to begin thinking about health and social care data in the context of ethics. 
+
+For more information and enrollment options, please click [here](https://shortcourses.ed.ac.uk/course/data-ethics-for-health-and-social-care)
+
+*Course [image](https://www.freepik.com/free-photo/standard-quality-control-collage-concept_30589263.htm) by Frepick, 2025, free to use on Freepick.*

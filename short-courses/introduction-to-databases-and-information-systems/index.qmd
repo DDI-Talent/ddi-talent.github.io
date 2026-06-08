@@ -1,0 +1,27 @@
+---
+title: Introduction to Databases and Information Systems
+description: |
+  **Delivery mode:** Online (self-paced independent learning)
+  
+  **Start date:** Anytime
+  
+  **Cost:** Free
+  
+  **Duration:** 2 weeks
+image: website-hosting-concept-with-circuits.jpg
+site-url:
+open-graph: true
+twitter-card: true
+---
+::: {.profile-image-float-left}
+![](website-hosting-concept-with-circuits.jpg){fig-align="centre"}
+:::
+## About the course
+
+In this Byte Size Learning course, we offer an introduction to databases, information systems, and the most common language used to interact with databases: SQL. There are examples that you can follow along using the provided database (demo_hospital.db) and some fill-in-the-blank exercises throughout. 
+
+We recommend downloading DB Browser for SQLite to code in SQL and interact with our demo database. Instructions are provided in the course learning materials.   
+
+For more information and enrollment options, please click [here](https://shortcourses.ed.ac.uk/course/introduction-to-databases-and-information-systems)
+
+*Course [image](https://www.freepik.com/free-photo/website-hosting-concept-with-circuits_26412535.htm) by Freepick, 2025, free to use on Freepick.*

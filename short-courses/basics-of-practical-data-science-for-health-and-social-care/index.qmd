@@ -1,0 +1,47 @@
+---
+title: Basics of Practical Data Science for Health and Social Care
+description: |
+  **Delivery mode:** Online (self-paced independent learning) 
+  
+  **Start date:** Anytime 
+  
+  **Cost:** £295.00
+  
+  **Duration:** 12 weeks 
+site-url: https://shortcourses.ed.ac.uk/course/basics-of-practical-data-science-for-health-social-care
+image: medical-banner-with-doctor-working-laptop.jpg
+#image-alt: |
+categories: []
+course-format: [PG, UG, short-course]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+::: {.profile-image-float-left}
+![](medical-banner-with-doctor-working-laptop.jpg){fig-align="centre"}
+:::
+
+## About the course
+
+This course provides a hands-on introduction to data science using the R programming language, tailored for health and social care practitioners. It is designed to equip learners with the fundamental skills to work with real-world data, from loading and preparing datasets to exploring, visualising, and interpreting insights relevant to health and social care.
+
+Participants will be guided through setting up a Posit Cloud account to use RStudio and working with publicly available datasets. The course covers essential programming concepts, data manipulation techniques, and visualisation methods using ggplot2, with a strong emphasis on ethical considerations in data use. Through practical examples and case studies, learners will develop confidence in applying data science skills to analyse health and social care data effectively.
+
+By the end of this course, participants will be able to independently explore, clean, visualise, and interpret datasets, supporting evidence-based decision-making in their professional practice.
+
+For more information and enrollment options, please click [here](https://shortcourses.ed.ac.uk/course/basics-of-practical-data-science-for-health-social-care)
+
+*Course [image](https://www.freepik.com/free-photo/medical-banner-with-doctor-working-laptop_30555907.htm#fromView=search&page=1&position=0&uuid=54e40506-cb02-465c-8a3b-b138b4b0739c&query=data+science+healthcare), 2025 by Freepick* 

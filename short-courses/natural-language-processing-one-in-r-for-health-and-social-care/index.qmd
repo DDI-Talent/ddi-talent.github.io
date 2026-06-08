@@ -1,0 +1,27 @@
+---
+title: Natural Language Processing (NLP) 1 in R for Health and Social Care
+description: |
+  **Delivery mode:** Online (self-paced independent learning)
+  
+  **Start date:** Anytime
+  
+  **Cost:** £295.00
+  
+  **Duration:** 12 weeks
+image: jason-leung-ncLdDcvrcfw-unsplash.jpg
+site-url: https://shortcourses.ed.ac.uk/course/natural-language-processing-nlp-1-in-r-for-health-and-social-care
+course-format: [PG, UG, short-course]
+open-graph: true
+twitter-card: true
+draft: false
+---
+::: {.profile-image-float-left}
+![](jason-leung-ncLdDcvrcfw-unsplash.jpg){fig-align="centre"}
+:::
+## About the course
+
+Explore the fundamentals of Natural Language Processing (NLP), a key AI branch focused on interpreting and analysing human language. This course highlights NLP’s growing role in health and social care, where vast text data, from electronic health records to medical literature and social media, offers rich insights. Learn technical skills with cutting-edge NLP tools and develop a critical understanding of the ethical and social implications of handling text data. Spread across six chapters, the course combines theory and practice to prepare you for the rapidly evolving field of NLP in health, care, academia, and industry. 
+
+For more information and enrollment options, please click [here](https://shortcourses.ed.ac.uk/course/natural-language-processing-nlp-1-in-r-for-health-and-social-care)
+
+*Course [image](https://unsplash.com/photos/pink-alphabet-refrigerator-magnet-lot-ncLdDcvrcfw) by Jason Leung, 2017, Free to use under the Unsplash License*

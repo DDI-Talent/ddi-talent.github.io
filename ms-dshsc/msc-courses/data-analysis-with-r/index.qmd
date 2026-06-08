@@ -1,0 +1,46 @@
+---
+title: Data Analysis with R
+description: |
+  **Delivery mode:** Online (distance learning) 
+  
+  **Start date:** Years 1, 2 and 3 | Term 2 - Block 3
+  
+  **Credits:** 10 
+site-url: https://shortcourses.ed.ac.uk/course/basics-of-practical-data-science-for-health-social-care
+image: uoe.jpg
+#image-alt: |
+categories: [code, data, context, postgraduate]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+::: {.profile-image-float-left}
+![](.jpg){fig-align="centre"}
+:::
+
+## About this course
+
+Run by MSc Epidemiology. Functionally the same as PUHR11063 Data analysis for epidemiology. This is a course for people who already know statistics at an introductory level, but have not done statistics in R - the course will teach learners how to use R for common statistical analyses. Note on Intro Stats & Data Analysis with R: If you are taking one of the above courses, you may not wish to take both. If you took the Intro to stats course and struggled a bit and would like to have another run-through of the content, with slightly more R focus, then taking the Data Analysis course is a good idea. If you are feeling (or by the end of the course do feel) really confident and wants to progress with stats, then Statistical Modelling is a good choice. Just to highlight that the content covered is not significantly different. However, it can be nice to consolidate information if statistical concepts are new to you.
+
+Apply your knowledge in basic statistics using the R programming language. You will go from the basics of R to writing a full data analysis report, using techniques such as t-tests, chi-square tests, and logistic regression.
+ 
+## Assessment
+ 
+Report. 
+
+## Programming
+
+R

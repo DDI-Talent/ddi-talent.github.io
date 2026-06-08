@@ -1,0 +1,30 @@
+---
+title: Master in Data Science for Health and Social Care
+description: |
+  **Delivery mode:** Online (Distance learning)
+  
+  **Duration:** 3 years
+image: jason-leung-ncLdDcvrcfw-unsplash.jpg
+site-url: https://shortcourses.ed.ac.uk/course/natural-language-processing-nlp-1-in-r-for-health-and-social-care
+listing:
+  - id: msc-courses
+    contents: "msc-courses"
+    type: grid
+    categories: true
+    sort-ui: true
+    filter-ui: true
+    feed: 
+      categories: [R, Quarto]
+open-graph: true
+twitter-card: true
+draft: false
+---
+::: {.profile-image-float-left}
+![](jason-leung-ncLdDcvrcfw-unsplash.jpg){fig-align="centre"}
+:::
+## About the course
+
+## Courses
+
+:::{#msc-courses}
+:::

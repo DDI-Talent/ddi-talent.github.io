@@ -1,0 +1,43 @@
+---
+title: Introduction to Data Visualisation
+description: |
+  **Delivery mode:** Online (self-paced independent learning)
+  
+  **Start date:** Anytime
+  
+  **Cost:** Free
+  
+  **Duration:** 2 weeks
+site-url: https://shortcourses.ed.ac.uk/course/introduction-to-data-visualisation
+image: modern-equipped-computer-lab.jpg
+#image-alt: |
+categories: []
+course-format: [PG, UG, short-course]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+::: {.profile-image-float-left}
+![](modern-equipped-computer-lab.jpg){fig-align="centre"}
+:::
+
+## About the course
+
+This course will introduce you to the reasons why we should use data visualisation. You will learn how to use data visualisation within health and social care and finally, you will explore some visual interaction designs and how to implement them.  
+
+For more information and enrollment options, please click [here](https://shortcourses.ed.ac.uk/course/introduction-to-data-visualisation)
+
+*Course [image](https://www.freepik.com/free-photo/modern-equipped-computer-lab_21797037.htm) by Freepick, 2025, free to use on Freepick*

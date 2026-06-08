@@ -1,0 +1,44 @@
+---
+title: Applied Epidemiology
+description: |
+  **Delivery mode:** Online (distance learning) 
+  
+  **Start date:** Years 1, 2 and 3 | Term 2 - Block 4
+  
+  **Credits:** 10 
+site-url: https://www.drps.ed.ac.uk/current/dpt/cxpuhr11121.htm
+image: uoe.jpg
+#image-alt: |
+categories: [code, stats, context, postgraduate]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+::: {.profile-image-float-left}
+![](.jpg){fig-align="centre"}
+:::
+
+## About this course
+
+Run by MSc Epidemiology. Pre-req: Students MUST have passed Principles of Epidemiology and Statistics (PUHR11105) OR Introduction to Epidemiology and Statistics (GLHE11063). Students are expected to be familiar with basic principles of epidemiology (e.g. confounding, bias, causation, etc.), in particular the different types of study design (cross-sectional, case-control, cohort, and intervention studies). This can be through the courses above or an equivalent course or experience.
+ 
+## Assessment
+ 
+
+
+## Programming
+
+R

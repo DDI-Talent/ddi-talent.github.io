@@ -1,0 +1,43 @@
+---
+title: Introduction to Health Data Analytics and R
+description: |
+  **Delivery Mode:** Online (self-paced independent learning)
+  
+  **Start date:** Anytime
+  
+  **Cost:** Free
+  
+  **Duration:** 2 weeks
+site-url: https://shortcourses.ed.ac.uk/course/introduction-to-health-data-analytics-and-r
+image: medical-banner-with-doctor-wearing-goggles.jpg
+#image-alt: |
+categories: []
+course-format: [PG, UG, short-course]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+::: {.profile-image-float-left}
+![](medical-banner-with-doctor-wearing-goggles.jpg){fig-align="centre"}
+:::
+
+## About the course
+
+In this course, we will discuss what we mean by Health Data Analytics and then introduce you to a practical way you can begin to work with health data analytics by using one of the most widely used programming languages in the world of data science: R. R can be used across a wide range of health data applications from AI to bioinformatics to administration and epidemiology.  
+
+For more information and enrollment options, please click [here](https://shortcourses.ed.ac.uk/course/introduction-to-health-data-analytics-and-r)
+
+*Course [image](https://www.freepik.com/free-photo/medical-banner-with-doctor-wearing-goggles_30555909.htm) by Freepik, 2025, free to use of Freepick*

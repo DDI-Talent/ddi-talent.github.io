@@ -1,0 +1,44 @@
+---
+title: Data Analysis for Epidemiology
+description: |
+  **Delivery mode:** Online (distance learning) 
+  
+  **Start date:** Years 1, 2 and 3 | Term 2 - Block 5
+  
+  **Credits:** 10 
+site-url: https://www.drps.ed.ac.uk/current/dpt/cxpuhr11063.htm
+image: uoe.jpg
+#image-alt: |
+categories: [code, stats, postgraduate]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+::: {.profile-image-float-left}
+![](.jpg){fig-align="centre"}
+:::
+
+## About this course
+
+Run by Masters of Public Health Online. Functionally the same as PUHR11103 Data analysis with R. This is a course for people who already know statistics at an introductory level, but have not done statistics in R - the course will teach learners how to use R for common statistical analyses. Note on Intro Stats & Data Analysis with R: If you are taking one of the above courses, you may not wish to take both. If you took the Intro to stats course and struggled a bit and would like to have another run-through of the content, with slightly more R focus, then taking the Data Analysis course is a good idea. If you are feeling (or by the end of the course do feel) really confident and wants to progress with stats, then Statistical Modelling is a good choice. Just to highlight that the content covered is not significantly different. However, it can be nice to consolidate information if statistical concepts are new to you.
+ 
+## Assessment
+ 
+
+
+## Programming
+
+R

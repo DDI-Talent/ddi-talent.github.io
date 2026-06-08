@@ -1,0 +1,33 @@
+---
+title: Foundation of research design for data science
+description: |
+  **Delivery mode:** Online (distance learning) 
+  
+  **Start date:** Year 2 | Term 1 - Blocks 1
+  
+  **Credits:** 10 
+site-url: https://www.drps.ed.ac.uk/current/dpt/cxhein11089.htm
+image: uoe.jpg
+#image-alt: |
+categories: [scholar, qual, quant, postgraduate]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+::: {.profile-image-float-left}
+![](.jpg){fig-align="centre"}
+:::
+

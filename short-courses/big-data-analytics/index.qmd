@@ -1,0 +1,44 @@
+---
+title: Big Data Analytics
+description: |
+  **Delivery mode**: Online (self-paced independent learning)
+  
+  **Start date**: Anytime 
+  
+  **Cost**: Free
+  
+  **Duration**: 2 weeks
+site-url: https://shortcourses.ed.ac.uk/course/big-data-analytics
+image: businesswoman-networking-using-digital-devices.jpg
+#image-alt: |
+categories: []
+course-format: [PG, UG, short-course]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+
+::: {.profile-image-float-left}
+![](businesswoman-networking-using-digital-devices.jpg){fig-align="centre"}
+:::
+
+## About the course
+
+In this taster course, you will learn about some challenges and approaches in dealing with big data. The fundamental issue that big data analytics seeks to address is what to do when datasets become too big and unwieldy to be handled by a single computer. This topic is becoming increasingly relevant in a world where huge quantities of data are routinely collected by both public and private entities. 
+
+For more information and enrollment options, please click [here](https://shortcourses.ed.ac.uk/course/big-data-analytics)
+
+*Course [image](https://www.freepik.com/free-photo/businesswoman-networking-using-digital-devices_15440982.htm) by rawpixerl.com, 2025, free to use on Freepick*
