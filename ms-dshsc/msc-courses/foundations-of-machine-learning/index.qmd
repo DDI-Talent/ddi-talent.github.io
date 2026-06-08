@@ -1,0 +1,44 @@
+---
+title: Foundations of Machine Learning in Health and Social Care
+description: |
+  **Delivery mode:** Online (distance learning) 
+  
+  **Start date:** Years 2 and 3 | Term 2 - Block 4 
+  
+  **Credits:** 10 
+site-url: https://www.drps.ed.ac.uk/current/dpt/cxhein11098.htm
+image: uoe.jpg
+#image-alt: |
+categories: [code, data, context, postgradute]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+::: {.profile-image-float-left}
+![](.jpg){fig-align="centre"}
+:::
+
+## About this course
+
+Students MUST have passed: Introduction to statistics in health and social care (HEIN11039) AND Foundations of software development in health and social care (HEIN11066) OR Data Types and Structures in Python and R (HEIN11068)
+ 
+## Assessment
+ 
+
+
+## Programming
+
+Python

@@ -1,17 +1,22 @@
 ---
 #title: "teaching"
 listing:
-  contents: teaching
-  sort: "date desc"
-  type: table
-  table-striped: true
-  table-hover: true
-  fields: [image, title, course-format]
-  categories: true
-  sort-ui: true
-  filter-ui: true
-  feed: 
-    categories: [R, Quarto]
+  - id: ms-dshsc
+    contents: "ms-dshsc"
+    type: grid
+    categories: true
+    sort-ui: true
+    filter-ui: true
+    feed: 
+      categories: [R, Quarto]
+  - id: short-courses
+    contents: "short-courses"
+    type: grid
+    categories: true
+    sort-ui: true
+    filter-ui: true
+    feed: 
+      categories: [R, Quarto]
 page-layout: full
 title-block-banner: false
 #knitr:
@@ -25,3 +30,11 @@ execute:
 # [TEACHING]{.second-color}
 Here you can take a look at our portfolio of courses. 
 
+## Master in Data Science for Health and Social Care
+
+:::{#ms-dshsc}
+:::
+
+## Short courses
+:::{#short-courses}
+:::

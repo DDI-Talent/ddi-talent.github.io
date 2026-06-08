@@ -1,0 +1,45 @@
+---
+title: Foundations of Software Development in Health and Social Care
+description: |
+  **Delivery mode:** Online (distance learning) 
+  
+  **Start date:** Years 1, 2, and 3 | Term 2 - Block 4 
+  
+  **Credits:** 10 
+site-url: https://www.drps.ed.ac.uk/current/dpt/cxhein11066.htm
+image: uoe.jpg
+#image-alt: |
+categories: [code, data, context, postgraduate]
+open-graph: true
+twitter-card: true
+# will inherit title, description, image
+# to change ANYTHING about card, need to fill in EVERYTHING below
+#  title: |
+#  description: |
+#  image: |
+#  image-alt: |
+#  defaults to 500 x 500 summary: uncomment lines below for large card
+#  image-width: 600 
+#  image-height: 314
+#  card-style: summary_large_image 
+#  image-width: 500
+#  image-height: 500
+#  card-style: summary
+draft: false
+---
+::: {.profile-image-float-left}
+![](.jpg){fig-align="centre"}
+:::
+
+## About this course
+
+his is an introductory course in Python programming - it should be taken by students who are absolute beginners to Python and programming practices, and it will provide a solid foundation to using programming to solve issues in health and social care.
+Learn the philosophy and craft of creating sustainable, well-writtten code. Lots of practice in Python. Witness stories from code creators in H&SC. From complete basics all the way to analysing and visualising simple data.
+ 
+## Assessment
+ 
+Coding assessment with mini-report. 3 stars and 1 wish self-reflections. 
+
+## Programming
+
+Python

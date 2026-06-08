@@ -3,9 +3,7 @@
   "result": {
     "engine": "knitr",
     "markdown": "---\nknitr:\n  opts_chunk: \n    collapse: true\nexecute: \n  echo: false\npage-layout: full\ninclude-in-header: \n  - _includes/fontawesome-2up.html\ntitle: \"Welcome to the DDI Talent website!\"\nlisting:\n  contents:\n    - \"about.qmd\"\n    - \"people.qmd\"\n    - \"resources.qmd\"\n    - \"teaching.qmd\"\n    - \"contact.qmd\"\n  sort: false\n  type: grid\n---\n",
-    "supporting": [
-      "index_files"
-    ],
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
