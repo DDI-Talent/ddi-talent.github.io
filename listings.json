@@ -1,42 +1,62 @@
 [
   {
-    "listing": "/people.html",
+    "listing": "/ms-dshsc/index.html",
     "items": [
-      "/people/nazir-lone/index.html",
-      "/people/chris-oldnall/index.html",
-      "/people/mavis-frempong/index.html",
-      "/people/brittany-blankinship/index.html",
-      "/people/john-wilson/index.html",
-      "/people/elaine-mowat/index.html",
-      "/people/matt-sanders/index.html",
-      "/people/kasia-banas/index.html",
-      "/people/rosie-downs/index.html",
-      "/people/pawel-orzechowski/index.html",
-      "/people/karolina-gibson-bajbuz/index.html",
-      "/people/emiliano-videla/index.html",
-      "/people/franziska-mcmanus/index.html",
-      "/people/suzanne-goopy/index.html",
-      "/people/sophie-marion-de-proce/index.html",
-      "/people/laila-dabab-nahas/index.html",
-      "/people/jenn-liedtke/index.html",
-      "/people/angelo-ercia/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/about.html",
-      "/people.html",
-      "/resources.html",
-      "/teaching.html",
-      "/contact.html"
+      "/ms-dshsc/msc-courses/ai-for-care-in-the-digital-age/index.html",
+      "/ms-dshsc/msc-courses/applied-epidemiology/index.html",
+      "/ms-dshsc/msc-courses/applied-software-development/index.html",
+      "/ms-dshsc/msc-courses/big-data-analytics/index.html",
+      "/ms-dshsc/msc-courses/data-analysis-for-epidemiology/index.html",
+      "/ms-dshsc/msc-courses/data-analysis-with-r/index.html",
+      "/ms-dshsc/msc-courses/data-ethics/index.html",
+      "/ms-dshsc/msc-courses/data-types-and-structures/index.html",
+      "/ms-dshsc/msc-courses/data-visualisation/index.html",
+      "/ms-dshsc/msc-courses/foundations-of-research-design/index.html",
+      "/ms-dshsc/msc-courses/foundations-of-machine-learning/index.html",
+      "/ms-dshsc/msc-courses/foundations-of-software-development/index.html",
+      "/ms-dshsc/msc-courses/intermediate-r-programming/index.html",
+      "/ms-dshsc/msc-courses/Introduction-to-data-science-in-health-and-social-care/index.html",
+      "/ms-dshsc/msc-courses/applied-research-design/index.html",
+      "/ms-dshsc/msc-courses/implementation-science/index.html",
+      "/ms-dshsc/msc-courses/introduction-to-databases/index.html",
+      "/ms-dshsc/msc-courses/intro-to-gis-and-spatial-data-analysis/index.html",
+      "/ms-dshsc/msc-courses/intro-to-statistics/index.html",
+      "/ms-dshsc/msc-courses/natural-language-processing-nlp/index.html",
+      "/ms-dshsc/msc-courses/systematic-reviews/index.html"
     ]
   },
   {
     "listing": "/teaching.html",
     "items": [
-      "/teaching/ug-intercalated/index.html",
-      "/teaching/msc-data-science/index.html"
+      "/ms-dshsc/msc-courses/ai-for-care-in-the-digital-age/index.html",
+      "/ms-dshsc/msc-courses/applied-epidemiology/index.html",
+      "/ms-dshsc/msc-courses/applied-software-development/index.html",
+      "/ms-dshsc/msc-courses/big-data-analytics/index.html",
+      "/ms-dshsc/msc-courses/data-analysis-for-epidemiology/index.html",
+      "/ms-dshsc/msc-courses/data-analysis-with-r/index.html",
+      "/ms-dshsc/msc-courses/data-ethics/index.html",
+      "/ms-dshsc/msc-courses/data-types-and-structures/index.html",
+      "/ms-dshsc/msc-courses/data-visualisation/index.html",
+      "/ms-dshsc/msc-courses/foundations-of-research-design/index.html",
+      "/ms-dshsc/msc-courses/foundations-of-machine-learning/index.html",
+      "/ms-dshsc/msc-courses/foundations-of-software-development/index.html",
+      "/ms-dshsc/msc-courses/intermediate-r-programming/index.html",
+      "/ms-dshsc/msc-courses/Introduction-to-data-science-in-health-and-social-care/index.html",
+      "/ms-dshsc/msc-courses/applied-research-design/index.html",
+      "/ms-dshsc/msc-courses/implementation-science/index.html",
+      "/ms-dshsc/msc-courses/introduction-to-databases/index.html",
+      "/ms-dshsc/msc-courses/intro-to-gis-and-spatial-data-analysis/index.html",
+      "/ms-dshsc/msc-courses/intro-to-statistics/index.html",
+      "/ms-dshsc/index.html",
+      "/ms-dshsc/msc-courses/natural-language-processing-nlp/index.html",
+      "/ms-dshsc/msc-courses/systematic-reviews/index.html",
+      "/short-courses/basics-of-practical-data-science-for-health-and-social-care/index.html",
+      "/short-courses/big-data-analytics/index.html",
+      "/short-courses/data-ethics-for-health-and-social-care/index.html",
+      "/short-courses/introduction-to-data-visualisation/index.html",
+      "/short-courses/introduction-to-databases-and-information-systems/index.html",
+      "/short-courses/introduction-to-health-data-analytics-and-r/index.html",
+      "/short-courses/natural-language-processing-one-in-r-for-health-and-social-care/index.html"
     ]
   },
   {
@@ -47,13 +67,46 @@
     "listing": "/resources.html",
     "items": [
       "/resources/pair-programming-groups-Feb-2026/index.html",
-      "/resources/choose-your-courses-Feb-2026/index.html",
+      "/resources/hackathon-Feb-2026-ems-math-phs/index.html",
       "/resources/pair-programming-community/index.html",
-      "/resources/hackathon-Feb-2026-ems-math-phs/index.html"
+      "/resources/choose-your-courses-Feb-2026/index.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/matt-sanders/index.html",
+      "/people/franziska-mcmanus/index.html",
+      "/people/jenn-liedtke/index.html",
+      "/people/chris-oldnall/index.html",
+      "/people/angelo-ercia/index.html",
+      "/people/elaine-mowat/index.html",
+      "/people/pawel-orzechowski/index.html",
+      "/people/emiliano-videla/index.html",
+      "/people/karolina-gibson-bajbuz/index.html",
+      "/people/nazir-lone/index.html",
+      "/people/laila-dabab-nahas/index.html",
+      "/people/john-wilson/index.html",
+      "/people/mavis-frempong/index.html",
+      "/people/kasia-banas/index.html",
+      "/people/suzanne-goopy/index.html",
+      "/people/brittany-blankinship/index.html",
+      "/people/sophie-marion-de-proce/index.html",
+      "/people/rosie-downs/index.html"
     ]
   },
   {
     "listing": "/about.html",
     "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/about.html",
+      "/people.html",
+      "/resources.html",
+      "/teaching.html",
+      "/contact.html"
+    ]
   }
 ]

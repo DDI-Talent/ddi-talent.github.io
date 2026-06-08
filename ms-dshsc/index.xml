@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>DDI Talent Team Website</title>
+<link>https://ddi-talent.github.io/ms-dshsc/</link>
+<atom:link href="https://ddi-talent.github.io/ms-dshsc/index.xml" rel="self" type="application/rss+xml"/>
+<description>**Delivery mode:** Online (Distance learning)
+**Duration:** 3 years
+</description>
+<image>
+<url>https://ddi-talent.github.io/jason-leung-ncLdDcvrcfw-unsplash.jpg</url>
+<title>DDI Talent Team Website</title>
+<link>https://ddi-talent.github.io/ms-dshsc/</link>
+</image>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Mon, 08 Jun 2026 13:57:25 GMT</lastBuildDate>
+<item>
+  <title>AI for care in the digital age</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/ai-for-care-in-the-digital-age/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/ai-for-care-in-the-digital-age/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>This course will equip you to influence effective decision-making regarding the use of AI within your organisation or service. Covers challenges such as data quality, ethics, governance, interoperability and stakeholder management.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>data</category>
+  <category>ethics</category>
+  <category>context</category>
+  <category>leader</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/ai-for-care-in-the-digital-age/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/ai-for-care-in-the-digital-age/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Applied Epidemiology</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/applied-epidemiology/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/applied-epidemiology/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>Run by MSc Epidemiology. Pre-req: Students MUST have passed Principles of Epidemiology and Statistics (PUHR11105) OR Introduction to Epidemiology and Statistics (GLHE11063). Students are expected to be familiar with basic principles of epidemiology (e.g.&nbsp;confounding, bias, causation, etc.), in particular the different types of study design (cross-sectional, case-control, cohort, and intervention studies). This can be through the courses above or an equivalent course or experience.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>R</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>stats</category>
+  <category>context</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/applied-epidemiology/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/applied-epidemiology/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Applied Software Development in Health and Social care (Python 2)</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/applied-software-development/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/applied-software-development/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>Take further steps into Python libraries for Data Science (Pandas, NumPy), then combine those skills with H&amp;SC background to build interactive online dashboard (Shiny).</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Build Shiny Dashboard from health and social care data and mini-report. 3 stars and 1 wish self-reflections</p>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>Python</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>data</category>
+  <category>context</category>
+  <category>design</category>
+  <category>postgradute</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/applied-software-development/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/applied-software-development/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Big Data Analytics</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/big-data-analytics/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/big-data-analytics/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>Discover how big data is transforming health and social care. This course teaches you to tackle massive datasets using R programming, and Apache Spark. You’ll learn about distributed computing and techniques like machine learning. Hands-on practice.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Report</p>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>R</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>data</category>
+  <category>stats</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/big-data-analytics/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/big-data-analytics/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Data Analysis for Epidemiology</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/data-analysis-for-epidemiology/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/data-analysis-for-epidemiology/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>Run by Masters of Public Health Online. Functionally the same as PUHR11103 Data analysis with R. This is a course for people who already know statistics at an introductory level, but have not done statistics in R - the course will teach learners how to use R for common statistical analyses. Note on Intro Stats &amp; Data Analysis with R: If you are taking one of the above courses, you may not wish to take both. If you took the Intro to stats course and struggled a bit and would like to have another run-through of the content, with slightly more R focus, then taking the Data Analysis course is a good idea. If you are feeling (or by the end of the course do feel) really confident and wants to progress with stats, then Statistical Modelling is a good choice. Just to highlight that the content covered is not significantly different. However, it can be nice to consolidate information if statistical concepts are new to you.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>R</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>stats</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/data-analysis-for-epidemiology/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/data-analysis-for-epidemiology/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Data Analysis with R</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/data-analysis-with-r/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/data-analysis-with-r/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>Run by MSc Epidemiology. Functionally the same as PUHR11063 Data analysis for epidemiology. This is a course for people who already know statistics at an introductory level, but have not done statistics in R - the course will teach learners how to use R for common statistical analyses. Note on Intro Stats &amp; Data Analysis with R: If you are taking one of the above courses, you may not wish to take both. If you took the Intro to stats course and struggled a bit and would like to have another run-through of the content, with slightly more R focus, then taking the Data Analysis course is a good idea. If you are feeling (or by the end of the course do feel) really confident and wants to progress with stats, then Statistical Modelling is a good choice. Just to highlight that the content covered is not significantly different. However, it can be nice to consolidate information if statistical concepts are new to you.</p>
+<p>Apply your knowledge in basic statistics using the R programming language. You will go from the basics of R to writing a full data analysis report, using techniques such as t-tests, chi-square tests, and logistic regression.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Report.</p>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>R</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>data</category>
+  <category>context</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/data-analysis-with-r/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/data-analysis-with-r/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Data Ethics in Health and Social Care</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/data-ethics/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/data-ethics/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>ethics</category>
+  <category>context</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/data-ethics/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/data-ethics/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Data types and structures in R and Pyhon</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/data-types-and-structures/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/data-types-and-structures/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>Learn about the foundations of how data is represented and how to effectively work with the types and structures of data in 2 of the core data science programming languages: Python AND R. Concepts illustrated with examples of data types and structures found in the health and social care context. No prior knowledge is necessary, but helpful to have exposure to at least one of the languages before the course.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Coding tasks and report in both Python and R.</p>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>R and Python</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>data</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/data-types-and-structures/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/data-types-and-structures/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Data visualisation Knowledge Transfer</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/data-visualisation/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/data-visualisation/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>design</category>
+  <category>data</category>
+  <category>scholar</category>
+  <category>qual</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/data-visualisation/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/data-visualisation/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Foundation of research design for data science</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/foundations-of-research-design/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/foundations-of-research-design/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>scholar</category>
+  <category>qual</category>
+  <category>quant</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/foundations-of-research-design/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/foundations-of-research-design/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Foundations of Machine Learning in Health and Social Care</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/foundations-of-machine-learning/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/foundations-of-machine-learning/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>Students MUST have passed: Introduction to statistics in health and social care (HEIN11039) AND Foundations of software development in health and social care (HEIN11066) OR Data Types and Structures in Python and R (HEIN11068)</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>Python</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>data</category>
+  <category>context</category>
+  <category>postgradute</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/foundations-of-machine-learning/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/foundations-of-machine-learning/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Foundations of Software Development in Health and Social Care</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/foundations-of-software-development/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/foundations-of-software-development/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>his is an introductory course in Python programming - it should be taken by students who are absolute beginners to Python and programming practices, and it will provide a solid foundation to using programming to solve issues in health and social care. Learn the philosophy and craft of creating sustainable, well-writtten code. Lots of practice in Python. Witness stories from code creators in H&amp;SC. From complete basics all the way to analysing and visualising simple data.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Coding assessment with mini-report. 3 stars and 1 wish self-reflections.</p>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>Python</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>data</category>
+  <category>context</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/foundations-of-software-development/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/foundations-of-software-development/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Intermediate R Programming for Data Science</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/intermediate-r-programming/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/intermediate-r-programming/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>This course goes beyond the basics of data-manipulation. Learn how to write lower level R code including: loops, functions, and string manipulation. Develop confidence through code review and an awareness of debugging workflows.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Code project and code review.</p>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>R</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>data</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/intermediate-r-programming/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/intermediate-r-programming/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Introduction to Data Science in Health and Social Care</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/Introduction-to-data-science-in-health-and-social-care/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/Introduction-to-data-science-in-health-and-social-care/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>Demystify data science, what it is and what it is not. Introduction to core topics in data science generally and data science in the health and social care context. Build your data science toolkit with R programming for data handling/wrangling and visualisation and RMarkdown authoring framework. Apply the data science process throughout the course in the datathon assignments and build the skills and confidence to write R code from scratch. Foundation for future courses in the Data Science programme. Suitable for absolute beginners to R.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Datathon (data and coding) presentation and report, mini-weekly reports.</p>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>R</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>data</category>
+  <category>context</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/Introduction-to-data-science-in-health-and-social-care/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/Introduction-to-data-science-in-health-and-social-care/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Introduction to Data Science in Health and Social Care</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/applied-research-design/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/applied-research-design/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>Demystify data science, what it is and what it is not. Introduction to core topics in data science generally and data science in the health and social care context. Build your data science toolkit with R programming for data handling/wrangling and visualisation and RMarkdown authoring framework. Apply the data science process throughout the course in the datathon assignments and build the skills and confidence to write R code from scratch. Foundation for future courses in the Data Science programme. Suitable for absolute beginners to R.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Datathon (data and coding) presentation and report, mini-weekly reports.</p>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>R</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>data</category>
+  <category>context</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/applied-research-design/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/applied-research-design/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Introduction to Data Science in Health and Social Care</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/implementation-science/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/implementation-science/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>Demystify data science, what it is and what it is not. Introduction to core topics in data science generally and data science in the health and social care context. Build your data science toolkit with R programming for data handling/wrangling and visualisation and RMarkdown authoring framework. Apply the data science process throughout the course in the datathon assignments and build the skills and confidence to write R code from scratch. Foundation for future courses in the Data Science programme. Suitable for absolute beginners to R.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Datathon (data and coding) presentation and report, mini-weekly reports.</p>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>R</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>data</category>
+  <category>context</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/implementation-science/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/implementation-science/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Introduction to Databases and Information Systems</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/introduction-to-databases/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/introduction-to-databases/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>Explore how databases and information systems help manage health and social care data. This course teaches you how to query remote databases using the SQL language. Plenty of hands-on practice.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Poster about information systems. Data-oriented report.</p>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>SQL, R.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>data</category>
+  <category>context</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/introduction-to-databases/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/introduction-to-databases/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Introduction to GIS and Spatial Data Analysis</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/intro-to-gis-and-spatial-data-analysis/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/intro-to-gis-and-spatial-data-analysis/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>Run by Deanery of Biomedical Sciences. Infectious disease focussed, part of MSc International Animal Health.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>data</category>
+  <category>context</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/intro-to-gis-and-spatial-data-analysis/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/intro-to-gis-and-spatial-data-analysis/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Introduction to Statistics in Health and Social Care</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/intro-to-statistics/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/intro-to-statistics/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+<p>This course will teach basic statistical techniques for describing data and examining relationships between data (correlation, differences between groups, etc.). Note on Intro Stats &amp; Data Analysis with R: If you are taking one of the above courses, you may not wish to take both. If you took the Intro to stats course and struggled a bit and would like to have another run-through of the content, with slightly more R focus, then taking the Data Analysis course is a good idea. If you are feeling (or by the end of the course do feel) really confident and wants to progress with stats, then Statistical Modelling is a good choice.</p>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Report.</p>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>R</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>stats</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/intro-to-statistics/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/intro-to-statistics/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Natural Language Processing</title>
+  <link>https://ddi-talent.github.io/ms-dshsc/msc-courses/natural-language-processing-nlp/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="profile-image-float-left">
+<div class="quarto-figure quarto-figure-centre">
+<figure class="figure">
+<p><img src="https://ddi-talent.github.io/ms-dshsc/msc-courses/natural-language-processing-nlp/.jpg" class="img-fluid quarto-figure quarto-figure-centre figure-img"></p>
+</figure>
+</div>
+</div>
+<section id="about-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="about-this-course">About this course</h2>
+</section>
+<section id="assessment" class="level2">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+</section>
+<section id="programming" class="level2">
+<h2 class="anchored" data-anchor-id="programming">Programming</h2>
+<p>R</p>
+
+
+</section>
+
+ ]]></description>
+  <category>code</category>
+  <category>data</category>
+  <category>context</category>
+  <category>postgraduate</category>
+  <guid>https://ddi-talent.github.io/ms-dshsc/msc-courses/natural-language-processing-nlp/</guid>
+  <pubDate>Mon, 08 Jun 2026 13:57:25 GMT</pubDate>
+  <media:content url="https://ddi-talent.github.io/ms-dshsc/msc-courses/natural-language-processing-nlp/uoe.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

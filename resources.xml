@@ -16,7 +16,7 @@
 <height>144</height>
 <width>144</width>
 </image>
-<generator>quarto-1.8.27</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Thu, 05 Feb 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Pairs Maker. Pair Programming and Groupwork</title>
@@ -39,61 +39,6 @@
   <category>Tools</category>
   <guid>https://ddi-talent.github.io/resources/pair-programming-groups-Feb-2026/</guid>
   <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Course Selection Tool</title>
-  <dc:creator>Pawel Orzechowski</dc:creator>
-  <link>https://ddi-talent.github.io/resources/choose-your-courses-Feb-2026/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p><a href="https://ddi-talent.shinyapps.io/course-dashboard/">Course Selection Tool</a></p>
-
-
-<!-- -->
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section></div> ]]></description>
-  <category>Tools</category>
-  <guid>https://ddi-talent.github.io/resources/choose-your-courses-Feb-2026/</guid>
-  <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Post Title</title>
-  <dc:creator>TODO </dc:creator>
-  <link>https://ddi-talent.github.io/resources/pair-programming-community/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<!--------------- set up ----------------->
-<!--------------- post content ----------------->
-<!--------------- appendices go here ----------------->
-
-
-<div id="quarto-appendix" class="default"><section id="session-info" class="level5 appendix"><div class="quarto-appendix-contents">
-
-<details>
-<summary>
-Toggle
-</summary>
-</details>
-
-
-<!-- -->
-
-</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section></div> ]]></description>
-  <category>TAG_1</category>
-  <category>TAG_2</category>
-  <guid>https://ddi-talent.github.io/resources/pair-programming-community/</guid>
-  <pubDate>Invalid Date</pubDate>
 </item>
 <item>
   <title>Health Data Hackathon</title>
@@ -164,6 +109,61 @@ Toggle
   <category>Events</category>
   <guid>https://ddi-talent.github.io/resources/hackathon-Feb-2026-ems-math-phs/</guid>
   <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Post Title</title>
+  <dc:creator>TODO </dc:creator>
+  <link>https://ddi-talent.github.io/resources/pair-programming-community/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<!--------------- set up ----------------->
+<!--------------- post content ----------------->
+<!--------------- appendices go here ----------------->
+
+
+<div id="quarto-appendix" class="default"><section id="session-info" class="level5 appendix"><div class="quarto-appendix-contents">
+
+<details>
+<summary>
+Toggle
+</summary>
+</details>
+
+
+<!-- -->
+
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section></div> ]]></description>
+  <category>TAG_1</category>
+  <category>TAG_2</category>
+  <guid>https://ddi-talent.github.io/resources/pair-programming-community/</guid>
+  <pubDate>Invalid Date</pubDate>
+</item>
+<item>
+  <title>Course Selection Tool</title>
+  <dc:creator>Pawel Orzechowski</dc:creator>
+  <link>https://ddi-talent.github.io/resources/choose-your-courses-Feb-2026/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p><a href="https://ddi-talent.shinyapps.io/course-dashboard/">Course Selection Tool</a></p>
+
+
+<!-- -->
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section></div> ]]></description>
+  <category>Tools</category>
+  <guid>https://ddi-talent.github.io/resources/choose-your-courses-Feb-2026/</guid>
+  <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
